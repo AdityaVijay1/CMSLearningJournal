@@ -2,7 +2,7 @@
 
 ## Learning Activities & Resources
 This week I have used multiple resources uploaded to LearnJCU and available online, to further understand the topic of Content Management Systems, to learn more about the tools that will be used, that is WordPress and Joomla.
-I have also spent time on refreshing my knowledge in HTML, CSS and a little bit of Javascript as it had been a while since I last coded in them. Lastly, I also learnt about the different types of platforms available for sitehosting to help complete my practical work this week.
+I have also spent time on refreshing my knowledge in HTML, CSS and a little bit of Javascript as it had been a while since I last coded in them. Lastly, I also learnt about the different types of platforms available for site hosting to help complete my practical work this week.
 
 Resources used:
 1) CMS Basics: https://www.youtube.com/watch?v=deqX0gMeUVc&ab_channel=SurfsidePPC
@@ -17,7 +17,7 @@ Resources used:
 I spent approximately 7 hours this week on CMS
 
 ## Content Insights
-This week I learnt alot of things related to CMS, Web Design and the IT industry from the class lecture, practical and online research.
+This week I learnt a lot of things related to CMS, Web Design and the IT industry from the class lecture, practical and online research.
 I refreshed my knowledge of HTML, CSS, and Javascript and also gained new and deeper insight into HTML and CSS through designing and customizing a website for my own coffee cafe/business and indulged in understanding new concepts I hadn't done before.
 Furthermore, I gained insights into a web content management system, WordPress and Joomla through Youtube videos and online articles. I learned about the style of presentation and how to do so on WordPress.
 Lastly, this week I had also learnt about Web hosting and the different platforms that can be used. Seeing the vast varieties of options, I had decided to opt for GitHub due to the following insights I gained about it through research:
