@@ -21,7 +21,7 @@ This week I learnt a lot of things related to CMS, Web Design and the IT industr
 I refreshed my knowledge of HTML, CSS, and Javascript and also gained new and deeper insight into HTML and CSS through designing and customizing a website for my own coffee cafe/business and indulged in understanding new concepts I hadn't done before.
 Furthermore, I gained insights into a web content management system, WordPress and Joomla through Youtube videos and online articles. I learned about the style of presentation and how to do so on WordPress.
 Lastly, this week I had also learnt about Web hosting and the different platforms that can be used. Seeing the vast varieties of options, I had decided to opt for GitHub due to the following insights I gained about it through research:
-1) Free Hosting: GitHub Pages offers free hosting for static websites, making it an economical choice
+1) Free Hosting: GitHub Pages offers free hosting for static websites, making it an economical choice.
 2) Ease of Use: GitHub Pages is designed to be user-friendly, allowing developers to deploy their websites with minimal effort.
 3) Version Control Integration: GitHub Pages seamlessly integrates with GitHub repositories, providing version control functionality. 
 4) Custom Domain Support: GitHub Pages supports custom domains, enabling users to associate their projects with a personalized web address. 
