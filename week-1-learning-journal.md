@@ -46,7 +46,7 @@ Lastly, this week I had also learnt about Web hosting and the different platform
 2) Ease of Use: GitHub Pages is designed to be user-friendly, allowing developers to deploy their websites with minimal effort.
 3) Version Control Integration: GitHub Pages seamlessly integrates with GitHub repositories, providing version control functionality. 
 4) Custom Domain Support: GitHub Pages supports custom domains, enabling users to associate their projects with a personalized web address. 
-
+I have compared this to other web hosting sites such as siteground, infinityfree and hostinger.
 
 ## Career/Employability/Learning Insights
 After completing this practical, I have refreshed and gained deeper and new knowledge in Web design within a limited time frame, indicating opportunities at growth and granting me the opportunity to seize career outcomes when it comes to Web Design, further increasing my employability. 
