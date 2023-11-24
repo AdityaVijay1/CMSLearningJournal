@@ -1,4 +1,25 @@
 # Week 1
+# Use of Learning Journal 
+
+This learning journal serves as a reflective tool, documenting the journey of acquiring new skills, insights, and experiences during the weekly practical sessions. It provides a platform to track learning activities, estimate the time invested, gain content insights, and reflect on career, employability, and learning perspectives.
+
+# Goal: Creating a Website for the Coffee Business
+
+In the context of a coffee business, the decision to create a website stems from the modern business landscape's digital demands. A website is a versatile tool that not only enhances the online presence but also serves as a dynamic platform to engage with customers, showcase products, and streamline business operations. It offers accessibility, convenience, and a competitive edge in the market.
+
+# SMART Goals for Coffee Business Website:
+
+- Specific: Develop a user-friendly website with an intuitive interface, allowing customers to browse the coffee menu, place orders seamlessly, and explore additional information about the business to keep the customer engaged.
+
+- Measurable:  Setting measurable targets for increased online engagement and sales over specific periods which would be around 3 months to see these changes as through marketting and word of mouth we can increase our brand reputation and value.
+
+- Achievable: Ensuring that the website design and features align with the business's current capabilities and resources. Increasing brand awareness through a website
+
+- Relevant: Tailoring the website content to align with the coffee business's brand identity, values, and customer expectations. Ensuring that the information provided is relevant, up-to-date, and compelling.
+
+- Time-Bound: Set a realistic timeline for the website development, testing, and launch. Establish milestones for ongoing updates, improvements, and marketing efforts to drive sustained growth, the aim for our business is to increase customer engagement and reduce the customer acquisition costs.
+
+By adhering to SMART criteria, the coffee business can approach website development with a strategic and goal-oriented mindset, enhancing its online presence and fostering a more connected and dynamic relationship with its customer base.
 
 ## Learning Activities & Resources
 This week I have used multiple resources uploaded to LearnJCU and available online, to further understand the topic of Content Management Systems, to learn more about the tools that will be used, that is WordPress and Joomla.
