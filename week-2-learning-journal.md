@@ -9,6 +9,15 @@ In response to the evolving needs of the contemporary business environment, esta
 
 # SMART Goals for Coffee Business Website:
 
+- Specific: Develop a user-friendly website with dedicated sections for both adults and children, showcasing a diverse product line for each audience along with brief details about the business.
+
+- Measurable: Increase online engagement by implementing features like contacting us, product menus, and online ordering, aiming for a 25% rise in website traffic within the first three months which can be measured through google site analytics.
+
+- Achievable: Collaborate with a skilled web development team to create a visually appealing and functional website that aligns with the business's theme and brand identity.
+
+- Relevant: Address the contemporary demands of the digital market by integrating e-commerce capabilities, online promotions, and a blog section highlighting coffee-related content for enthusiasts.
+
+- Time-bound: Launch the website within the next six months, ensuring all features are thoroughly tested, and an effective marketing strategy is in place for a successful rollout.
 - Specific: Develop a user-friendly website with an intuitive interface, allowing customers to browse the coffee menu, place orders seamlessly, and explore additional information about the business to keep the customer engaged.
 
 - Measurable:  Setting measurable targets for increased online engagement and sales over specific periods which would be around 3 months to see these changes as through marketting and word of mouth we can increase our brand reputation and value.
