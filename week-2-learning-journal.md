@@ -13,20 +13,11 @@ In response to the evolving needs of the contemporary business environment, esta
 
 - Measurable: Increase online engagement by implementing features like contacting us, product menus, and online ordering, aiming for a 25% rise in website traffic within the first three months which can be measured through google site analytics.
 
-- Achievable: Collaborate with a skilled web development team to create a visually appealing and functional website that aligns with the business's theme and brand identity.
-
-- Relevant: Address the contemporary demands of the digital market by integrating e-commerce capabilities, online promotions, and a blog section highlighting coffee-related content for enthusiasts.
-
-- Time-bound: Launch the website within the next six months, ensuring all features are thoroughly tested, and an effective marketing strategy is in place for a successful rollout.
-- Specific: Develop a user-friendly website with an intuitive interface, allowing customers to browse the coffee menu, place orders seamlessly, and explore additional information about the business to keep the customer engaged.
-
-- Measurable:  Setting measurable targets for increased online engagement and sales over specific periods which would be around 3 months to see these changes as through marketting and word of mouth we can increase our brand reputation and value.
-
 - Achievable: Ensuring that the website design and features align with the business's current capabilities and resources. Increasing brand awareness through a website
 
-- Relevant: Tailoring the website content to align with the coffee business's brand identity, values, and customer expectations. Ensuring that the information provided is relevant, up-to-date, and compelling.
+- Relevant:  Tailoring the website content to align with the coffee business's brand identity, values, and customer expectations. Ensuring that the information provided is relevant, up-to-date, and compelling.
 
-- Time-Bound: Set a realistic timeline for the website development, testing, and launch. Establish milestones for ongoing updates, improvements, and marketing efforts to drive sustained growth, the aim for our business is to increase customer engagement and reduce the customer acquisition costs.
+- Time-bound: Set a realistic timeline for the website development, testing, and launch which maybe around 6 months to reach our goals and see results. Establish milestones for ongoing updates, improvements, and marketing efforts to drive sustained growth, the aim for our business is to increase customer engagement and reduce the customer acquisition costs.
 
 By adhering to SMART criteria, the coffee business can approach website development with a strategic and goal-oriented mindset, enhancing its online presence and fostering a more connected and dynamic relationship with its customer base.
 
@@ -76,10 +67,8 @@ SiteGround and Hostinger offer better resources, but they come at a cost.
 Note: For this week's practical, I opted to use the web hosting service offered by Joomla.org as it was suggested by the Professor as a good option to start Joomla with and my InfinityFree website required a few days to get verified so that I can use Joomla and Wordpress on it.
 
 ## Career/Employability/Learning Insights
-After completing this practical, I have refreshed and gained deeper and new knowledge in Web design within a limited time frame, indicating opportunities at growth and granting me the opportunity to seize career outcomes when it comes to Web Design, further increasing my employability. 
-I have learnt more about the industry and what is expected, improved my skills in terms of focusing on design and delivery and not just solely on design as work would require consistent outputs. I learnt to manage my time more efficiently and cover the different aspects of a task within the given time and learn new concepts on the go. This week I did reach my SMART goal.
-These practical tasks along with the lecture helped me take a more mature and logical approach towards the industry and is an extremely valuable life lesson that I learned.
+After completing this practical, the in-depth exploration of Joomla during these activities contributes directly to enhancing skills relevant to web content management systems. Acquiring knowledge about Joomla's capabilities positions me well to manage and optimize content for the coffee business's website. This newfound expertise in Joomla not only strengthens my technical skills but also adds a valuable asset to my repertoire, making me more adept at handling diverse web projects and contributing to my overall employability in the digital landscape.
 
-Practical Work Website Week 1:
-1) https://adityavijay1.GitHub.io/CMS-Week1/
-2) https://adityavijay1.GitHub.io/CMS-Week1/index.html
+Practical Work Website Week 2:
+1) https://adityavijaycms.cloudaccess.host/index.php
+
