@@ -1,4 +1,4 @@
-# Week 1
+# Week 2
 # Use of Learning Journal 
 
 This learning journal serves as a reflective tool, documenting the journey of acquiring new skills, insights, and experiences during the weekly practical sessions. It provides a platform to track learning activities, estimate the time invested, gain content insights, and reflect on career, employability, and learning perspectives.
@@ -6,6 +6,7 @@ This learning journal serves as a reflective tool, documenting the journey of ac
 # Goal: Creating a Website for the Coffee Business with the purpose of inviting/creating an atmosphere for child audience as well, by catering towards them and having a product line for them
 
 In response to the evolving needs of the contemporary business environment, establishing an online presence for the coffee business becomes imperative. Crafting a website is a strategic move that aligns with the digital landscape's requirements, providing a multifaceted solution. This digital platform not only amplifies visibility but also acts as a dynamic hub for customer interaction, product display, and operational efficiency. Embracing a website ensures accessibility, convenience, and a distinctive market advantage.
+
 # SMART Goals for Coffee Business Website:
 
 - Specific: Develop a user-friendly website with an intuitive interface, allowing customers to browse the coffee menu, place orders seamlessly, and explore additional information about the business to keep the customer engaged.
@@ -39,6 +40,9 @@ I spent approximately 9 hours this week on CMS
 This week I learnt a lot of things related to CMS, Web Design and the IT industry from the class lecture, practical and online research.
 I refreshed my knowledge of HTML, CSS, and Javascript and also gained new and deeper insight into HTML and CSS through designing and customizing a website for my own coffee cafe/business and indulged in understanding new concepts I hadn't done before.
 Furthermore, I gained insights into a web content management system, WordPress and Joomla through Youtube videos and online articles. I learned about the style of presentation and how to do so on WordPress.
+TALK ABOUT THE DIFFERENT WEB HOSTING SITES COMPARED 
+WHAT IS THE GOAL OF THE WEBSITE 
+
 Lastly, this week I had also learnt about Web hosting and the different platforms that can be used. Seeing the vast varieties of options, I had decided to opt for GitHub due to the following insights I gained about it through research:
 1) Free Hosting: GitHub Pages offers free hosting for static websites, making it an economical choice.
 2) Ease of Use: GitHub Pages is designed to be user-friendly, allowing developers to deploy their websites with minimal effort.
