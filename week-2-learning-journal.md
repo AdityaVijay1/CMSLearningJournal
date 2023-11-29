@@ -62,13 +62,92 @@ Note: For this week's practical, I opted to use the web hosting service offered 
 I spent approximately 11 hours this week on CMS
 
 ## Content Insights
-This week I learnt a lot of things related to delivering a product, Segmentation-Targetting-Positioning (STP) and the Four Ps (Product,Price,Please,Promotion) from the class lecture, practical and online research.
-This week's practical on joomla provided a significant learning experience, allowing for the creation and customization of a website tailored to the coffee business. The process of working with Joomla unveiled a range of functionalities and tools specific to the content management system. Learning about Joomla's structure, modules, and template customization provided valuable insights into efficient website management. Understanding how to navigate and optimize Joomla's features was particularly enlightening, as it opened up opportunities to efficiently present content and create an engaging online experience for the coffee business.
+This week I learnt a lot of things related to delivering a product, Segmentation-Targetting-Positioning (STP) and the Four Ps (Product,Price,Place,Promotion) from the class lecture, practical and online research.
+This week's practical on Joomla provided a significant learning experience, allowing for the creation and customization of a website tailored to the coffee business. The process of working with Joomla unveiled a range of functionalities and tools specific to the content management system. Learning about Joomla's structure, modules, and template customization provided valuable insights into efficient website management. Understanding how to navigate and optimize Joomla's features was particularly enlightening, as it opened up opportunities to efficiently present content and create an engaging online experience for the coffee business.
 
 
+## Segmentation-Targeting-Positioning (STP) for Caffeine Oasis:
+
+Segmentation:
+
+Demographic:
+
+Adults (18-40)
+Families with children
+Students
+
+Geographic:
+a) Urban and suburban areas
+b) Locations near schools and colleges
+
+Psychographic:
+a) Coffee enthusiasts
+b) Health-conscious consumers
+c) Families seeking a cozy atmosphere
+
+Behavioral:
+a) Regular coffee drinkers
+b) Individuals looking for a variety of coffee options
+c) Customers interested in a kid-friendly environment
+
+Targeting:
+Caffeine Oasis aims to target the following segments:
+
+a) Families with Children:
+Offering a diverse menu, including kid-friendly drinks.
+Creating a welcoming ambiance for families.
+
+b) Coffee Enthusiasts:
+Providing a range of high-quality coffee beans and brewing methods.
+Hosting events and workshops for coffee connoisseurs.
+
+c) Students:
+Introducing budget-friendly options.
+Offering a comfortable space for studying and socializing.
+
+Positioning:
+Caffeine Oasis positions itself as a versatile and inclusive coffee hub:
+
+a) For Families:
+"A Family-Friendly Haven for Coffee Lovers of All Ages."
+Emphasizing a warm atmosphere and a diverse menu for adults and children.
+
+b) For Coffee Enthusiasts:
+"Crafting Moments, One Sip at a Time."
+Highlighting the quality and craftsmanship of our coffee offerings.
+
+c) For Students:
+"Fueling Minds, Igniting Conversations."
+Positioning as a study-friendly environment with affordable options.
+
+Unique Selling Proposition (USP):
+Caffeine Oasis stands out by offering a curated experience for both adults and children, providing a diverse menu, quality coffee, and a warm ambiance, making it the perfect destination for all coffee lovers.
+
+## Four P's:
+1. Product:
+Diverse Coffee Menu: Offering a variety of high-quality coffee beans, brewing methods, and flavors.
+Kid-Friendly Options: Specialized drinks and treats designed for children.
+Snacks and Pastries: Complementing the coffee experience with delicious snacks.
+
+2. Price:
+Competitive Pricing: Ensuring affordability without compromising on quality.
+Student Discounts: Introducing special pricing and promotions for students.
+Value Bundles: Offering combo deals for families and groups.
+
+3. Place:
+Central Location: Situating the coffee shop in urban and suburban areas, accessible to the target audience.
+Cozy Ambiance: Creating a welcoming and comfortable environment for customers.
+Online Presence: Establishing a user-friendly website for online orders and information.
+
+4. Promotion:
+Opening Promotions: Special discounts and freebies during the initial launch phase.
+Loyalty Programs: Introducing rewards for frequent customers and referrals.
+Social Media Campaigns: Engaging with the audience through platforms like Instagram and Facebook.
+Collaborations: Partnering with local events or influencers for wider reach.
+These Four P's collectively form a strategic marketing mix to position Caffeine Oasis as a go-to destination for diverse coffee experiences, catering to individuals, families, and students alike.
 
 ## Career/Employability/Learning Insights
-After completing this practical, the in-depth exploration of Joomla during these activities contributes directly to enhancing skills relevant to web content management systems. Acquiring knowledge about Joomla's capabilities positions me well to manage and optimize content for the coffee business's website. This newfound expertise in Joomla not only strengthens my technical skills but also adds a valuable asset to my repertoire, making me more adept at handling diverse web projects and contributing to my overall employability in the digital landscape.
+After completing this practical, the in-depth exploration of Joomla during these activities contributes directly to enhancing skills relevant to web content management systems. Acquiring knowledge about Joomla's capabilities positions me well to manage and optimize content for the coffee business's website. This newfound expertise in Joomla not only strengthens my technical skills but also adds a valuable asset to my repertoire, I have also learnt more about how to present my work and the quality of work that should be delivered making me more adept at handling diverse web projects and contributing to my overall employability in the digital landscape. 
 
 Practical Work Website Week 2:
 1) https://adityavijaycms.cloudaccess.host/index.php
