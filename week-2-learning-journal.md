@@ -40,24 +40,40 @@ Resources used:
 3) Joomla: https://www.youtube.com/watch?v=I0MBI9Qz-S0&ab_channel=TechExpress
 4) Joomla Website Building: https://www.youtube.com/watch?v=h5VZwTLdgdM&ab_channel=TechRuzzTutorials
 5) Web Hosting: https://www.youtube.com/watch?v=Qbi74ID0BEU&ab_channel=TechExpress
- 
+6) Google Analytics: https://www.youtube.com/watch?v=uHbznbtqz-E&ab_channel=EyeonTech
+7) Google Analytics Details: https://www.techtarget.com/searchcustomerexperience/tip/6-ways-to-use-analytics-to-improve-customer-engagement?utm_source=youtube&utm_medium=description&utm_campaign=042021Google&utm_content=Google&Offer=OTHR-youtube_OTHR-video_OTHR-Google_2021April21_Google
+
 
 ## Estimated Hours
-I spent approximately 9 hours this week on CMS
+I spent approximately 11 hours this week on CMS
 
 ## Content Insights
-This week I learnt a lot of things related to CMS, Web Design and the IT industry from the class lecture, practical and online research.
-I refreshed my knowledge of HTML, CSS, and Javascript and also gained new and deeper insight into HTML and CSS through designing and customizing a website for my own coffee cafe/business and indulged in understanding new concepts I hadn't done before.
-Furthermore, I gained insights into a web content management system, WordPress and Joomla through Youtube videos and online articles. I learned about the style of presentation and how to do so on WordPress.
-TALK ABOUT THE DIFFERENT WEB HOSTING SITES COMPARED 
-WHAT IS THE GOAL OF THE WEBSITE 
+This week I learnt a lot of things related to delivering a product, Segmentation-Targetting-Positioning (STP) and the Four Ps (Product,Price,Please,Promotion) from the class lecture, practical and online research.
+This week's practical on joomla provided a significant learning experience, allowing for the creation and customization of a website tailored to the coffee business. The process of working with Joomla unveiled a range of functionalities and tools specific to the content management system. Learning about Joomla's structure, modules, and template customization provided valuable insights into efficient website management. Understanding how to navigate and optimize Joomla's features was particularly enlightening, as it opened up opportunities to efficiently present content and create an engaging online experience for the coffee business.
 
-Lastly, this week I had also learnt about Web hosting and the different platforms that can be used. Seeing the vast varieties of options, I had decided to opt for GitHub due to the following insights I gained about it through research:
-1) Free Hosting: GitHub Pages offers free hosting for static websites, making it an economical choice.
-2) Ease of Use: GitHub Pages is designed to be user-friendly, allowing developers to deploy their websites with minimal effort.
-3) Version Control Integration: GitHub Pages seamlessly integrates with GitHub repositories, providing version control functionality. 
-4) Custom Domain Support: GitHub Pages supports custom domains, enabling users to associate their projects with a personalized web address. 
-I have compared this to other web hosting sites such as siteground, infinityfree and hostinger.
+
+Web hosting services compared:
+1) Hostinger
+2) InfinityFree
+3) SiteGround
+4) GoogieHost
+5) x10Hosting
+
+Reasons why I chose InfinityFree:
+
+1) Cost-Effective:
+InfinityFree offers free hosting services, making it a budget-friendly option, especially for personal projects or small businesses.
+SiteGround, Hostinger and the others have introductory prices, but they can increase upon renewal.
+
+2) Ease of Use:
+InfinityFree provides a user-friendly interface, making it suitable for beginners.
+Whereas other options do offer user-friendly interfaces but may have more advanced features and some may also be locked behind a paywall.
+
+3) Resource Limitations:
+InfinityFree provides reasonable resources for small websites.
+SiteGround and Hostinger offer better resources, but they come at a cost.
+
+Note: For this week's practical, I opted to use the web hosting service offered by Joomla.org as it was suggested by the Professor as a good option to start Joomla with and my InfinityFree website required a few days to get verified so that I can use Joomla and Wordpress on it.
 
 ## Career/Employability/Learning Insights
 After completing this practical, I have refreshed and gained deeper and new knowledge in Web design within a limited time frame, indicating opportunities at growth and granting me the opportunity to seize career outcomes when it comes to Web Design, further increasing my employability. 
