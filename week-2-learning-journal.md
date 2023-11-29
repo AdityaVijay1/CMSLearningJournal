@@ -34,15 +34,6 @@ Resources used:
 6) Google Analytics: https://www.youtube.com/watch?v=uHbznbtqz-E&ab_channel=EyeonTech
 7) Google Analytics Details: https://www.techtarget.com/searchcustomerexperience/tip/6-ways-to-use-analytics-to-improve-customer-engagement?utm_source=youtube&utm_medium=description&utm_campaign=042021Google&utm_content=Google&Offer=OTHR-youtube_OTHR-video_OTHR-Google_2021April21_Google
 
-
-## Estimated Hours
-I spent approximately 11 hours this week on CMS
-
-## Content Insights
-This week I learnt a lot of things related to delivering a product, Segmentation-Targetting-Positioning (STP) and the Four Ps (Product,Price,Please,Promotion) from the class lecture, practical and online research.
-This week's practical on joomla provided a significant learning experience, allowing for the creation and customization of a website tailored to the coffee business. The process of working with Joomla unveiled a range of functionalities and tools specific to the content management system. Learning about Joomla's structure, modules, and template customization provided valuable insights into efficient website management. Understanding how to navigate and optimize Joomla's features was particularly enlightening, as it opened up opportunities to efficiently present content and create an engaging online experience for the coffee business.
-
-
 Web hosting services compared:
 1) Hostinger
 2) InfinityFree
@@ -65,6 +56,16 @@ InfinityFree provides reasonable resources for small websites.
 SiteGround and Hostinger offer better resources, but they come at a cost.
 
 Note: For this week's practical, I opted to use the web hosting service offered by Joomla.org as it was suggested by the Professor as a good option to start Joomla with and my InfinityFree website required a few days to get verified so that I can use Joomla and Wordpress on it.
+
+
+## Estimated Hours
+I spent approximately 11 hours this week on CMS
+
+## Content Insights
+This week I learnt a lot of things related to delivering a product, Segmentation-Targetting-Positioning (STP) and the Four Ps (Product,Price,Please,Promotion) from the class lecture, practical and online research.
+This week's practical on joomla provided a significant learning experience, allowing for the creation and customization of a website tailored to the coffee business. The process of working with Joomla unveiled a range of functionalities and tools specific to the content management system. Learning about Joomla's structure, modules, and template customization provided valuable insights into efficient website management. Understanding how to navigate and optimize Joomla's features was particularly enlightening, as it opened up opportunities to efficiently present content and create an engaging online experience for the coffee business.
+
+
 
 ## Career/Employability/Learning Insights
 After completing this practical, the in-depth exploration of Joomla during these activities contributes directly to enhancing skills relevant to web content management systems. Acquiring knowledge about Joomla's capabilities positions me well to manage and optimize content for the coffee business's website. This newfound expertise in Joomla not only strengthens my technical skills but also adds a valuable asset to my repertoire, making me more adept at handling diverse web projects and contributing to my overall employability in the digital landscape.
