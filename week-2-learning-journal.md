@@ -89,7 +89,7 @@ Through this week's practical and lecture I understood the need for tailoring co
 ## Segmentation
 
 Demographic:
-a) Adults (18-50)
+a) Adults (18-50) <br> <br>
 b) Families with children
 c) Students
 
