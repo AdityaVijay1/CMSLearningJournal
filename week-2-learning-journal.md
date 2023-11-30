@@ -1,15 +1,30 @@
 # Week 2
+# Overview
+
+Name: Aditya Vijay
+Student ID: 14334303
+
+This overview is intended to provide a description of my website, for Week 2 Practicals in the subject Content Management System. Expanding the audience as younger individuals, students and kids, the website is meticulously designed to be both user-friendly, easily accessible and have products that interest the target audience. 
+
 # Use of Learning Journal 
 
 This learning journal serves as a reflective tool, documenting the journey of acquiring new skills, insights, and experiences during the weekly practical sessions. It provides a platform to track learning activities, estimate the time invested, gain content insights, and reflect on career, employability, and learning perspectives.
 
+
 # Goal: Creating a Website for the Coffee Business with the purpose of inviting/creating an atmosphere for child audience as well, by catering towards them and having a product line for them
+
+In my [Week 1 Website](week 1 https://adityavijay1.github.io/CMS-Week1/index.html) I focused on creating a website for a coffee business which can help increase brand awareness but I mainly targetted young adults and adults. 
+This Week I made a website that targets the younger audience more by:
+1) Providing menu items to their liking
+2) User-Friendly Website
+3) Information about the business
+4) Blogs and other details that provide information and entertainment 
 
 In response to the evolving needs of the contemporary business environment, establishing an online presence for the coffee business becomes imperative. Crafting a website is a strategic move that aligns with the digital landscape's requirements, providing a multifaceted solution. This digital platform not only amplifies visibility but also acts as a dynamic hub for customer interaction, product display, and operational efficiency. Embracing a website ensures accessibility, convenience, and a distinctive market advantage.
 
 # SMART Goals for Coffee Business Website:
 
-- Specific: Develop a user-friendly website with dedicated sections for both adults and children, showcasing a diverse product line for each audience along with brief details about the business.
+- Specific: Develop a user-friendly website with dedicated sections for both adults and children, showcasing a diverse product line for each audience along with brief details about the business that are clear and concise.
 
 - Measurable: Increase online engagement by implementing features like contacting us, product menus, and online ordering, aiming for a 25% rise in website traffic within the first three months which can be measured through google site analytics.
 
