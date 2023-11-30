@@ -137,7 +137,7 @@ c) For Students:
 "Fueling Minds, Igniting Conversations."
 Positioning as a study-friendly environment with affordable options.
 
-# Unique Selling Proposition (USP)
+## Unique Selling Proposition (USP)
 Caffeine Oasis stands out by offering a curated experience for both adults and children, providing a diverse menu, quality coffee, and a warm ambiance, making it the perfect destination for all coffee lovers and beyond.
 
 # Four P's:
