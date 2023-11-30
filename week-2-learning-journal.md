@@ -171,5 +171,5 @@ These Four P's collectively form a strategic marketing mix to position Caffeine 
 - **Learning Insights**: This newfound expertise in Joomla through self learning and practice not only strengthens my technical skills but also adds a valuable asset to my portfolio and increased the value of using different learning resources and online research to get a better understanding of the software. I have also learnt more about how to present my work and the quality of work that should be delivered making me more adept at handling diverse web projects and contributing to my overall employability in the digital landscape. 
 
 # Practical Work Website Week 2:
-1) [Website Week 2 CMS]([url](https://adityavijaycms.cloudaccess.host/index.php)https://adityavijaycms.cloudaccess.host/index.php) 
+1) [Website Week 2 Content Management Systems](https://adityavijaycms.cloudaccess.host/index.php)
 
