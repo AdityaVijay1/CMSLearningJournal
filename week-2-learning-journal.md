@@ -78,8 +78,10 @@ Note: For this week's practical, I opted to use the web hosting service offered 
 I spent approximately 13 hours this week on CMS
 
 # Content Insights
-This week I learnt a lot of things related to delivering a product, Segmentation-Targetting-Positioning (STP) and the Four Ps (Product,Price,Place,Promotion) from the class lecture, practical and online research.
+This week I learnt a lot of things related to delivering a product, Segmentation-Targetting-Positioning (STP) and the Four Ps (Product,Price,Place,Promotion) from the class lecture, practical and online research. I created a website to specifically target a younger audience by providing a product line to their liking and a place for them to study, talk and meet with friends.
 This week's practical on Joomla provided a significant learning experience, allowing for the creation and customization of a website tailored to the coffee business. The process of working with Joomla unveiled a range of functionalities and tools specific to the content management system. Learning about Joomla's structure, modules, and template customization provided valuable insights into efficient website management. Understanding how to navigate and optimize Joomla's features was particularly enlightening, as it opened up opportunities to efficiently present content and create an engaging online experience for the coffee business.
+
+Through this week's practical and lecture I understood the need for tailoring content towards specific demographic to gain attention and awareness towards a brand and was an overall enlightening experience to have a mixture of design, information and technology.
 
 
 # Segmentation-Targeting-Positioning (STP) for Caffeine Oasis:
@@ -162,7 +164,9 @@ Collaborations: Partnering with local events or influencers for wider reach.
 These Four P's collectively form a strategic marketing mix to position Caffeine Oasis as a go-to destination for diverse coffee experiences, catering to individuals, families, and students alike.
 
 # Career/Employability/Learning Insights
-After completing this practical, the in-depth exploration of Joomla during these activities contributes directly to enhancing skills relevant to web content management systems. Acquiring knowledge about Joomla's capabilities positions me well to manage and optimize content for the coffee business's website. This newfound expertise in Joomla not only strengthens my technical skills but also adds a valuable asset to my portfolio, I have also learnt more about how to present my work and the quality of work that should be delivered making me more adept at handling diverse web projects and contributing to my overall employability in the digital landscape. 
+- Career/Employability: After completing this practical, the in-depth exploration of Joomla during these activities contributes directly to enhancing skills relevant to web content management systems. Acquiring knowledge about Joomla's capabilities positions me well to manage and optimize content for business and provided a demonstration of adaptability in web content creation. This week's experience highlighted the importance of a target audience and the different needs and requirements that are needed to provide the target user with a good experience to keep them engaged and interested which provided insights into targeted marketing. 
+
+- Learning Insights: This newfound expertise in Joomla through self learning and practice not only strengthens my technical skills but also adds a valuable asset to my portfolio and increased the value of using different learning resources and online research to get a better understanding of the software. I have also learnt more about how to present my work and the quality of work that should be delivered making me more adept at handling diverse web projects and contributing to my overall employability in the digital landscape. 
 
 # Practical Work Website Week 2:
 1) [Website Week 2 CMS]([url](https://adityavijaycms.cloudaccess.host/index.php)https://adityavijaycms.cloudaccess.host/index.php) 
