@@ -32,7 +32,7 @@ In response to the evolving needs of the contemporary business environment, esta
 
 - Relevant:  Tailoring the website content to align with the coffee business's brand identity, values, and customer expectations. Ensuring that the information provided is relevant, up-to-date, and compelling.
 
-- Time-bound: Set a realistic timeline for the website development, testing, and launch which maybe around 6 months to reach our goals and see results. Establish milestones for ongoing updates, improvements, and marketing efforts to drive sustained growth and maintaining the website with updates, the aim for our business is to increase customer engagement and reduce the customer acquisition costs.
+- Time-bound: Set a realistic timeline for launching the website and establish milestones for ongoing updates, improvements, and marketing efforts to drive sustained growth and maintaining the website with updates, the aim for our business is to increase customer engagement and reduce the customer acquisition costs.
 
 By adhering to SMART criteria, the coffee business can approach website development through Joomla, a Content Management System, with a strategic and goal-oriented mindset, enhancing its online presence and fostering a more connected and dynamic relationship with its customer base.
 
