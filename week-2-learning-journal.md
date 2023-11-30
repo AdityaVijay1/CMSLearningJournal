@@ -13,7 +13,7 @@ This learning journal serves as a reflective tool, documenting the journey of ac
 
 # Goal: Creating a Website for the Coffee Business with the purpose of inviting/creating an atmosphere for child audience as well, by catering towards them and having a product line for them
 
-In my [Week 1 Website](https://adityavijay1.github.io/CMS-Week1/index.html) I focused on creating a website for a coffee business which can help increase brand awareness but I mainly targetted young adults and adults. 
+In my [Week 1 Website](https://adityavijay1.github.io/CMS-Week1/index.html), I focused on creating a website for a coffee business which can help increase brand awareness but I mainly targetted young adults and adults. 
 This Week I made a website that targets the younger audience more by:
 1) Providing menu items to their liking
 2) User-Friendly Website
