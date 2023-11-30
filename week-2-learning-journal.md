@@ -37,7 +37,7 @@ In response to the evolving needs of the contemporary business environment, esta
 By adhering to SMART criteria, the coffee business can approach website development through Joomla, a Content Management System, with a strategic and goal-oriented mindset, enhancing its online presence and fostering a more connected and dynamic relationship with its customer base.
 
 ## Learning Activities & Resources
-This week I have used a lot of information from the practical class and the Professor to understand more about Content Management Systems and the proper way to deliver a product and learnt a lot about Joomla.
+This week I have used a lot of information from the practical class and Professor James to understand more about Content Management Systems and the proper way to deliver a product and learnt a lot about Joomla.
 I have spent several hours trying to understand how does Joomla work and how to make a website using it through the different types of components that it offers. I have also again viewed through multiple web hosting services to find the best ones that offer ease of access.
 
 Resources used:
@@ -48,6 +48,7 @@ Resources used:
 5) Web Hosting: https://www.youtube.com/watch?v=Qbi74ID0BEU&ab_channel=TechExpress
 6) Google Analytics: https://www.youtube.com/watch?v=uHbznbtqz-E&ab_channel=EyeonTech
 7) Google Analytics Details: https://www.techtarget.com/searchcustomerexperience/tip/6-ways-to-use-analytics-to-improve-customer-engagement?utm_source=youtube&utm_medium=description&utm_campaign=042021Google&utm_content=Google&Offer=OTHR-youtube_OTHR-video_OTHR-Google_2021April21_Google
+8) Four P's: https://www.investopedia.com/terms/f/four-ps.asp
 
 Web hosting services compared:
 1) Hostinger
@@ -70,7 +71,7 @@ Whereas other options do offer user-friendly interfaces but may have more advanc
 InfinityFree provides reasonable resources for small websites.
 SiteGround and Hostinger offer better resources, but they come at a cost.
 
-Note: For this week's practical, I opted to use the web hosting service offered by Joomla.org as it was suggested by the Professor as a good option to start Joomla with and my InfinityFree website required a few days to get verified so that I can use Joomla and Wordpress on it.
+Note: For this week's practical, I opted to use the web hosting service offered by Joomla.org as it was suggested by Professor James as a good option to start Joomla with and my InfinityFree website required a few days to get verified so that I can use Joomla and Wordpress on it.
 
 
 # Estimated Hours
@@ -86,7 +87,7 @@ This week's practical on Joomla provided a significant learning experience, allo
 ## Segmentation
 
 Demographic:
-a) Adults (18-40)
+a) Adults (18-50)
 b) Families with children
 c) Students
 
