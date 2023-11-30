@@ -78,7 +78,7 @@ Note: For this week's practical, I opted to use the web hosting service offered 
 
 
 # Estimated Hours
-I spent approximately 13 hours this week on CMS
+I spent approximately 13 hours this week on Content Management Systems (CMS)
 
 # Content Insights
 This week I learnt a lot of things related to delivering a product, Segmentation-Targetting-Positioning (STP) and the Four Ps (Product,Price,Place,Promotion) from the class lecture, practical and online research. I created a website to specifically target a younger audience by providing a product line to their liking and a place for them to study, talk and meet with friends.
