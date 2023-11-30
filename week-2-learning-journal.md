@@ -1,5 +1,5 @@
-# Week 2
-# Overview
+# Week 2 Learning Journal Content Management System
+# Explanation of Content and Learning Journal
 
 Name: Aditya Vijay 
 <br> Student ID: 14334303
