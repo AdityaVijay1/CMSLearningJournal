@@ -73,17 +73,17 @@ SiteGround and Hostinger offer better resources, but they come at a cost.
 Note: For this week's practical, I opted to use the web hosting service offered by Joomla.org as it was suggested by the Professor as a good option to start Joomla with and my InfinityFree website required a few days to get verified so that I can use Joomla and Wordpress on it.
 
 
-## Estimated Hours
+# Estimated Hours
 I spent approximately 13 hours this week on CMS
 
-## Content Insights
+# Content Insights
 This week I learnt a lot of things related to delivering a product, Segmentation-Targetting-Positioning (STP) and the Four Ps (Product,Price,Place,Promotion) from the class lecture, practical and online research.
 This week's practical on Joomla provided a significant learning experience, allowing for the creation and customization of a website tailored to the coffee business. The process of working with Joomla unveiled a range of functionalities and tools specific to the content management system. Learning about Joomla's structure, modules, and template customization provided valuable insights into efficient website management. Understanding how to navigate and optimize Joomla's features was particularly enlightening, as it opened up opportunities to efficiently present content and create an engaging online experience for the coffee business.
 
 
-## Segmentation-Targeting-Positioning (STP) for Caffeine Oasis:
+# Segmentation-Targeting-Positioning (STP) for Caffeine Oasis:
 
-# Segmentation
+## Segmentation
 
 Demographic:
 a) Adults (18-40)
@@ -104,7 +104,7 @@ a) Regular coffee drinkers
 b) Individuals looking for a variety of coffee options
 c) Customers interested in a kid-friendly environment
 
-# Targeting
+## Targeting
 Caffeine Oasis aims to target the following segments:
 
 a) Families with Children:
@@ -119,7 +119,7 @@ c) Students:
 Introducing budget-friendly options.
 Offering a comfortable space for studying and socializing.
 
-# Positioning
+## Positioning
 Caffeine Oasis positions itself as a versatile and inclusive coffee hub:
 
 a) For Families:
@@ -137,7 +137,7 @@ Positioning as a study-friendly environment with affordable options.
 # Unique Selling Proposition (USP)
 Caffeine Oasis stands out by offering a curated experience for both adults and children, providing a diverse menu, quality coffee, and a warm ambiance, making it the perfect destination for all coffee lovers and beyond.
 
-## Four P's:
+# Four P's:
 1. Product:
 Diverse Coffee Menu: Offering a variety of high-quality coffee beans, brewing methods, and flavors.
 Kid-Friendly Options: Specialized drinks and treats designed for children.
@@ -160,9 +160,9 @@ Social Media Campaigns: Engaging with the audience through platforms like Instag
 Collaborations: Partnering with local events or influencers for wider reach.
 These Four P's collectively form a strategic marketing mix to position Caffeine Oasis as a go-to destination for diverse coffee experiences, catering to individuals, families, and students alike.
 
-## Career/Employability/Learning Insights
+# Career/Employability/Learning Insights
 After completing this practical, the in-depth exploration of Joomla during these activities contributes directly to enhancing skills relevant to web content management systems. Acquiring knowledge about Joomla's capabilities positions me well to manage and optimize content for the coffee business's website. This newfound expertise in Joomla not only strengthens my technical skills but also adds a valuable asset to my portfolio, I have also learnt more about how to present my work and the quality of work that should be delivered making me more adept at handling diverse web projects and contributing to my overall employability in the digital landscape. 
 
-Practical Work Website Week 2:
+# Practical Work Website Week 2:
 1) [Website Week 2 CMS]([url](https://adityavijaycms.cloudaccess.host/index.php)https://adityavijaycms.cloudaccess.host/index.php) 
 
