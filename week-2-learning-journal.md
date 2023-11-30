@@ -4,7 +4,7 @@
 Name: Aditya Vijay 
 <br> Student ID: 14334303
 
-This overview is intended to provide a description of my website, for Week 2 Practicals in the subject Content Management System. Expanding the audience as younger individuals, students and kids, the website is meticulously designed to be both user-friendly, easily accessible and have products that interest the target audience. 
+This overview is intended to provide a description of my website, for Week 2 Practicals in the subject Content Management System. Targetting and considering the audience as younger individuals, students and kids, the website is meticulously designed to be both user-friendly, easily accessible and have products that interest the target audience. 
 
 # Use of Learning Journal 
 
