@@ -88,24 +88,24 @@ Through this week's practical and lecture I understood the need for tailoring co
 
 ## Segmentation
 
-Demographic:
-a) Adults (18-50) <br> <br>
-b) Families with children
-c) Students
+Demographic: 
+a) Adults (18-50) <br> 
+b) Families with children <br>
+c) Students<br>
 
-Geographic:
-a) Urban and suburban areas
-b) Locations near schools and colleges
+Geographic: 
+a) Urban and suburban areas <br>
+b) Locations near schools and colleges <br>
 
 Psychographic:
-a) Coffee enthusiasts
-b) Health-conscious consumers
-c) Families seeking a cozy atmosphere
+a) Coffee enthusiasts <br>
+b) Health-conscious consumers <br>
+c) Families seeking a cozy atmosphere <br>
 
-Behavioral:
-a) Regular coffee drinkers
-b) Individuals looking for a variety of coffee options
-c) Customers interested in a kid-friendly environment
+Behavioral: 
+a) Regular coffee drinkers <br>
+b) Individuals looking for a variety of coffee options <br>
+c) Customers interested in a kid-friendly environment <br>
 
 ## Targeting
 Caffeine Oasis aims to target the following segments:
@@ -113,26 +113,26 @@ Caffeine Oasis aims to target the following segments:
 a) Families with Children:
 Offering a diverse menu, including kid-friendly drinks.
 Creating a welcoming ambiance for families.
-
+<br>
 b) Coffee Enthusiasts:
 Providing a range of high-quality coffee beans and brewing methods.
 Hosting events and workshops for coffee connoisseurs.
-
+<br>
 c) Students:
 Introducing budget-friendly options.
 Offering a comfortable space for studying and socializing.
-
+<br>
 ## Positioning
 Caffeine Oasis positions itself as a versatile and inclusive coffee hub:
-
+<br>
 a) For Families:
 "A Family-Friendly Haven for Coffee Lovers of All Ages."
 Emphasizing a warm atmosphere and a diverse menu for adults and children.
-
+<br>
 b) For Coffee Enthusiasts:
 "Crafting Moments, One Sip at a Time."
 Highlighting the quality and craftsmanship of our coffee offerings.
-
+<br>
 c) For Students:
 "Fueling Minds, Igniting Conversations."
 Positioning as a study-friendly environment with affordable options.
@@ -142,30 +142,31 @@ Caffeine Oasis stands out by offering a curated experience for both adults and c
 
 # Four P's:
 1. Product:
-Diverse Coffee Menu: Offering a variety of high-quality coffee beans, brewing methods, and flavors.
-Kid-Friendly Options: Specialized drinks and treats designed for children.
-Snacks and Pastries: Complementing the coffee experience with delicious snacks.
+Diverse Coffee Menu: Offering a variety of high-quality coffee beans, brewing methods, and flavors.<br>
+Kid-Friendly Options: Specialized drinks and treats designed for children.<br>
+Snacks and Pastries: Complementing the coffee experience with delicious snacks.<br>
 
 2. Price:
-Competitive Pricing: Ensuring affordability without compromising on quality.
-Student Discounts: Introducing special pricing and promotions for students.
-Value Bundles: Offering combo deals for families and groups.
+Competitive Pricing: Ensuring affordability without compromising on quality.<br>
+Student Discounts: Introducing special pricing and promotions for students.<br>
+Value Bundles: Offering combo deals for families and groups.<br>
 
 3. Place:
-Central Location: Situating the coffee shop in urban and suburban areas, accessible to the target audience.
-Cozy Ambiance: Creating a welcoming and comfortable environment for customers.
-Online Presence: Establishing a user-friendly website for online orders and information.
+Central Location: Situating the coffee shop in urban and suburban areas, accessible to the target audience.<br>
+Cozy Ambiance: Creating a welcoming and comfortable environment for customers.<br>
+Online Presence: Establishing a user-friendly website for online orders and information.<br>
 
 4. Promotion:
-Opening Promotions: Special discounts and freebies during the initial launch phase.
-Loyalty Programs: Introducing rewards for frequent customers and referrals.
-Social Media Campaigns: Engaging with the audience through platforms like Instagram and Facebook.
-Collaborations: Partnering with local events or influencers for wider reach.
+Opening Promotions: Special discounts and freebies during the initial launch phase.<br>
+Loyalty Programs: Introducing rewards for frequent customers and referrals.<br>
+Social Media Campaigns: Engaging with the audience through platforms like Instagram and Facebook.<br>
+Collaborations: Partnering with local events or influencers for wider reach.<br><br>
+
 These Four P's collectively form a strategic marketing mix to position Caffeine Oasis as a go-to destination for diverse coffee experiences, catering to individuals, families, and students alike.
 
 # Career/Employability/Learning Insights
 - Career/Employability: After completing this practical, the in-depth exploration of Joomla during these activities contributes directly to enhancing skills relevant to web content management systems. Acquiring knowledge about Joomla's capabilities positions me well to manage and optimize content for business and provided a demonstration of adaptability in web content creation. This week's experience highlighted the importance of a target audience and the different needs and requirements that are needed to provide the target user with a good experience to keep them engaged and interested which provided insights into targeted marketing. 
-
+<br>
 - Learning Insights: This newfound expertise in Joomla through self learning and practice not only strengthens my technical skills but also adds a valuable asset to my portfolio and increased the value of using different learning resources and online research to get a better understanding of the software. I have also learnt more about how to present my work and the quality of work that should be delivered making me more adept at handling diverse web projects and contributing to my overall employability in the digital landscape. 
 
 # Practical Work Website Week 2:
