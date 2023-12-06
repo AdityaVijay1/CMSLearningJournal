@@ -13,7 +13,7 @@ This learning journal serves as a reflective tool, documenting the journey of ac
 # Description of the Task
 Create 2 websites using 2 different Content Management Systems, both websites should be for the same idea/company but have different goals and targets. Showcasing the segmentation of a business and how it can be useful to increase a customer base.
 <br>
-# Goal: Creating 2 Websites for a Coffee Business with the purpose of targeting a different audience with each one, which can be extremely useful for improving marketting and acquiring customers. 
+# Goal: Creating 2 Websites for a Coffee Business with the purpose of targeting a different audience with each one, which can be extremely useful for improving marketing and acquiring customers. 
 
 I have decided to make a website for a coffee shop/cafe business that is named Brews & Bubbles Bistro. The idea was born out of a passion of crafting exceptional coffee experiences. In this era of digital connectivity, a website for Brews & Bubbles Bistro is not merely a choice but a necessity. It's a virtual door that opens into the heart of  coffee culture, offering a space where enthusiasts can explore the rich history, diverse offerings, and distinctive charm of each location. The website becomes a portal for engagement, education, and celebration, bringing together a community that shares our love for the artistry and craftsmanship of a perfect cup of coffee. As Brews & Bubbles Bistro continues to grow, the website serves as a dynamic platform to connect with global audience, fostering a sense of belonging and excitement for all things brewed and bubbling.
 
