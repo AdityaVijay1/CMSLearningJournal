@@ -171,7 +171,7 @@ Through this assignment, I understood the need for tailoring content towards spe
 
 Demographic: <br>
 a) Adults (21-50) <br> 
-b) Adults with children <br>
+b) Adults with children/Kids <br>
 c) Young Adults & Students <br>
 
 Geographic: <br>
