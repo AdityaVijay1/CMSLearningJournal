@@ -186,15 +186,15 @@ d) Students and Kids finding a place to interact and socialize <br>
 
 Behavioral: <br>
 a) Regular coffee drinkers and smokers <br>
-b) Individuals looking for a variety of coffee and drink options <br>
-c) Customers interested in a kid-friendly environment <br>
+b) Customers interested in a kid-friendly environment <br>
+c) Individuals looking for a variety of coffee and drink options <br>
 d) Place for networking and socializing <br>
 
 ## Targeting
 Brews & Bubbles Bistro aims to target the following segments:
 
 a) Families with Children:
-Offering a diverse menu, including kid-friendly drinks.
+Offering a diverse menu, including kid-friendly drinks and snacks.
 Creating a welcoming ambiance for families.
 <br>
 b) Coffee Enthusiasts:
@@ -205,6 +205,11 @@ c) Students:
 Introducing budget-friendly options.
 Offering a comfortable space for studying and socializing.
 <br>
+d) Smokers:
+People interested in smoking and having coffee, which not many places provide.
+Offering a relaxing place to do so.
+<br>
+
 ## Positioning
 Caffeine Oasis positions itself as a versatile and inclusive coffee hub:
 <br>
