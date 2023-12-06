@@ -69,35 +69,30 @@ Initiate partnerships with kid-focused websites, lifestyle blogs, and educationa
 - Specific:
 
 Design distinct sections for adults, with content tailored to their interests and needs. Implement a a trendy, visually appealing layout and sophisticated design for adults. 
-Implement user accounts and personalized dashboards for each age group, offering a unique browsing experience. Allow users to customize their profiles, save favorite content, and receive personalized recommendations based on their preferences.
+Offer a unique browsing experience by . Allow users to customize their profiles, save favorite content, and receive personalized recommendations based on their preferences.
 
-Measurable:
+- Measurable:
 
-Monitor user engagement through comments, forum participation, and content sharing, aiming for a 15% increase within three months. Implement tools to track user interactions and analyze engagement metrics.
-Track the growth of user accounts and participation within each segmented section. Measure the increase in user registrations and assess the activity levels within each user account.
-Achievable:
+Monitor user engagement through comments, forum participation, and content sharing, aiming for a 20% increase within three months. Implement tools to track user interactions and analyze engagement metrics. Increase online engagement by implementing features like contacting us, product menus, and online ordering, which can be tracked through viewing active user numbers, content engagement (the specific web pages), and feedback.
+Track the growth of user accounts and participation within this segmented section to see how the targeted customer base engages and whether this dedicated segment has an impact. 
 
-Integrate gamified elements, quizzes, and challenges to enhance user interaction. Create interactive quizzes related to coffee facts for students and adults. Develop fun and educational content. Launch challenges or contests with prizes for young adults to participate in.
-Collaborate with influencers or ambassadors within each category to create exclusive content. Engage influencers who resonate with the interests of each age group to contribute to the website's content.
-Relevant:
+- Achievable:
 
-Regularly update content calendars based on feedback, trending topics, and seasonal interests. Keep the content relevant and aligned with the preferences of each demographic. Implement a feedback mechanism to gather insights from users.
+Tailoring the website content to align with the coffee business's brand identity, values, and customer expectations. Ensuring that the products and store is tailored towards adults. 
+Significant increase in customers who are adults.
+
+- Relevant:
+
+Regularly update content calendars based on feedback, trending topics, and seasonal interests. Keep the content relevant and aligned with the preferences of the  demographic. Implement a feedback mechanism to gather insights from users.
 Create an interactive community forum for adults, fostering discussions and connections. Provide a platform for adult users to share experiences, tips, and recommendations related to coffee.
-Time-Bound:
+
+- Time-Bound:
 
 Launch targeted email campaigns and promotions to encourage sign-ups within the first two weeks. Use email marketing to promote the website's features and encourage users to create accounts.
-Initiate partnerships with student organizations, parenting forums, and lifestyle influencers within the first month. Establish collaborations to increase the website's visibility and attract the target audience for each segment.
+Initiate partnerships with student organizations, parenting forums, and lifestyle influencers within the first month and sponsor a few events to help increase word of mouth as that is a free form of marketing. Establish collaborations to increase the website's visibility and attract the target audience for each segment.
 
-- Specific: Develop a user-friendly website with dedicated sections for both adults and children, showcasing a diverse product line for each audience along with brief details about the business that are clear and concise.
 
-- Measurable: Increase online engagement by implementing features like contacting us, product menus, and online ordering, aiming for a 25% rise in website traffic within the first three months which can be measured through google site analytics and viewing active user numbers, content engagement (the specific web pages), and feedback.
-
-- Achievable: 
-- Relevant:  Tailoring the website content to align with the coffee business's brand identity, values, and customer expectations. Ensuring that the information provided is relevant, up-to-date, and compelling.
-
-- Time-bound: Set a realistic timeline for launching the website and establish milestones for ongoing updates, improvements, and marketing efforts to drive sustained growth and maintaining the website with updates, the aim for our business is to increase customer engagement and reduce the customer acquisition costs.
-
-By adhering to SMART criteria, the coffee business can approach website development through Joomla, a Content Management System, with a strategic and goal-oriented mindset, enhancing its online presence and fostering a more connected and dynamic relationship with its customer base.
+By adhering to SMART criteria, the coffee business can approach website development through Joomla and WordPress, Content Management Systems, with a strategic and goal-oriented mindset, enhancing its online presence and fostering a more connected and dynamic relationship with its customer base.
 
 ## Learning Activities & Resources
 This week I have used a lot of information from the practical class and Professor James to understand more about Content Management Systems and the proper way to deliver a product and learnt a lot about Joomla.
