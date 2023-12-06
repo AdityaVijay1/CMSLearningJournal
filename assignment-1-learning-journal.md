@@ -140,7 +140,25 @@ For both websites, I have done paid hosting to ensure that the website can be we
 I spent approximately 22 hours this week on CMS Assignment 1
 
 # Content Insights
-This week I learnt a lot of things related to delivering a product, Segmentation-Targetting-Positioning (STP) and the Four Ps (Product,Price,Place,Promotion) from the class lecture, practical and online research. I created a website to specifically target a younger audience by providing a product line to their liking and a place for them to study, talk and meet with friends.
+This week I learnt a lot of things related to Joomla, WordPress, Segmentation-Targetting-Positioning (STP) and the Four Ps (Product,Price,Place,Promotion) from the class lecture, practical work and online research. I created two different websites with different targeted goals based on the demographic of the business and created a website to specifically target a younger audience by providing a product line to their liking and a place for them to study, talk and meet with friends and the second website specifically targeting only adults, by providing them with a combination of coffee and smoking that has a huge customer base but not a lot of places that offer them. For this assignment, I had done plenty of research that has allowed me to learn a wide variety features and knowledge about Joomla and WordPress. 
+
+For the Joomla Website, I had to learn a lot about the customization it offered and how I can use them to design and match my goal for the website to have an appropriate layout and designs. I had installed extensions that required me to learn a lot about as they each consisted of their own unique features.
+
+Extensions and Plugins Used:
+1) Slide Show Extension: Used for showcasing different slides that are extremely useful to gain attention to certain pages and highlight important points
+2) Komento Extension: Used, so that users can leave comments on the websites.
+3) Contact Us Form: Used, so that users can easily contact the business with any queries or feedback
+4) Akeeba Backup: As I was experimenting with different plugins and extensions, I had to use this plugin so that I could reach my last saved point in case anything went wrong
+<br>
+For my WordPress Website, I had to learn a lot about WordPress in a short period of time, as I had only a little experience with it. The demographic chosen are the main customer base for this business and are highly important to be catered to, for the business and the website to be a success. I have learned a lot about the similarities and differences between Joomla and WordPress through this assignment.I have also utilized plugins for WordPress as well.
+
+Extensions and Plugins Used:
+1) Yoast SEO: Since this website, contains a lot of text, images and videos it is highly important to use an SEO to understand how the website would be scanned to help increase the chances of a user finding the website. Yoast SEO provides you with details and the SEO score of your page, using this information you can help make your website better
+2) WooCommerce: I have attempted to setup a menu ordering system on the website, that can help add items to carts and check the total.
+3) Akismet Anti-spam Spam Protection: Since the website has a blog page, this plugin helps prevent spam from happening and is very useful in filtering out unwanted messages.
+<br>
+
+
 This week's practical on Joomla provided a significant learning experience, allowing for the creation and customization of a website tailored to the coffee business. The process of working with Joomla unveiled a range of functionalities and tools specific to the content management system. Learning about Joomla's structure, modules, and template customization provided valuable insights into efficient website management. Understanding how to navigate and optimize Joomla's features was particularly enlightening, as it opened up opportunities to efficiently present content and create an engaging online experience for the coffee business.
 
 Through this week's practical and lecture I understood the need for tailoring content towards specific demographic to gain attention and awareness towards a brand and was an overall enlightening experience to have a mixture of design, information and technology.
