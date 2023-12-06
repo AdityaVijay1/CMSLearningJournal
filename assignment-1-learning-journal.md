@@ -31,7 +31,7 @@ This assignment helps create a:
 3) Information about the business
 4) Blogs and other details that provide information and entertainment 
 5) Wide variety menu
-6) Details about the business that can help increase visits to stores
+6) Details about the business that can help increase visits to the stores
 
 In response to the evolving needs of the contemporary business environment, establishing an online presence for the coffee business becomes imperative. Crafting a website is a strategic move that aligns with the digital landscape's requirements, providing a multifaceted solution. This digital platform not only amplifies visibility but also acts as a dynamic hub for customer interaction, product display, and operational efficiency. Embracing a website ensures accessibility, convenience, and a distinctive market advantage.
 <br>
