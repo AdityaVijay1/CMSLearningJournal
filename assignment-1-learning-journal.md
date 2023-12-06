@@ -159,36 +159,39 @@ Extensions and Plugins Used:
 <br>
 
 
-This week's practical on Joomla provided a significant learning experience, allowing for the creation and customization of a website tailored to the coffee business. The process of working with Joomla unveiled a range of functionalities and tools specific to the content management system. Learning about Joomla's structure, modules, and template customization provided valuable insights into efficient website management. Understanding how to navigate and optimize Joomla's features was particularly enlightening, as it opened up opportunities to efficiently present content and create an engaging online experience for the coffee business.
+This assignment has provided a significant learning experience, greatly expanded my knowledge, drive for self learning and research allowing for the creation and customization of websites tailored to a coffee business with proper goal-driven targets. The process of working with both Joomla and WordPress unveiled a range of functionalities and tools specific to the content management system. Learning about Joomla's structure, modules, and template customization provided valuable insights into efficient website management and WordPress's unique structure, system and template customization as well provided deeper insights on Content Management Systems. Understanding how to navigate and optimize these different features was particularly enlightening, as it opened up opportunities to efficiently present content, reach different goals and create an overall engaging online experience for the coffee business.
 
-Through this week's practical and lecture I understood the need for tailoring content towards specific demographic to gain attention and awareness towards a brand and was an overall enlightening experience to have a mixture of design, information and technology.
+Through this assignment, I understood the need for tailoring content towards specific demographic to gain attention and awareness towards a brand and was an overall enlightening experience to have a mixture of design, information and technology.
 
 
-# Segmentation-Targeting-Positioning (STP) for Caffeine Oasis:
+# Segmentation-Targeting-Positioning (STP) for Brews & Bubbles Bistro:
 
 ## Segmentation
 
 Demographic: <br>
-a) Adults (18-50) <br> 
-b) Families with children <br>
-c) Students <br>
+a) Adults (21-50) <br> 
+b) Adults with children <br>
+c) Young Adults & Students <br>
 
 Geographic: <br>
 a) Urban and suburban areas <br>
 b) Locations near schools and colleges <br>
+c) 4 Different Countries (Singapore, China, Paris, Los Angeles) <br>
 
 Psychographic: <br>
 a) Coffee enthusiasts <br>
 b) Health-conscious consumers <br>
 c) Families seeking a cozy atmosphere <br>
+d) Students and Kids finding a place to interact and socialize <br>
 
 Behavioral: <br>
-a) Regular coffee drinkers <br>
-b) Individuals looking for a variety of coffee options <br>
+a) Regular coffee drinkers and smokers <br>
+b) Individuals looking for a variety of coffee and drink options <br>
 c) Customers interested in a kid-friendly environment <br>
+d) Place for networking and socializing <br>
 
 ## Targeting
-Caffeine Oasis aims to target the following segments:
+Brews & Bubbles Bistro aims to target the following segments:
 
 a) Families with Children:
 Offering a diverse menu, including kid-friendly drinks.
