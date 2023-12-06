@@ -4,7 +4,7 @@
 Name: Aditya Vijay 
 <br> Student ID: 14334303
 
-This overview is intended to provide a description of the two websites, for Assignment 1 in the subject Content Management System. Targetting and considering the audience as both younger individuals, students and kids, and just adults the website is meticulously designed to be both user-friendly, easily accessible and have products that interest the target audience and have something that piques interest from all of them for the business . 
+This overview is intended to provide a description of the two websites, for Assignment 1 in the subject Content Management System, details about the goals, SMART goals, the different learning outcomes and how this can lead to career development, insights and employability. Targetting and considering the audience as both younger individuals, students and kids, and just adults the website is meticulously designed to be both user-friendly, easily accessible and have products that interest the target audience and have something that piques interest from all of them for the business. 
 
 # Use of Learning Journal 
 
