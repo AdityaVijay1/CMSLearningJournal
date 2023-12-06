@@ -224,28 +224,37 @@ Highlighting the quality and craftsmanship of our coffee offerings.
 c) For Students:
 "Fueling Minds, Igniting Conversations."
 Positioning as a study-friendly environment with affordable options.
+<br>
+d) For Smokers:
+" Relax and kick back a little, have a bevarage and a smoke."
+Positioning as a place, to cool off and relax, interact with friends with quality beverages.
+<br>
 
 ## Unique Selling Proposition (USP)
-Brews & Bubbles Bistro stands out by offering a curated experience for both adults and children, providing a diverse menu, quality coffee, and a warm ambiance, making it the perfect destination for all coffee lovers and beyond.
+Brews & Bubbles Bistro stands out by offering a curated experience for both adults and children, providing a diverse menu, quality coffee, and a warm ambiance, making it the perfect destination for all coffee lovers and beyond. It offers a place for the largest consumers of coffee who are adultss to interact and enjoy the essence of coffee and other beverages along with smoking which not many places offer at all.
 
 # Four P's:
 1. **Product**:
 Diverse Coffee Menu: Offering a variety of high-quality coffee beans, brewing methods, and flavors.<br>
 Kid-Friendly Options: Specialized drinks and treats designed for children.<br>
 Snacks and Pastries: Complementing the coffee experience with delicious snacks.<br>
+Adult-oriented Menus: Sections that have beverages, that pair well with having a smoke. <br>
 
 2. **Price**:
 Competitive Pricing: Ensuring affordability without compromising on quality.<br>
 Student Discounts: Introducing special pricing and promotions for students.<br>
 Value Bundles: Offering combo deals for families and groups.<br>
+Better Market Pricing: Deals and offers provided have been compared to beat out competition. <br>
 
 3. **Place**:
 Central Location: Situating the coffee shop in urban and suburban areas, accessible to the target audience.<br>
 Cozy Ambiance: Creating a welcoming and comfortable environment for customers.<br>
+Locations: 4 Locations around the world, along with 3 stores in each of them, which helps increase the ease of access for customers. <br>
 Online Presence: Establishing a user-friendly website for online orders and information.<br>
 
 4. **Promotion**:
 Opening Promotions: Special discounts and freebies during the initial launch phase.<br>
+Website Engagement: Engagements through the website, code drops for discounts, blog posts, etc. <br>
 Loyalty Programs: Introducing rewards for frequent customers and referrals.<br>
 Social Media Campaigns: Engaging with the audience through platforms like Instagram and Facebook.<br>
 Collaborations: Partnering with local events or influencers for wider reach.<br><br>
@@ -253,7 +262,7 @@ Collaborations: Partnering with local events or influencers for wider reach.<br>
 These Four P's collectively form a strategic marketing mix to position Brews & Bubbles Bistro as a go-to destination for diverse coffee experiences, catering to individuals, families, and students alike.
 
 # Career/Employability/Learning Insights
-- **Career/Employability**: After completing this practical, the in-depth exploration of Joomla during these activities contributes directly to enhancing skills relevant to web content management systems. Acquiring knowledge about Joomla's capabilities positions me well to manage and optimize content for business and provided a demonstration of adaptability in web content creation. This week's experience highlighted the importance of a target audience and the different needs and requirements that are needed to provide the target user with a good experience to keep them engaged and interested which provided insights into targeted marketing. 
+- **Career/Employability**: After completing this assignment, the in-depth exploration of the different Content Management Systems available, more specifically Joomla and WordPress that I decided to use during these activities contributes directly to enhancing skills relevant to web content management systems. Acquiring knowledge about their capabilities suhc as their features, customization process, the use of different plugins and extensions, value of user input/feedback positions me well to manage and optimize content for business and provided a demonstration of adaptability in web content creation. This experience highlighted the importance of a target audience and the different needs and requirements that are needed to provide the target user with a good experience to keep them engaged and interested which provided insights into targeted marketing. 
 <br>
 
 - **Learning Insights**: This newfound expertise in Joomla through self learning and practice not only strengthens my technical skills but also adds a valuable asset to my portfolio and increased the value of using different learning resources and online research to get a better understanding of the software. I have also learnt more about how to present my work and the quality of work that should be delivered making me more adept at handling diverse web projects and contributing to my overall employability in the digital landscape. 
