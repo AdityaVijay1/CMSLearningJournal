@@ -75,7 +75,7 @@ Offer a unique browsing experience by  allowing users to customize their profile
 
 - Measurable:
 
-Monitor user engagement through comments, forum participation, and content sharing, aiming for a 20% increase within three months. Implement tools to track user interactions and analyze engagement metrics. Increase online engagement by implementing features like contacting us, product menus, and online ordering, which can be tracked through viewing active user numbers, content engagement (the specific web pages), and feedback.
+Monitor user engagement through comments, forum participation, and content sharing, aiming for a 20% increase within three months. Implement tools to track user interactions and analyze engagement metrics. This can be done through google analytics. Increase online engagement by implementing features like contacting us, product menus, and online ordering, which can be tracked through viewing active user numbers, content engagement (the specific web pages), and feedback. 
 Track the growth of user accounts and participation within this segmented section to see how the targeted customer base engages and whether this dedicated segment has an impact. 
 
 - Achievable:
@@ -96,29 +96,31 @@ Initiate partnerships with organizations, forums, and lifestyle influencers with
 By adhering to SMART criteria, the coffee business can approach website development through Joomla and WordPress, Content Management Systems, with a strategic and goal-oriented mindset, enhancing its online presence and fostering a more connected and dynamic relationship with its customer base.
 
 ## Learning Activities & Resources
-This week I have used a lot of information from the practical class and Professor James to understand more about Content Management Systems and the proper way to deliver a product and learnt a lot about Joomla.
-I have spent several hours trying to understand how does Joomla work and how to make a website using it through the different types of components that it offers. I have also again viewed through multiple web hosting services to find the best ones that offer ease of access.
+During the assignment I have used plenty of information gained from Professor's perspective of my topic, class lecture, practical work done and a lot of articles and videos online to understand more about Content Management Systems, Joomla, WordPress and the proper way to deliver a product which serves its targeted purpose.
+I have spent several hours trying to understand how does Joomla and WordPress work and how to make a website using it through the different types of components that both of them offer. I have also again viewed through multiple web hosting services to find the best ones that offer ease of access as the one I had found last week stopped working.
 
 Resources used:
-1) CMS Basics: https://www.youtube.com/watch?v=deqX0gMeUVc&ab_channel=SurfsidePPC
+1) Joomla Website Building: https://www.youtube.com/watch?v=h5VZwTLdgdM&ab_channel=TechRuzzTutorials
 2) Joomla Blog Practice: https://www.youtube.com/watch?v=FzMCGy7XFvo&ab_channel=TechRuzzTutorials
-3) Joomla: https://www.youtube.com/watch?v=I0MBI9Qz-S0&ab_channel=TechExpress
-4) Joomla Website Building: https://www.youtube.com/watch?v=h5VZwTLdgdM&ab_channel=TechRuzzTutorials
-5) Web Hosting: https://www.youtube.com/watch?v=Qbi74ID0BEU&ab_channel=TechExpress
-6) Google Analytics: https://www.youtube.com/watch?v=uHbznbtqz-E&ab_channel=EyeonTech
-7) Google Analytics Details: https://www.techtarget.com/searchcustomerexperience/tip/6-ways-to-use-analytics-to-improve-customer-engagement?utm_source=youtube&utm_medium=description&utm_campaign=042021Google&utm_content=Google&Offer=OTHR-youtube_OTHR-video_OTHR-Google_2021April21_Google
+3) WordPress Website Building: https://www.youtube.com/watch?v=O79pJ7qXwoE&t=2011s&ab_channel=freeCodeCamp.org
+4) Web Hosting: https://www.youtube.com/watch?v=Qbi74ID0BEU&ab_channel=TechExpress
+5) WordPress on AWS: https://www.youtube.com/watch?v=05jr0XdB00U&ab_channel=DarrelWilson
+6) AWS: https://www.youtube.com/watch?v=wzhTAwRbdXw&ab_channel=AmazonWebServices
+7) Google Analytics: https://www.youtube.com/watch?v=uHbznbtqz-E&ab_channel=EyeonTech
+8) Google Analytics Details: https://www.techtarget.com/searchcustomerexperience/tip/6-ways-to-use-analytics-to-improve-customer-engagement?utm_source=youtube&utm_medium=description&utm_campaign=042021Google&utm_content=Google&Offer=OTHR-youtube_OTHR-video_OTHR-Google_2021April21_Google
 8) Four P's: https://www.investopedia.com/terms/f/four-ps.asp
+9) STP: https://www.yieldify.com/blog/stp-marketing-model/
+10) Web Hosting Sites Comparison: https://www.youtube.com/watch?v=PNaSC74vm9M&t=397s&ab_channel=DarrelWilson
 
 Web hosting services compared:
 1) Hostinger
 2) InfinityFree
 3) SiteGround
-4) GoogieHost
-5) x10Hosting
+4) AWS
 
-Reasons why I chose InfinityFree:
+Reasons why I chose AWS:
 
-1) Cost-Effective:
+1) Reasonable Cost and Comfort:
 InfinityFree offers free hosting services, making it a budget-friendly option, especially for personal projects or small businesses.
 SiteGround, Hostinger and the others have introductory prices, but they can increase upon renewal.
 
@@ -134,7 +136,7 @@ Note: For this week's practical, I opted to use the web hosting service offered 
 
 
 # Estimated Hours
-I spent approximately 13 hours this week on CMS
+I spent approximately 22 hours this week on CMS Assignment 1
 
 # Content Insights
 This week I learnt a lot of things related to delivering a product, Segmentation-Targetting-Positioning (STP) and the Four Ps (Product,Price,Place,Promotion) from the class lecture, practical and online research. I created a website to specifically target a younger audience by providing a product line to their liking and a place for them to study, talk and meet with friends.
