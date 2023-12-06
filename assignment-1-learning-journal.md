@@ -70,8 +70,8 @@ Initiate partnerships with kid-focused websites, lifestyle blogs, and educationa
 
 - Specific:
 
-Design distinct sections for adults, with content tailored to their interests and needs. Implement a a trendy, visually appealing layout and sophisticated design for adults. 
-Offer a unique browsing experience by . Allow users to customize their profiles, save favorite content, and receive personalized recommendations based on their preferences.
+Design distinct sections for adults, with content tailored to their interests and needs. Implement a trendy, visually appealing layout and sophisticated design for adults. 
+Offer a unique browsing experience by  allowing users to customize their profiles, save favorite content, and receive personalized recommendations based on their preferences which can be automatically done through cookie setups and responses.
 
 - Measurable:
 
@@ -91,8 +91,7 @@ Create an interactive community forum for adults, fostering discussions and conn
 - Time-Bound:
 
 Launch targeted email campaigns and promotions to encourage sign-ups within the first two weeks. Use email marketing to promote the website's features and encourage users to create accounts.
-Initiate partnerships with student organizations, parenting forums, and lifestyle influencers within the first month and sponsor a few events to help increase word of mouth as that is a free form of marketing. Establish collaborations to increase the website's visibility and attract the target audience for each segment.
-
+Initiate partnerships with organizations, forums, and lifestyle influencers within the first month and sponsor a few events to help increase word of mouth as that is a free form of marketing. Establish collaborations to increase the website's visibility and attract the target audience for each segment.
 
 By adhering to SMART criteria, the coffee business can approach website development through Joomla and WordPress, Content Management Systems, with a strategic and goal-oriented mindset, enhancing its online presence and fostering a more connected and dynamic relationship with its customer base.
 
