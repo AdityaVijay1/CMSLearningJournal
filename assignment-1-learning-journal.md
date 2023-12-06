@@ -116,23 +116,24 @@ Web hosting services compared:
 1) Hostinger
 2) InfinityFree
 3) SiteGround
-4) AWS
+4) Amazon Web Services (AWS)
 
 Reasons why I chose AWS:
 
 1) Reasonable Cost and Comfort:
-InfinityFree offers free hosting services, making it a budget-friendly option, especially for personal projects or small businesses.
-SiteGround, Hostinger and the others have introductory prices, but they can increase upon renewal.
+Although there are free options such as InfinityFree  making it a budget-friendly option, it had a lot of problems regarding the security and the way of accessing the website.
+SiteGround, Hostinger and Amazon Web Services do have introductory prices, however I chose Amazon Web Services as I found the ease of access to it was much better and allowed me to maintain both websites .
 
 2) Ease of Use:
-InfinityFree provides a user-friendly interface, making it suitable for beginners.
-Whereas other options do offer user-friendly interfaces but may have more advanced features and some may also be locked behind a paywall.
+Amazon Web Services provides a user-friendly interface, making it possible to reach your domain with 2 simple clicks, extremely suitable for beginners.
+Whereas other options do offer user-friendly interfaces but may have more advanced features which may confuse a beginner.
 
 3) Resource Limitations:
-InfinityFree provides reasonable resources for small websites.
+InfinityFree provides limited resources for small websites.
 SiteGround and Hostinger offer better resources, but they come at a cost.
+Amazon Web Services provides a good amount of resources at a lower cost as compared to the others
 
-Note: For this week's practical, I opted to use the web hosting service offered by Joomla.org as it was suggested by Professor James as a good option to start Joomla with and my InfinityFree website required a few days to get verified so that I can use Joomla and Wordpress on it.
+For both websites, I have done paid hosting to ensure that the website can be well maintained and updated for the future with any changes that come about, which is crucial for Content Management Systems
 
 
 # Estimated Hours
