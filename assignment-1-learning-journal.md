@@ -23,7 +23,7 @@ In essence, these two websites work synergistically to achieve the dual objectiv
 
 In my [Week 1 Website](https://adityavijay1.github.io/CMS-Week1/index.html), [Week 2 Website](https://adityavijaycms.cloudaccess.host/index.php) and [Week 3 Website](https://adityavijaycmsprac.cloudaccess.host/), I made them each with different goals that can help contribute to the overall success of a website for a business. From each of these, through research and practical work I have learnt a lot about the industry standard and the importance of brand awareness that can help increase results of a business. Combining my knowledge and experience of these practicals along with my extensive online research, I have used them to build the two websites.
 
-This assignment helps:
+This assignment helps create a: 
 1) Defined target audience
 2) A user-friendly website
 3) Information about the business
@@ -35,12 +35,64 @@ In response to the evolving needs of the contemporary business environment, esta
 
 # SMART Goals for Coffee Business Website:
 
+
+## SMART Goals for Website 1: Comprehensive Brand Awareness
+
+- Specific:
+
+Develop age-appropriate content for kids, such as engaging activities and informative content. Tailor content for young adults by focusing on trendy coffee trends and lifestyle blogs. Provide students with engrossing resources about coffee origins and brewing techniques. Emphasize the sophisticated and relaxing aspects of coffee culture for adults.
+Implement a segmented marketing strategy by using the website and links to different social media platforms. Utilize platforms like YouTube Kids for kids, engaging with child-friendly influencers. Tailor content for young adults on platforms like Instagram and TikTok which are comfortable to see in a short period of time before they lose interest. Share content and business achievements for students on platforms like LinkedIn and X (Twitter). Utilize Facebook and Pinterest for lifestyle-focused material for adults.
+
+- Measurable:
+
+Track website traffic using analytics tools, such as google analytics on the website aiming for a 30% increase in overall visits within three months. Monitor the performance of each demographic-specific page.
+Reducing customer acquisition costs would be the main goal that can be done once a well established brand name is created which can be done through having a website which greatly increases online presence.
+Monitor engagement metrics, including likes, shares, and comments, with a goal of a 20% rise across all demographics to understand more about the customer base as well as the specific ones for the business. Measure the effectiveness of content and product through customer surveys and feedback.
+
+- Achievable:
+
+Ensuring that the website design and features align with the business's current capabilities and resources and is also catered towards the user's needs and keeps the user engaged to be interested in the website . Increasing brand awareness through a website.
+Offer incentives such as discounts or exclusive content that they maybe able to reach/achieve through buying products for the purpose increasing engagement.
+
+- Relevant:
+
+Regularly update the blog section with content addressing trending topics within each demographic. Keep content fresh, interesting, and aligned with the specific interests of each age group. Position the website as a place where young adults and students can study or possibly work.
+Collect and feature customer testimonials and stories, emphasizing the positive experiences of different age groups. Highlight diverse customer experiences to make the brand relatable.
+
+- Time-Bound:
+
+Launch targeted ad campaigns on the website and social media platforms within the first month. Utilize paid advertising to reach specific demographics and maximize visibility.
+Initiate partnerships with kid-focused websites, lifestyle blogs, and educational platforms within the first two months. Strengthen the brand's presence through collaborations that resonate with each age group. Set a realistic timeline for launching the website and establish milestones for ongoing updates, improvements, and marketing efforts to drive sustained growth and maintaining the website with updates, the aim for our business is to increase customer engagement and reduce the customer acquisition costs.
+
+## SMART Goals for Website 2: Targeted Engagement
+
+- Specific:
+
+Design distinct sections for adults, with content tailored to their interests and needs. Implement a a trendy, visually appealing layout and sophisticated design for adults. 
+Implement user accounts and personalized dashboards for each age group, offering a unique browsing experience. Allow users to customize their profiles, save favorite content, and receive personalized recommendations based on their preferences.
+
+Measurable:
+
+Monitor user engagement through comments, forum participation, and content sharing, aiming for a 15% increase within three months. Implement tools to track user interactions and analyze engagement metrics.
+Track the growth of user accounts and participation within each segmented section. Measure the increase in user registrations and assess the activity levels within each user account.
+Achievable:
+
+Integrate gamified elements, quizzes, and challenges to enhance user interaction. Create interactive quizzes related to coffee facts for students and adults. Develop fun and educational content. Launch challenges or contests with prizes for young adults to participate in.
+Collaborate with influencers or ambassadors within each category to create exclusive content. Engage influencers who resonate with the interests of each age group to contribute to the website's content.
+Relevant:
+
+Regularly update content calendars based on feedback, trending topics, and seasonal interests. Keep the content relevant and aligned with the preferences of each demographic. Implement a feedback mechanism to gather insights from users.
+Create an interactive community forum for adults, fostering discussions and connections. Provide a platform for adult users to share experiences, tips, and recommendations related to coffee.
+Time-Bound:
+
+Launch targeted email campaigns and promotions to encourage sign-ups within the first two weeks. Use email marketing to promote the website's features and encourage users to create accounts.
+Initiate partnerships with student organizations, parenting forums, and lifestyle influencers within the first month. Establish collaborations to increase the website's visibility and attract the target audience for each segment.
+
 - Specific: Develop a user-friendly website with dedicated sections for both adults and children, showcasing a diverse product line for each audience along with brief details about the business that are clear and concise.
 
 - Measurable: Increase online engagement by implementing features like contacting us, product menus, and online ordering, aiming for a 25% rise in website traffic within the first three months which can be measured through google site analytics and viewing active user numbers, content engagement (the specific web pages), and feedback.
 
-- Achievable: Ensuring that the website design and features align with the business's current capabilities and resources and is also catered towards the user's needs. Increasing brand awareness through a website.
-
+- Achievable: 
 - Relevant:  Tailoring the website content to align with the coffee business's brand identity, values, and customer expectations. Ensuring that the information provided is relevant, up-to-date, and compelling.
 
 - Time-bound: Set a realistic timeline for launching the website and establish milestones for ongoing updates, improvements, and marketing efforts to drive sustained growth and maintaining the website with updates, the aim for our business is to increase customer engagement and reduce the customer acquisition costs.
