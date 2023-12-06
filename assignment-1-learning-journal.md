@@ -145,10 +145,11 @@ This week I learnt a lot of things related to Joomla, WordPress, Segmentation-Ta
 For the Joomla Website, I had to learn a lot about the customization it offered and how I can use them to design and match my goal for the website to have an appropriate layout and designs. I had installed extensions that required me to learn a lot about as they each consisted of their own unique features.
 
 Extensions and Plugins Used:
-1) Slide Show Extension: Used for showcasing different slides that are extremely useful to gain attention to certain pages and highlight important points
+1) Slide Show Extension: Used for showcasing different slides that are extremely useful to gain attention to certain pages and highlight important points.
 2) Komento Extension: Used, so that users can leave comments on the websites.
-3) Contact Us Form: Used, so that users can easily contact the business with any queries or feedback
-4) Akeeba Backup: As I was experimenting with different plugins and extensions, I had to use this plugin so that I could reach my last saved point in case anything went wrong
+3) Contact Us Form: Used, so that users can easily contact the business with any queries or feedback.
+4) Akeeba Backup: As I was experimenting with different plugins and extensions, I had to use this plugin so that I could reach my last saved point in case anything went wrong.
+5) Progress Bar: To help increase the visual appearance and highlight the different goals of the business, I used progress bars which make it easier to quickly view and understand the content
 <br>
 For my WordPress Website, I had to learn a lot about WordPress in a short period of time, as I had only a little experience with it. The demographic chosen are the main customer base for this business and are highly important to be catered to, for the business and the website to be a success. I have learned a lot about the similarities and differences between Joomla and WordPress through this assignment.I have also utilized plugins for WordPress as well.
 
