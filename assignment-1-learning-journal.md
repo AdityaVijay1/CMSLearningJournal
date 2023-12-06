@@ -4,7 +4,7 @@
 Name: Aditya Vijay 
 <br> Student ID: 14334303
 
-This overview is intended to provide a description of the two websites, for Assignment 1 in the subject Content Management System, details about the goals, SMART goals, the different learning outcomes and how this can lead to career development, insights and employability. Targetting and considering the audience as both younger individuals, students and kids, and just adults the website is meticulously designed to be both user-friendly, easily accessible and have products that interest the target audience and have something that piques interest from all of them for the business. 
+This overview is intended to provide a description of the two websites, for Assignment 1 in the subject Content Management System, details about the goals, SMART goals, the different learning outcomes and how this can lead to career development, insights and employability. Targeting and considering the audience as both younger individuals, students and kids, and just adults the website is meticulously designed to be both user-friendly, easily accessible and have products that interest the target audience and have something that piques interest from all of them for the business. 
 <br>
 # Use of Learning Journal 
 
@@ -140,7 +140,7 @@ For both websites, I have done paid hosting service for better resources and acc
 I spent approximately 22 hours this week on Content Management System Assignment 1
 
 # Content Insights
-This week I learnt a lot of things related to Joomla, WordPress, Segmentation-Targetting-Positioning (STP) and the Four Ps (Product,Price,Place,Promotion) from the class lecture, practical work and online research. I created two different websites with different targeted goals based on the demographic of the business and created a website to specifically target a younger audience by providing a product line to their liking and a place for them to study, talk and meet with friends and the second website specifically targeting only adults, by providing them with a combination of coffee and smoking that has a huge customer base but not a lot of places that offer them. For this assignment, I had done plenty of research that has allowed me to learn a wide variety features and knowledge about Joomla and WordPress. 
+This week I learnt a lot of things related to Joomla, WordPress, Segmentation-Targeting-Positioning (STP) and the Four Ps (Product,Price,Place,Promotion) from the class lecture, practical work and online research. I created two different websites with different targeted goals based on the demographic of the business and created a website to specifically target a younger audience by providing a product line to their liking and a place for them to study, talk and meet with friends and the second website specifically targeting only adults, by providing them with a combination of coffee and smoking that has a huge customer base but not a lot of places that offer them. For this assignment, I had done plenty of research that has allowed me to learn a wide variety features and knowledge about Joomla and WordPress. 
 
 For the Joomla Website, I had to learn a lot about the customization it offered and how I can use them to design and match my goal for the website to have an appropriate layout and designs. I had installed extensions that required me to learn a lot about as they each consisted of their own unique features.
 
