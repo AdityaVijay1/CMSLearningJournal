@@ -5,14 +5,14 @@ Name: Aditya Vijay
 <br> Student ID: 14334303
 
 This overview is intended to provide a description of the two websites, for Assignment 1 in the subject Content Management System, details about the goals, SMART goals, the different learning outcomes and how this can lead to career development, insights and employability. Targetting and considering the audience as both younger individuals, students and kids, and just adults the website is meticulously designed to be both user-friendly, easily accessible and have products that interest the target audience and have something that piques interest from all of them for the business. 
-
+<br>
 # Use of Learning Journal 
 
 This learning journal serves as a reflective tool, documenting the journey of acquiring new skills, insights, and experiences during assignment 1. It provides a platform to track learning activities, estimate the time invested, gain content insights, and reflect on career, employability, and learning perspectives.
-
+<br>
 # Description of the Task
 Create 2 websites using 2 different Content Management Systems, both websites should be for the same idea/company but have different goals and targets. Showcasing the segmentation of a business and how it can be useful to increase a customer base.
-
+<br>
 # Goal: Creating 2 Websites for a Coffee Business with the purpose of targeting a different audience with each one, which can be extremely useful for improving marketting and acquiring customers. 
 
 I have decided to make a website for a coffee shop/cafe business that is named Brews & Bubbles Bistro. The idea was born out of a passion of crafting exceptional coffee experiences. In this era of digital connectivity, a website for Brews & Bubbles Bistro is not merely a choice but a necessity. It's a virtual door that opens into the heart of  coffee culture, offering a space where enthusiasts can explore the rich history, diverse offerings, and distinctive charm of each location. The website becomes a portal for engagement, education, and celebration, bringing together a community that shares our love for the artistry and craftsmanship of a perfect cup of coffee. As Brews & Bubbles Bistro continues to grow, the website serves as a dynamic platform to connect with global audience, fostering a sense of belonging and excitement for all things brewed and bubbling.
@@ -34,7 +34,7 @@ This assignment helps create a:
 6) Details about the business that can help increase visits to stores
 
 In response to the evolving needs of the contemporary business environment, establishing an online presence for the coffee business becomes imperative. Crafting a website is a strategic move that aligns with the digital landscape's requirements, providing a multifaceted solution. This digital platform not only amplifies visibility but also acts as a dynamic hub for customer interaction, product display, and operational efficiency. Embracing a website ensures accessibility, convenience, and a distinctive market advantage.
-
+<br>
 # SMART Goals for Coffee Business Website:
 
 
@@ -93,7 +93,7 @@ Create an interactive community forum for adults, fostering discussions and conn
 Launch targeted email campaigns and promotions to encourage sign-ups within the first two weeks. Use email marketing to promote the website's features and encourage users to create accounts.
 Initiate partnerships with organizations, forums, and lifestyle influencers within the first month and sponsor a few events to help increase word of mouth as that is a free form of marketing. Establish collaborations to increase the website's visibility and attract the target audience for each segment.
 
-By adhering to SMART criteria, the coffee business can approach website development through Joomla and WordPress, Content Management Systems, with a strategic and goal-oriented mindset, enhancing its online presence and fostering a more connected and dynamic relationship with its customer base.
+By adhering to SMART criteria, the coffee business can approach website development through Joomla and WordPress, Content Management Systems, with a strategic and goal-oriented mindset, enhancing its online presence and fostering a more connected and dynamic relationship with its customer base. <br>
 
 ## Learning Activities & Resources
 During the assignment I have used plenty of information gained from Professor's perspective of my topic, class lecture, practical work done and a lot of articles and videos online to understand more about Content Management Systems, Joomla, WordPress and the proper way to deliver a product which serves its targeted purpose.
@@ -111,7 +111,7 @@ Resources used:
 8) Four P's: https://www.investopedia.com/terms/f/four-ps.asp
 9) STP: https://www.yieldify.com/blog/stp-marketing-model/
 10) Web Hosting Sites Comparison: https://www.youtube.com/watch?v=PNaSC74vm9M&t=397s&ab_channel=DarrelWilson
-
+<br>
 Web hosting services compared:
 1) Hostinger
 2) InfinityFree
@@ -133,11 +133,11 @@ InfinityFree provides limited resources for small websites.
 SiteGround and Hostinger offer better resources, but they come at a cost.
 Amazon Web Services provides a good amount of resources at a lower cost as compared to the others
 
-For both websites, I have done paid hosting to ensure that the website can be well maintained and updated for the future with any changes that come about, which is crucial for Content Management Systems
+For both websites, I have done paid hosting service for better resources and accessibility to ensure that the website can be well maintained and updated for the future with any changes that come about, which is crucial for Content Management Systems
 
 
 # Estimated Hours
-I spent approximately 22 hours this week on CMS Assignment 1
+I spent approximately 22 hours this week on Content Management System Assignment 1
 
 # Content Insights
 This week I learnt a lot of things related to Joomla, WordPress, Segmentation-Targetting-Positioning (STP) and the Four Ps (Product,Price,Place,Promotion) from the class lecture, practical work and online research. I created two different websites with different targeted goals based on the demographic of the business and created a website to specifically target a younger audience by providing a product line to their liking and a place for them to study, talk and meet with friends and the second website specifically targeting only adults, by providing them with a combination of coffee and smoking that has a huge customer base but not a lot of places that offer them. For this assignment, I had done plenty of research that has allowed me to learn a wide variety features and knowledge about Joomla and WordPress. 
@@ -161,7 +161,7 @@ Extensions and Plugins Used:
 
 This assignment has provided a significant learning experience, greatly expanded my knowledge, drive for self learning and research allowing for the creation and customization of websites tailored to a coffee business with proper goal-driven targets. The process of working with both Joomla and WordPress unveiled a range of functionalities and tools specific to the content management system. Learning about Joomla's structure, modules, and template customization provided valuable insights into efficient website management and WordPress's unique structure, system and template customization as well provided deeper insights on Content Management Systems. Understanding how to navigate and optimize these different features was particularly enlightening, as it opened up opportunities to efficiently present content, reach different goals and create an overall engaging online experience for the coffee business.
 
-Through this assignment, I understood the need for tailoring content towards specific demographic to gain attention and awareness towards a brand and was an overall enlightening experience to have a mixture of design, information and technology.
+Through this assignment, I understood the need for tailoring content towards specific demographic to gain attention and awareness towards a brand and was an overall enlightening experience to have a mixture of design, information and technology. <br> <br>
 
 
 # Segmentation-Targeting-Positioning (STP) for Brews & Bubbles Bistro:
@@ -189,7 +189,7 @@ a) Regular coffee drinkers and smokers <br>
 b) Customers interested in a kid-friendly environment <br>
 c) Individuals looking for a variety of coffee and drink options <br>
 d) Place for networking and socializing <br>
-
+<br><br>
 ## Targeting
 Brews & Bubbles Bistro aims to target the following segments:
 
@@ -211,7 +211,7 @@ Offering a relaxing place to do so.
 <br>
 
 ## Positioning
-Caffeine Oasis positions itself as a versatile and inclusive coffee hub:
+Brews & Bubbles Bistro positions itself as a versatile and inclusive coffee hub:
 <br>
 a) For Families:
 "A Family-Friendly Haven for Coffee Lovers of All Ages."
@@ -226,7 +226,7 @@ c) For Students:
 Positioning as a study-friendly environment with affordable options.
 
 ## Unique Selling Proposition (USP)
-Caffeine Oasis stands out by offering a curated experience for both adults and children, providing a diverse menu, quality coffee, and a warm ambiance, making it the perfect destination for all coffee lovers and beyond.
+Brews & Bubbles Bistro stands out by offering a curated experience for both adults and children, providing a diverse menu, quality coffee, and a warm ambiance, making it the perfect destination for all coffee lovers and beyond.
 
 # Four P's:
 1. **Product**:
@@ -250,7 +250,7 @@ Loyalty Programs: Introducing rewards for frequent customers and referrals.<br>
 Social Media Campaigns: Engaging with the audience through platforms like Instagram and Facebook.<br>
 Collaborations: Partnering with local events or influencers for wider reach.<br><br>
 
-These Four P's collectively form a strategic marketing mix to position Caffeine Oasis as a go-to destination for diverse coffee experiences, catering to individuals, families, and students alike.
+These Four P's collectively form a strategic marketing mix to position Brews & Bubbles Bistro as a go-to destination for diverse coffee experiences, catering to individuals, families, and students alike.
 
 # Career/Employability/Learning Insights
 - **Career/Employability**: After completing this practical, the in-depth exploration of Joomla during these activities contributes directly to enhancing skills relevant to web content management systems. Acquiring knowledge about Joomla's capabilities positions me well to manage and optimize content for business and provided a demonstration of adaptability in web content creation. This week's experience highlighted the importance of a target audience and the different needs and requirements that are needed to provide the target user with a good experience to keep them engaged and interested which provided insights into targeted marketing. 
