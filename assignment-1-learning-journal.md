@@ -11,7 +11,7 @@ This overview is intended to provide a description of the two websites, for Assi
 This learning journal serves as a reflective tool, documenting the journey of acquiring new skills, insights, and experiences during assignment 1. It provides a platform to track learning activities, estimate the time invested, gain content insights, and reflect on career, employability, and learning perspectives.
 
 # Description of the Task
-
+Create 2 websites using 2 different Content Management Systems, both websites should be for the same idea/company but have different goals and targets. Showcasing the segmentation of a business and how it can be useful to increase a customer base.
 
 # Goal: Creating 2 Websites for a Coffee Business with the purpose of targeting a different audience with each one, which can be extremely useful for improving marketting and acquiring customers. 
 
