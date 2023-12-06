@@ -232,7 +232,7 @@ Positioning as a place, to cool off and relax, interact with friends with qualit
 <br>
 
 ## Unique Selling Proposition (USP)
-Brews & Bubbles Bistro stands out by offering a curated experience for both adults and children, providing a diverse menu, quality coffee, and a warm ambiance, making it the perfect destination for all coffee lovers and beyond. It offers a place for the largest consumers of coffee who are adultss to interact and enjoy the essence of coffee and other beverages along with smoking which not many places offer at all.
+Brews & Bubbles Bistro stands out by offering a curated experience for both adults and children, providing a diverse menu, quality coffee, and a warm ambiance, making it the perfect destination for all coffee lovers and beyond. It offers a place for the largest consumers of coffee who are adults to interact and enjoy the essence of coffee and other beverages along with smoking which not many places offer at all.
 
 # Four P's:
 1. **Product**:
