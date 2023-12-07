@@ -1,20 +1,20 @@
-# Week 2 Learning Journal Content Management System
+# Week 3 Learning Journal Content Management System
 # Explanation of Content and Learning Journal
 
 Name: Aditya Vijay 
 <br> Student ID: 14334303
 
-This overview is intended to provide a description of my website, for Week 2 Practicals in the subject Content Management System. Targetting and considering the audience as younger individuals, students and kids, the website is meticulously designed to be both user-friendly, easily accessible and have products that interest the target audience. 
+This overview is intended to provide a description of my website, for Week 3 Practicals in the subject Content Management System. The main purpose of targeting adults in this market.
 
 # Use of Learning Journal 
 
 This learning journal serves as a reflective tool, documenting the journey of acquiring new skills, insights, and experiences during the weekly practical sessions. It provides a platform to track learning activities, estimate the time invested, gain content insights, and reflect on career, employability, and learning perspectives.
 
 
-# Goal: Creating a Website for the Coffee Business with the purpose of inviting/creating an atmosphere for child audience as well, by catering towards them and having a product line for them
+# Goal: Creating a Website for a Coffee Business with the purpose of inviting/creating an atmosphere for the largest consumer base of the business who are adults, by adhering and advertising more towards them
 
-In my [Week 1 Website](https://adityavijay1.github.io/CMS-Week1/index.html), I focused on creating a website for a coffee business which can help increase brand awareness but I mainly targetted young adults and adults. 
-This Week I made a website that targets the younger audience more by:
+In my [Week 2 Website](https://adityavijaycms.cloudaccess.host/), I focused on creating a website for a coffee business which can help increase brand awareness but I mainly targetted young adults and adults. 
+This Week I made a website that targets the larger consumer base who are adults by:
 1) Providing menu items to their liking
 2) User-Friendly Website
 3) Information about the business
