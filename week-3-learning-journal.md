@@ -4,7 +4,7 @@
 Name: Aditya Vijay 
 <br> Student ID: 14334303
 
-This overview is intended to provide a description of my website, for Week 3 Practicals in the subject Content Management System. The main purpose of targeting adults in this market.
+This overview is intended to provide a description of my website, for Week 3 Practical in the subject Content Management System. The main purpose of targeting adults in this market.
 
 # Use of Learning Journal 
 
