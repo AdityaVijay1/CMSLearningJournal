@@ -111,13 +111,13 @@ Resources used:
 8) Four P's: https://www.investopedia.com/terms/f/four-ps.asp
 9) STP: https://www.yieldify.com/blog/stp-marketing-model/
 10) Web Hosting Sites Comparison: https://www.youtube.com/watch?v=PNaSC74vm9M&t=397s&ab_channel=DarrelWilson
+<br><br>
+Web hosting services compared:<br><br>
+1) Hostinger<br>
+2) InfinityFree<br>
+3) SiteGround<br>
+4) Amazon Web Services (AWS)<br>
 <br>
-Web hosting services compared:
-1) Hostinger
-2) InfinityFree
-3) SiteGround
-4) Amazon Web Services (AWS)
-
 Reasons why I chose AWS:
 
 1) Reasonable Cost and Comfort:
