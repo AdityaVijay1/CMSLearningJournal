@@ -70,8 +70,8 @@ Resources used:
 I spent approximately 11 hours this week on Content Management Systems
 
 # Content Insights
-This week I learnt a lot of things related to Word{ress from the class lecture, practical and online research. I created a website to specifically target an adult audience by providing a product line to their liking and a place for them to relax and socialize.
-This week's practical on WordPress provided a significant learning experience, allowing for the creation and customization of a website tailored to the coffee business. The process of working with WordPress unveiled a range of functionalities and tools specific to the content management system. Learning about WordPress's structure, modules, and template customization provided valuable insights into efficient website management. Understanding how to navigate and optimize WordPress's features was particularly enlightening, as it opened up opportunities to efficiently present content and create an engaging online experience for the coffee business.
+This week I learnt a lot of things related to WordPress from the class lecture, practical and online research. I created a website to specifically target an adult audience by providing a product line to their liking and a place for them to relax and socialize.
+This week's practical on WordPress provided a significant learning experience, allowing for the creation and customization of a website tailored to the coffee business. The process of working with WordPress unveiled a range of functionalities and tools specific to the content management system. Learning about WordPress's structure, plugins, and template customization provided valuable insights into efficient website management. Understanding how to navigate and optimize WordPress's features was particularly enlightening, as it opened up opportunities to efficiently present content and create an engaging online experience for the coffee business.
 
 Through this week's practical and lecture I understood the need for tailoring content towards specific demographic to gain attention and awareness towards a brand and was an overall enlightening experience to have a mixture of design, information and technology.
 
@@ -81,86 +81,69 @@ Through this week's practical and lecture I understood the need for tailoring co
 ## Segmentation
 
 Demographic: <br>
-a) Adults (18-50) <br> 
-b) Families with children <br>
-c) Students <br>
+Adults 25-45; middle-upper income health-conscious working professionals
 
 Geographic: <br>
 a) Urban and suburban areas <br>
-b) Locations near schools and colleges <br>
+b) Locations near offices<br>
 
 Psychographic: <br>
 a) Coffee enthusiasts <br>
 b) Health-conscious consumers <br>
-c) Families seeking a cozy atmosphere <br>
 
 Behavioral: <br>
 a) Regular coffee drinkers <br>
 b) Individuals looking for a variety of coffee options <br>
-c) Customers interested in a kid-friendly environment <br>
+c) Customers interested in a work environment <br>
 
 ## Targeting
 Caffeine Oasis aims to target the following segments:
 
-a) Families with Children:
-Offering a diverse menu, including kid-friendly drinks.
-Creating a welcoming ambiance for families.
-<br>
+a) Tailor site content and offerings to appeal to young urban professionals near café <br>
 b) Coffee Enthusiasts:
 Providing a range of high-quality coffee beans and brewing methods.
 Hosting events and workshops for coffee connoisseurs.
 <br>
-c) Students:
-Introducing budget-friendly options.
-Offering a comfortable space for studying and socializing.
-<br>
+
 ## Positioning
 Caffeine Oasis positions itself as a versatile and inclusive coffee hub:
 <br>
-a) For Families:
-"A Family-Friendly Haven for Coffee Lovers of All Ages."
-Emphasizing a warm atmosphere and a diverse menu for adults and children.
+a) For Adults:
+"A Haven for Coffee Lovers."
+Emphasizing a warm atmosphere and a diverse menu for adults, highlighting the quality and craftsmanship of our coffee offerings. Creating relaxing environment suitable for remote work
 <br>
 b) For Coffee Enthusiasts:
 "Crafting Moments, One Sip at a Time."
-Highlighting the quality and craftsmanship of our coffee offerings.
 <br>
-c) For Students:
-"Fueling Minds, Igniting Conversations."
-Positioning as a study-friendly environment with affordable options.
+
 
 ## Unique Selling Proposition (USP)
-Caffeine Oasis stands out by offering a curated experience for both adults and children, providing a diverse menu, quality coffee, and a warm ambiance, making it the perfect destination for all coffee lovers and beyond.
+Caffeine Oasis stands out by offering a curated experience for adults through specialty artisanal drinks and baked goods in a relaxing atmosphere tailored for remote working professionals seeking a neighborhood community space.
 
 # Four P's:
 1. **Product**:
-Diverse Coffee Menu: Offering a variety of high-quality coffee beans, brewing methods, and flavors.<br>
-Kid-Friendly Options: Specialized drinks and treats designed for children.<br>
-Snacks and Pastries: Complementing the coffee experience with delicious snacks.<br>
+Showcase specialty coffee, signature drinks, fresh bakery items, high-end breakfast/lunch options
 
 2. **Price**:
-Competitive Pricing: Ensuring affordability without compromising on quality.<br>
-Student Discounts: Introducing special pricing and promotions for students.<br>
-Value Bundles: Offering combo deals for families and groups.<br>
+Competitive Pricing: Premium pricing appropriate for artisanal quality paired with loyalty promotions
 
 3. **Place**:
 Central Location: Situating the coffee shop in urban and suburban areas, accessible to the target audience.<br>
-Cozy Ambiance: Creating a welcoming and comfortable environment for customers.<br>
 Online Presence: Establishing a user-friendly website for online orders and information.<br>
+Bricks-and-mortar café in business area to attract nearby workers: enable online ordering for added convenience,br.
 
 4. **Promotion**:
-Opening Promotions: Special discounts and freebies during the initial launch phase.<br>
-Loyalty Programs: Introducing rewards for frequent customers and referrals.<br>
-Social Media Campaigns: Engaging with the audience through platforms like Instagram and Facebook.<br>
-Collaborations: Partnering with local events or influencers for wider reach.<br><br>
+Grand opening coupon codes<br>
+Regular happy hour/daily deals<br>
+Monthly newsletter with unique offers<br>
+Contest giveaways<br>
 
 These Four P's collectively form a strategic marketing mix to position Caffeine Oasis as a go-to destination for diverse coffee experiences, catering to individuals, families, and students alike.
 
 # Career/Employability/Learning Insights
-- **Career/Employability**: After completing this practical, the in-depth exploration of WordPress during these activities contributes directly to enhancing skills relevant to web content management systems. Acquiring knowledge about WordPress's capabilities positions me well to manage and optimize content for business and provided a demonstration of adaptability in web content creation. This week's experience highlighted the importance of a target audience and the different needs and requirements that are needed to provide the target user with a good experience to keep them engaged and interested which provided insights into targeted marketing. 
-<br>
+- Career/Employability: Developing a fully functional WordPress website for this coffee business expanded my technical skills in managing content management platforms. Through practical application, I gained valuable expertise in customizing sites to resonate with target demographics. Understanding nuances like customized menus, ambiance, copy, events etc. for the adult audience provides a template for future marketing roles focused on specific consumer segments. This enrichment of digital marketing and web technology acumen contributes directly to enhanced employability.
 
-- **Learning Insights**: This newfound expertise in WordPress through self learning and practice not only strengthens my technical skills but also adds a valuable asset to my portfolio and increased the value of using different learning resources and online research to get a better understanding of the software. I have also learnt more about how to present my work and the quality of work that should be delivered making me more adept at handling diverse web projects and contributing to my overall employability in the digital landscape. 
+- Learning Insights: Applying WordPress skills to build a customized site was an insightful learning experience. From nearly scratch ideation to site architecture planning to visually bringing the concept to life, I expanded my hard skills. The opportunity to independently manage a web project while learning to incorporate client goals strengthened adaptability and accountability. Troubleshooting issues during development also improved critical thinking abilities. This end-to-end website creation served as a comprehensive real-world learning model - elevating technical WordPress development technique while also revealing target audience appeasement strategies for employability application.
 
 # Practical Work Website Week 2:
 1) [Website Week 2 Content Management Systems](https://adityavijaycms.cloudaccess.host/index.php)
