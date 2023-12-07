@@ -25,20 +25,37 @@ Adapting to the dynamic demands of the modern business landscape necessitates th
 
 # SMART Goals for Coffee Business Website:
 
-- Specific: Develop a user-friendly website with dedicated sections for both adults and children, showcasing a diverse product line for each audience along with brief details about the business that are clear and concise.
+- Specific:
+Tailor site content including specialty coffee/tea drinks and fresh bakery items for target adult audience and develop a user-friendly website with dedicated sections adults keeping information concise and important.
+Menu Optimization: Regularly assess the popularity of menu items and optimize offerings based on customer feedback and sales data.
+Introduce seasonal or thematic promotions to keep the menu fresh and enticing for adult customers.
 
-- Measurable: Increase online engagement by implementing features like contacting us, product menus, and online ordering, aiming for a 25% rise in website traffic within the first three months which can be measured through google site analytics and viewing active user numbers, content engagement (the specific web pages), and feedback.
 
-- Achievable: Ensuring that the website design and features align with the business's current capabilities and resources and is also catered towards the user's needs. Increasing brand awareness through a website.
+- Measurable:
+Increase online engagement from the targeted customer base by implementing features like contacting us, product menus, aiming for a 35% rise in website traffic within the first three months which can be measured through google site analytics and viewing active user numbers, content engagement (the specific web pages made for them as well), and feedback. Track user interactions, such as clicks, time spent on pages, and menu exploration, to assess user engagement.
 
-- Relevant:  Tailoring the website content to align with the coffee business's brand identity, values, and customer expectations. Ensuring that the information provided is relevant, up-to-date, and compelling.
 
-- Time-bound: Set a realistic timeline for launching the website and establish milestones for ongoing updates, improvements, and marketing efforts to drive sustained growth and maintaining the website with updates, the aim for our business is to increase customer engagement and reduce the customer acquisition costs.
+-Achievable: 
+Ensuring that the website design and features align with the business's current capabilities and resources and is also catered towards the user's needs. Increasing brand awareness through a website. Keeping site architecture clean and intuitive for seamless navigation
+Content Creation Schedule: Develop a content creation schedule for blogs, aiming for at least two engaging posts per week that align with adult interests and coffee culture.
+Establish a user-friendly feedback mechanism to gather insights and preferences from adult visitors.
+
+
+-Relevant:
+Tailoring the website content to align with the coffee business's brand identity, values, and customer expectations. Ensuring that the information provided is relevant, up-to-date, and compelling.
+Share blog content relevant to health-conscious working professionals
+Implement localized engagement strategies for different store locations, considering regional preferences and events to make the website content relevant to the local adult audience.
+
+
+- Time-bound:
+Conduct monthly reviews of website analytics to assess the achievement of engagement goals and make necessary adjustments.
+Roll out promotional launch campaign focused on first month
+Maintaining the website with updates, the aim for our business is to increase customer engagement and reduce the customer acquisition costs.
 
 By adhering to SMART criteria, the coffee business can approach website development through Joomla, a Content Management System, with a strategic and goal-oriented mindset, enhancing its online presence and fostering a more connected and dynamic relationship with its customer base.
 
 ## Learning Activities & Resources
-This week I have used a lot of information from the practical class and Professor James to understand more about Content Management Systems and the proper way to deliver a product and learnt a lot about Joomla.
+This week I have used a lot of information available online through articles, forums and videos suggested in the practical class and by Professor James to understand more about WordPress and how to use it to make websites.
 I have spent several hours trying to understand how does Joomla work and how to make a website using it through the different types of components that it offers. I have also again viewed through multiple web hosting services to find the best ones that offer ease of access.
 
 Resources used:
