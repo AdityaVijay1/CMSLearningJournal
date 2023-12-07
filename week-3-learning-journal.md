@@ -52,7 +52,7 @@ Conduct monthly reviews of website analytics to assess the achievement of engage
 Roll out promotional launch campaign focused on first month
 Maintaining the website with updates, the aim for our business is to increase customer engagement and reduce the customer acquisition costs.
 
-By adhering to SMART criteria, the coffee business can approach website development through Joomla, a Content Management System, with a strategic and goal-oriented mindset, enhancing its online presence and fostering a more connected and dynamic relationship with its customer base.
+By adhering to SMART criteria, the coffee business can approach website development through WordPress, a Content Management System, with a strategic and goal-oriented mindset, enhancing its online presence and fostering a more connected and dynamic relationship with its customer base.
 
 ## Learning Activities & Resources
 This week I have used a lot of information available online through articles, forums and videos suggested in the practical class and by Professor James to understand more about WordPress and how to use it to make websites.
@@ -67,11 +67,11 @@ Resources used:
 
 
 # Estimated Hours
-I spent approximately 13 hours this week on CMS
+I spent approximately 11 hours this week on Content Management Systems
 
 # Content Insights
-This week I learnt a lot of things related to delivering a product, Segmentation-Targetting-Positioning (STP) and the Four Ps (Product,Price,Place,Promotion) from the class lecture, practical and online research. I created a website to specifically target a younger audience by providing a product line to their liking and a place for them to study, talk and meet with friends.
-This week's practical on Joomla provided a significant learning experience, allowing for the creation and customization of a website tailored to the coffee business. The process of working with Joomla unveiled a range of functionalities and tools specific to the content management system. Learning about Joomla's structure, modules, and template customization provided valuable insights into efficient website management. Understanding how to navigate and optimize Joomla's features was particularly enlightening, as it opened up opportunities to efficiently present content and create an engaging online experience for the coffee business.
+This week I learnt a lot of things related to Word{ress from the class lecture, practical and online research. I created a website to specifically target an adult audience by providing a product line to their liking and a place for them to relax and socialize.
+This week's practical on WordPress provided a significant learning experience, allowing for the creation and customization of a website tailored to the coffee business. The process of working with WordPress unveiled a range of functionalities and tools specific to the content management system. Learning about WordPress's structure, modules, and template customization provided valuable insights into efficient website management. Understanding how to navigate and optimize WordPress's features was particularly enlightening, as it opened up opportunities to efficiently present content and create an engaging online experience for the coffee business.
 
 Through this week's practical and lecture I understood the need for tailoring content towards specific demographic to gain attention and awareness towards a brand and was an overall enlightening experience to have a mixture of design, information and technology.
 
@@ -157,10 +157,10 @@ Collaborations: Partnering with local events or influencers for wider reach.<br>
 These Four P's collectively form a strategic marketing mix to position Caffeine Oasis as a go-to destination for diverse coffee experiences, catering to individuals, families, and students alike.
 
 # Career/Employability/Learning Insights
-- **Career/Employability**: After completing this practical, the in-depth exploration of Joomla during these activities contributes directly to enhancing skills relevant to web content management systems. Acquiring knowledge about Joomla's capabilities positions me well to manage and optimize content for business and provided a demonstration of adaptability in web content creation. This week's experience highlighted the importance of a target audience and the different needs and requirements that are needed to provide the target user with a good experience to keep them engaged and interested which provided insights into targeted marketing. 
+- **Career/Employability**: After completing this practical, the in-depth exploration of WordPress during these activities contributes directly to enhancing skills relevant to web content management systems. Acquiring knowledge about WordPress's capabilities positions me well to manage and optimize content for business and provided a demonstration of adaptability in web content creation. This week's experience highlighted the importance of a target audience and the different needs and requirements that are needed to provide the target user with a good experience to keep them engaged and interested which provided insights into targeted marketing. 
 <br>
 
-- **Learning Insights**: This newfound expertise in Joomla through self learning and practice not only strengthens my technical skills but also adds a valuable asset to my portfolio and increased the value of using different learning resources and online research to get a better understanding of the software. I have also learnt more about how to present my work and the quality of work that should be delivered making me more adept at handling diverse web projects and contributing to my overall employability in the digital landscape. 
+- **Learning Insights**: This newfound expertise in WordPress through self learning and practice not only strengthens my technical skills but also adds a valuable asset to my portfolio and increased the value of using different learning resources and online research to get a better understanding of the software. I have also learnt more about how to present my work and the quality of work that should be delivered making me more adept at handling diverse web projects and contributing to my overall employability in the digital landscape. 
 
 # Practical Work Website Week 2:
 1) [Website Week 2 Content Management Systems](https://adityavijaycms.cloudaccess.host/index.php)
