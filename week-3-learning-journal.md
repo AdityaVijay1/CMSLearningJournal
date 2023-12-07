@@ -56,40 +56,14 @@ By adhering to SMART criteria, the coffee business can approach website developm
 
 ## Learning Activities & Resources
 This week I have used a lot of information available online through articles, forums and videos suggested in the practical class and by Professor James to understand more about WordPress and how to use it to make websites.
-I have spent several hours trying to understand how does Joomla work and how to make a website using it through the different types of components that it offers. I have also again viewed through multiple web hosting services to find the best ones that offer ease of access.
+I have spent several hours trying to understand how does WordPress works and how to make a website using it through the different types of components that it offers.
 
 Resources used:
-1) CMS Basics: https://www.youtube.com/watch?v=deqX0gMeUVc&ab_channel=SurfsidePPC
-2) Joomla Blog Practice: https://www.youtube.com/watch?v=FzMCGy7XFvo&ab_channel=TechRuzzTutorials
-3) Joomla: https://www.youtube.com/watch?v=I0MBI9Qz-S0&ab_channel=TechExpress
-4) Joomla Website Building: https://www.youtube.com/watch?v=h5VZwTLdgdM&ab_channel=TechRuzzTutorials
-5) Web Hosting: https://www.youtube.com/watch?v=Qbi74ID0BEU&ab_channel=TechExpress
-6) Google Analytics: https://www.youtube.com/watch?v=uHbznbtqz-E&ab_channel=EyeonTech
-7) Google Analytics Details: https://www.techtarget.com/searchcustomerexperience/tip/6-ways-to-use-analytics-to-improve-customer-engagement?utm_source=youtube&utm_medium=description&utm_campaign=042021Google&utm_content=Google&Offer=OTHR-youtube_OTHR-video_OTHR-Google_2021April21_Google
-8) Four P's: https://www.investopedia.com/terms/f/four-ps.asp
+1) WordPress Setup: https://www.youtube.com/watch?v=KXQFpUnCgrE&ab_channel=FerdyKorpershoek
+2) How to build a WordPress website: https://www.youtube.com/watch?v=AABmCvjd_iU&ab_channel=CharlieChang
+3) WordPress Themes: https://www.youtube.com/watch?v=MNPKrTu6_dQ&t=1378s&ab_channel=DarrelWilson
+4) WordPress Websites: https://www.youtube.com/watch?v=kYY88h5J86A&ab_channel=CreateWPSite
 
-Web hosting services compared:
-1) Hostinger
-2) InfinityFree
-3) SiteGround
-4) GoogieHost
-5) x10Hosting
-
-Reasons why I chose InfinityFree:
-
-1) Cost-Effective:
-InfinityFree offers free hosting services, making it a budget-friendly option, especially for personal projects or small businesses.
-SiteGround, Hostinger and the others have introductory prices, but they can increase upon renewal.
-
-2) Ease of Use:
-InfinityFree provides a user-friendly interface, making it suitable for beginners.
-Whereas other options do offer user-friendly interfaces but may have more advanced features and some may also be locked behind a paywall.
-
-3) Resource Limitations:
-InfinityFree provides reasonable resources for small websites.
-SiteGround and Hostinger offer better resources, but they come at a cost.
-
-Note: For this week's practical, I opted to use the web hosting service offered by Joomla.org as it was suggested by Professor James as a good option to start Joomla with and my InfinityFree website required a few days to get verified so that I can use Joomla and Wordpress on it.
 
 
 # Estimated Hours
