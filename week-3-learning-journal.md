@@ -35,13 +35,13 @@ Introduce seasonal or thematic promotions to keep the menu fresh and enticing fo
 Increase online engagement from the targeted customer base by implementing features like contacting us, product menus, aiming for a 35% rise in website traffic within the first three months which can be measured through google site analytics and viewing active user numbers, content engagement (the specific web pages made for them as well), and feedback. Track user interactions, such as clicks, time spent on pages, and menu exploration, to assess user engagement.
 
 
--Achievable: 
+- Achievable: 
 Ensuring that the website design and features align with the business's current capabilities and resources and is also catered towards the user's needs. Increasing brand awareness through a website. Keeping site architecture clean and intuitive for seamless navigation
 Content Creation Schedule: Develop a content creation schedule for blogs, aiming for at least two engaging posts per week that align with adult interests and coffee culture.
 Establish a user-friendly feedback mechanism to gather insights and preferences from adult visitors.
 
 
--Relevant:
+- Relevant:
 Tailoring the website content to align with the coffee business's brand identity, values, and customer expectations. Ensuring that the information provided is relevant, up-to-date, and compelling.
 Share blog content relevant to health-conscious working professionals
 Implement localized engagement strategies for different store locations, considering regional preferences and events to make the website content relevant to the local adult audience.
