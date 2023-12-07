@@ -75,6 +75,32 @@ This week's practical on WordPress provided a significant learning experience, a
 
 Through this week's practical and lecture I understood the need for tailoring content towards specific demographic to gain attention and awareness towards a brand and was an overall enlightening experience to have a mixture of design, information and technology.
 
+# Group Formation
+For the assignment 2 group project, this week, I conducted interviews with prospective teammates with the following questions:
+1) What Skills should a good Web Developer have?
+2) Are you aware of the roles and responsibilities of a Web Developer?
+3) Can you list a few ways to speed up Page Loading?
+4) State the difference between span tag and div tag in HTML 5.
+6) While building a web application, how do you consider SEO, maintainability, UX, performance, and security?
+7) Any past experience with CMS specifically WordPress
+8) Preferred Web Hosting Site
+9) Local or Online Host to do work?
+10) best ways to communicate with you?
+11) How often can you attend team meetings to discuss plans?
+
+And here are the insights of the two teammates that I have chosen and formed a team with:
+
+1) Albert Alvaro
+2) Tan Ben Siang 
+
+I have chosen these two as I liked their answers and their work ethic seems to match mine, I feel we would work well as a team and hence decided to form a team. However we are still looking for a 4th member for the team as well 
+
+![image](https://github.com/AdityaVijay1/CMSLearningJournal/assets/84958533/a959abab-3a26-457d-8280-8cdfc300fd84)
+![image](https://github.com/AdityaVijay1/CMSLearningJournal/assets/84958533/3614dbb7-dc9b-4ca2-9c07-2a9319d2a567)
+![image](https://github.com/AdityaVijay1/CMSLearningJournal/assets/84958533/adb6cf93-405d-42cf-9e00-bddbc5c76ba8)
+
+
+
 
 # Segmentation-Targeting-Positioning (STP) for Caffeine Oasis:
 
