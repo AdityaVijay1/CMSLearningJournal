@@ -171,7 +171,7 @@ These Four P's collectively form a strategic marketing mix to position Caffeine 
 
 - Learning Insights: Applying WordPress skills to build a customized site was an insightful learning experience. From nearly scratch ideation to site architecture planning to visually bringing the concept to life, I expanded my hard skills. The opportunity to independently manage a web project while learning to incorporate client goals strengthened adaptability and accountability. Troubleshooting issues during development also improved critical thinking abilities. This end-to-end website creation served as a comprehensive real-world learning model - elevating technical WordPress development technique while also revealing target audience appeasement strategies for employability application.
 
-# Practical Work Website Week 2:
-1) [Website Week 2 Content Management Systems](https://adityavijaycms.cloudaccess.host/index.php)
+# Practical Work Website Week 3:
+1) [Website Week 3 Content Management Systems](http://adityavijaycmsprac.cloudaccess.host/)
 
 
