@@ -15,12 +15,13 @@ This learning journal serves as a reflective tool, documenting the journey of ac
 
 In my [Week 2 Website](https://adityavijaycms.cloudaccess.host/), I focused on creating a website for a coffee business which can help increase brand awareness but I mainly targetted young adults and adults. 
 This Week I made a website that targets the larger consumer base who are adults by:
-1) Providing menu items to their liking
+1) Providing menu items/products to their liking
 2) User-Friendly Website
-3) Information about the business
+3) Information and details about the business
 4) Blogs and other details that provide information and entertainment 
 
-In response to the evolving needs of the contemporary business environment, establishing an online presence for the coffee business becomes imperative. Crafting a website is a strategic move that aligns with the digital landscape's requirements, providing a multifaceted solution. This digital platform not only amplifies visibility but also acts as a dynamic hub for customer interaction, product display, and operational efficiency. Embracing a website ensures accessibility, convenience, and a distinctive market advantage.
+
+Adapting to the dynamic demands of the modern business landscape necessitates the creation of an online footprint for our coffee business. Developing a website is a strategic step that harmonizes with the evolving digital realm, offering a comprehensive solution. This online platform goes beyond just increasing visibility; it serves as a dynamic center for engaging with customers, showcasing our products, and streamlining our operations. Embracing a website guarantees accessibility, convenience, and a unique edge in the market.
 
 # SMART Goals for Coffee Business Website:
 
