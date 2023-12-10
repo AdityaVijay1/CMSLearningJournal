@@ -1,10 +1,10 @@
-# Week 3 Learning Journal Content Management System
+# Week 4 Learning Journal Content Management System
 # Explanation of Content and Learning Journal
 
 Name: Aditya Vijay 
 <br> Student ID: 14334303
 
-This overview is intended to provide a description of my website, for Week 3 Practical in the subject Content Management System. The main purpose of targeting adults in this market.
+This overview is intended to provide a description of my work, for Week 4 Practical in the subject Content Management System. The main purpose of this week's work is to setup local host and WordPress. 
 
 # Use of Learning Journal 
 
