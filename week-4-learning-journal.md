@@ -70,21 +70,21 @@ I spent approximately 9 hours this week on Content Management Systems
 
 # Content Insights
 
-Technical Knowledge:
+- Technical Knowledge:<br>
 Got first-hand experience with stacks like XAMPP, Apache, MySQL, and PHP. Understand how they work together to create a localized CMS.
 Learned WordPress architecture of separating backend database from front-facing site visible to visitors.
 Practiced installing, hosting, and running WordPress CMS without reliance on third-party servers.
  <br> <br>
-Troubleshooting Skills:
+- Troubleshooting Skills:<br>
 Faced multiple issues getting MySQL database to setup and work properly.
  <br> <br>
-Customization Capabilities, 
-having flexible control over site by running CMS locally is game-changing:
+- Customization Capabilities, 
+having flexible control over site by running CMS locally is game-changing:<br> 
 Can develop fully custom themes and create unique sites from scratch.
 Add functionality via diverse plugins to enrich user experience
 Complete authority over site speed, security, layouts to craft professional portfolio
  <br>
-Content Management
+- Content Management<br>
 Editing backend database through phpMyAdmin allows easy content updates
 Creating pages and posts with varying fields improved WP admin skills
 Upskilling to use CMS more dynamically expanded employability
