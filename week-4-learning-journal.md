@@ -78,8 +78,8 @@ Practiced installing, hosting, and running WordPress CMS without reliance on thi
 Troubleshooting Skills:
 Faced multiple issues getting MySQL database to setup and work properly.
  <br> <br>
-Customization Capabilities
-Having flexible control over site by running CMS locally is game-changing:
+Customization Capabilities, 
+having flexible control over site by running CMS locally is game-changing:
 Can develop fully custom themes and create unique sites from scratch.
 Add functionality via diverse plugins to enrich user experience
 Complete authority over site speed, security, layouts to craft professional portfolio
@@ -92,29 +92,16 @@ Upskilling to use CMS more dynamically expanded employability
 The hands-on, practical nature of facing real problems enriched learning significantly over just theory. Tackling technical challenges to build locally-run WP site greatly boosted confidence.
 The process gave hands-on experience with stacks like Apache, MySQL and expanding technical skills in CMS architecture. Troubleshooting configuration issues also enriched learning. This local site foundation paves way for more tailored sites.
 
-# Group Formation
-For the assignment 2 group project, this week, I conducted interviews with prospective teammates with the following questions:
-1) What Skills should a good Web Developer have?
-2) Are you aware of the roles and responsibilities of a Web Developer?
-3) Can you list a few ways to speed up Page Loading?
-4) State the difference between span tag and div tag in HTML 5.
-6) While building a web application, how do you consider SEO, maintainability, UX, performance, and security?
-7) Any past experience with CMS specifically WordPress
-8) Preferred Web Hosting Site
-9) Local or Online Host to do work?
-10) best ways to communicate with you?
-11) How often can you attend team meetings to discuss plans?
+# XAMPP Setup
 
-And here are the insights of the two teammates that I have chosen and formed a team with:
+![image](https://github.com/AdityaVijay1/CMSLearningJournal/assets/84958533/c93ec8ec-9377-47fb-836c-f03eba8a249f)
 
-1) Albert Alvaro
-2) Tan Ben Siang 
+# Database Setup
+![image](https://github.com/AdityaVijay1/CMSLearningJournal/assets/84958533/2f05b776-4e4f-44a2-a126-0ee39355d3f3)
 
-I have chosen these two as I liked their answers and their work ethic seems to match mine, I feel we would work well as a team and hence decided to form a team. However we are still looking for a 4th member for the team as well 
+# WordPress Setup 
+![image](https://github.com/AdityaVijay1/CMSLearningJournal/assets/84958533/c94b7786-cbc5-4f61-9990-9ab802d870f6)
 
-![image](https://github.com/AdityaVijay1/CMSLearningJournal/assets/84958533/a959abab-3a26-457d-8280-8cdfc300fd84)
-![image](https://github.com/AdityaVijay1/CMSLearningJournal/assets/84958533/3614dbb7-dc9b-4ca2-9c07-2a9319d2a567)
-![image](https://github.com/AdityaVijay1/CMSLearningJournal/assets/84958533/adb6cf93-405d-42cf-9e00-bddbc5c76ba8)
 
 
 
