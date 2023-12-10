@@ -83,8 +83,9 @@ having flexible control over site by running CMS locally is game-changing:<br>
 Can develop fully custom themes and create unique sites from scratch.
 Add functionality via diverse plugins to enrich user experience
 Complete authority over site speed, security, layouts to craft professional portfolio
- <br>
-- Content Management<br>
+<br>
+
+- Content Management Systems <br>
 Editing backend database through phpMyAdmin allows easy content updates
 Creating pages and posts with varying fields improved WP admin skills
 Upskilling to use CMS more dynamically expanded employability
