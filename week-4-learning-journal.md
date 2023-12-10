@@ -28,53 +28,68 @@ Hosting locally allows you complete control over the software configurations, ve
 
 # SMART Goals for Coffee Business Website:
 
-- Specific <br>
+- Specific: <br>
 Install and configure XAMPP stack with Apache, MySQL, and PHP by next week <br>
 Set up phpMyAdmin and admin access for database management <br>
 Download latest WordPress version and complete installation on local server <br>
 
-- Measurable <br>
+- Measurable: <br>
 Have a completely functioning local WordPress site with dashboard  <br>
 Be able to activate themes and plugins as well as create posts and pages with custom fields <br>
 Monitor site performance via available analytics when hosted online <br>
 
-- Achievable <br>
+- Achievable: <br>
 Break down process into manageable steps to install packages and configure settings <br>
 Learn necessary skills by online tutorials and research <br>
 Understand more about local hosting <br>
 
-- Relevant <br>
+- Relevant: <br>
 Creating flexible local WordPress site allows hands-on learning of CMS <br>
 Allows testing of themes and functionality for client projects <br>
 Having editable backend facilitates additions of new pages and features <br>
 
-- Time-bound <br>
+- Time-bound: <br>
 Complete XAMPP and MySQL database installation <br>
 Set up WordPress and configuring sites pages and tools <br>
 
 By adhering to SMART criteria, can learn more and make sure I am on track with learning about Content Management Systems, with a strategic and goal-oriented mindset, enhancing knowledge and fostering a more connected and dynamic relationship local hosting
 
 ## Learning Activities & Resources
-This week I have used a lot of information available online through articles, forums and videos suggested in the practical class and by Professor James to understand more about WordPress and how to use it to make websites.
-I have spent several hours trying to understand how does WordPress works and how to make a website using it through the different types of components that it offers.
+This week I have used a lot of information available online through articles, forums, videos and mainly the tutorial conducted in the practical class by Professor James to understand more about local hosting setup and WordPress installation for Content Management System. 
+I have spent a couple of hours trying to understand more about Local Hosting, setting it up, XAMPP and WordPress installation and setup.
 
 Resources used:
-1) WordPress Setup: https://www.youtube.com/watch?v=KXQFpUnCgrE&ab_channel=FerdyKorpershoek
-2) How to build a WordPress website: https://www.youtube.com/watch?v=AABmCvjd_iU&ab_channel=CharlieChang
-3) WordPress Themes: https://www.youtube.com/watch?v=MNPKrTu6_dQ&t=1378s&ab_channel=DarrelWilson
-4) WordPress Websites: https://www.youtube.com/watch?v=kYY88h5J86A&ab_channel=CreateWPSite
-
+1) In class tutorial by Professor James 
+2) Details on Local Hosting: https://www.geeksforgeeks.org/what-is-local-host/
+3) XAMPP: https://www.educba.com/what-is-xampp/
+4) WordPress Local Host: https://www.youtube.com/watch?v=XkKadPcPFT4&ab_channel=GeekyScript
 
 
 # Estimated Hours
-I spent approximately 11 hours this week on Content Management Systems
+I spent approximately 9 hours this week on Content Management Systems
 
 # Content Insights
-This week I learnt a lot of things related to WordPress from the class lecture, practical and online research. I created a website to specifically target an adult audience by providing a product line to their liking and a place for them to relax and socialize.
-This week's practical on WordPress provided a significant learning experience, allowing for the creation and customization of a website tailored to the coffee business. The process of working with WordPress unveiled a range of functionalities and tools specific to the content management system. Learning about WordPress's structure, plugins, and template customization provided valuable insights into efficient website management. Understanding how to navigate and optimize WordPress's features was particularly enlightening, as it opened up opportunities to efficiently present content and create an engaging online experience for the coffee business.
 
-Through this week's practical and lecture I understood the need for tailoring content towards specific demographic to gain attention and awareness towards a brand and was an overall enlightening experience to have a mixture of design, information and technology.
+Technical Knowledge:
+Got first-hand experience with stacks like XAMPP, Apache, MySQL, and PHP. Understand how they work together to create a localized CMS.
+Learned WordPress architecture of separating backend database from front-facing site visible to visitors.
+Practiced installing, hosting, and running WordPress CMS without reliance on third-party servers.
+ <br> <br>
+Troubleshooting Skills:
+Faced multiple issues getting MySQL database to setup and work properly.
+ <br> <br>
+Customization Capabilities
+Having flexible control over site by running CMS locally is game-changing:
+Can develop fully custom themes and create unique sites from scratch.
+Add functionality via diverse plugins to enrich user experience
+Complete authority over site speed, security, layouts to craft professional portfolio
+ <br>
+Content Management
+Editing backend database through phpMyAdmin allows easy content updates
+Creating pages and posts with varying fields improved WP admin skills
+Upskilling to use CMS more dynamically expanded employability
 
+The hands-on, practical nature of facing real problems enriched learning significantly over just theory. Tackling technical challenges to build locally-run WP site greatly boosted confidence.
 The process gave hands-on experience with stacks like Apache, MySQL and expanding technical skills in CMS architecture. Troubleshooting configuration issues also enriched learning. This local site foundation paves way for more tailored sites.
 
 # Group Formation
