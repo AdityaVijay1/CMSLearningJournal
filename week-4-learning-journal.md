@@ -94,7 +94,7 @@ The hands-on, practical nature of facing real problems enriched learning signifi
 The process gave hands-on experience with stacks like Apache, MySQL and expanding technical skills in CMS architecture. Troubleshooting configuration issues also enriched learning. This local site foundation paves way for more tailored sites.
 
 # Setup Process
-To establish a robust local web development environment, I installed XAMPP, an easy Apache distribution containing MySQL, PHP, and Perl. This integrated open-source stack will facilitate hosting sites and apps on my own computer for more flexibility.
+To establish a robust local web development environment, I installed XAMPP, an easy Apache distribution containing MySQL and PHP. This integrated open-source stack will facilitate hosting sites and apps on my own computer for more flexibility.
 After successfully installing XAMPP, I launched the Apache and MySQL modules to initialize the backend database system. Within phpMyAdmin, I created a new database instance locally to serve content to any sites I host from my machine henceforth.
 With the Apache web server and MySQL database now configured, I downloaded WordPress, the popular content management system (CMS), into XAMPP’s htdocs directory. I executed WordPress’  installation to connect it to my local MySQL database just created so that WordPress can use it for storing and managing site information dynamically.
 <br>
