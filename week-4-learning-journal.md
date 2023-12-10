@@ -28,31 +28,29 @@ Hosting locally allows you complete control over the software configurations, ve
 
 # SMART Goals for Coffee Business Website:
 
-- Specific
-Install and configure XAMPP stack with Apache, MySQL, and PHP by next week
-Set up phpMyAdmin and admin access for database management
-Download latest WordPress version and complete installation on local server
+- Specific <br>
+Install and configure XAMPP stack with Apache, MySQL, and PHP by next week <br>
+Set up phpMyAdmin and admin access for database management <br>
+Download latest WordPress version and complete installation on local server <br>
 
-- Measurable
-Have a completely functioning local WordPress site with dashboard 
-Be able to activate themes and plugins as well as create posts and pages with custom fields
-Monitor site performance via available analytics when hosted online
+- Measurable <br>
+Have a completely functioning local WordPress site with dashboard  <br>
+Be able to activate themes and plugins as well as create posts and pages with custom fields <br>
+Monitor site performance via available analytics when hosted online <br>
 
-- Achievable
-Break down process into manageable steps to install packages and configure settings
-Learn necessary skills by online tutorials and research
-Understand more about local hosting
+- Achievable <br>
+Break down process into manageable steps to install packages and configure settings <br>
+Learn necessary skills by online tutorials and research <br>
+Understand more about local hosting <br>
 
-- Relevant
-Creating flexible local WordPress site allows hands-on learning of CMS
-Allows testing of themes and functionality for client projects
-Having editable backend facilitates additions of new pages and features
+- Relevant <br>
+Creating flexible local WordPress site allows hands-on learning of CMS <br>
+Allows testing of themes and functionality for client projects <br>
+Having editable backend facilitates additions of new pages and features <br>
 
-- Time-bound
-
-Complete XAMPP and MySQL database installation 
-Set up WordPress and configuring sites pages and tools
-
+- Time-bound <br>
+Complete XAMPP and MySQL database installation <br>
+Set up WordPress and configuring sites pages and tools <br>
 
 By adhering to SMART criteria, can learn more and make sure I am on track with learning about Content Management Systems, with a strategic and goal-oriented mindset, enhancing knowledge and fostering a more connected and dynamic relationship local hosting
 
