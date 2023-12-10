@@ -87,10 +87,10 @@ Complete authority over site speed, security, layouts to craft professional port
 
 - Content Management Systems <br>
 Editing backend database through phpMyAdmin allows easy content updates
-Creating pages and posts with varying fields improved WP admin skills
+Creating pages and posts with varying fields improved WordPress admin skills
 Upskilling to use CMS more dynamically expanded employability
 
-The hands-on, practical nature of facing real problems enriched learning significantly over just theory. Tackling technical challenges to build locally-run WP site greatly boosted confidence.
+The hands-on, practical nature of facing real problems enriched learning significantly over just theory. Tackling technical challenges to build locally-run WordPress site greatly boosted confidence.
 The process gave hands-on experience with stacks like Apache, MySQL and expanding technical skills in CMS architecture. Troubleshooting configuration issues also enriched learning. This local site foundation paves way for more tailored sites.
 
 # Setup Process
