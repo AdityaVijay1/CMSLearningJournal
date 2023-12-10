@@ -111,7 +111,7 @@ The local XAMPP-MySQL-WordPress installation now complete, I have a customizable
 ## WordPress Setup 
 ![image](https://github.com/AdityaVijay1/CMSLearningJournal/assets/84958533/c94b7786-cbc5-4f61-9990-9ab802d870f6)
 
-# Segmentation-Targeting-Positioning (STP) for Caffeine Oasis:
+# Segmentation-Targeting-Positioning (STP) for benefits of Local Hosting and WordPress:
 
 ## Segmentation
 - Developers
