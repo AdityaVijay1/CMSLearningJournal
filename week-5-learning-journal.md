@@ -4,24 +4,22 @@
 Name: Aditya Vijay 
 <br> Student ID: 14334303
 
-This overview is intended to provide a description of the tasks completed in Practical 5 in the subject Content Management System, details about the goals, SMART goals, the different learning outcomes and how this can lead to career development, insights and employability. Understanding about child themes, customizing a popular default WordPress theme and comparing the outcomes
+This overview is intended to provide a description of the tasks completed in Practical 5 in the subject Content Management System, details about the goals, SMART goals, the different learning outcomes and how this can lead to career development, insights and employability. Understanding about child themes, customizing a popular default WordPress theme and comparing the different outputs.
 <br>
 # Use of Learning Journal 
 
 This learning journal serves as a reflective tool, documenting the journey of acquiring new skills, insights, and experiences during assignment 1. It provides a platform to track learning activities, estimate the time invested, gain content insights, and reflect on career, employability, and learning perspectives.
 <br>
 # Description of the Task
-Create 2 websites using 2 different Content Management Systems, both websites should be for the same idea/company but have different goals and targets. Showcasing the segmentation of a business and how it can be useful to increase a customer base.
+Understanding and creating child theme for popular default theme, Twenty Twenty-Two and customizing the CSS code for changing the appearance
 <br>
-# Goal: Creating 2 Websites for a Coffee Business with the purpose of targeting a different audience with each one, which can be extremely useful for improving marketing and acquiring customers. 
+# Goal: Develop a comprehensive understanding of child themes in WordPress and apply this knowledge to create a customized child theme for the Twenty Twenty Two parent theme, improving the website's aesthetics and user response system and engagement.
 
-I have decided to make a website for a coffee shop/cafe business that is named Brews & Bubbles Bistro. The idea was born out of a passion of crafting exceptional coffee experiences. In this era of digital connectivity, a website for Brews & Bubbles Bistro is not merely a choice but a necessity. It's a virtual door that opens into the heart of  coffee culture, offering a space where enthusiasts can explore the rich history, diverse offerings, and distinctive charm of each location. The website becomes a portal for engagement, education, and celebration, bringing together a community that shares our love for the artistry and craftsmanship of a perfect cup of coffee. As Brews & Bubbles Bistro continues to grow, the website serves as a dynamic platform to connect with global audience, fostering a sense of belonging and excitement for all things brewed and bubbling.
+The main goal of this week's practical task is to understand the concept of child themes and the  of using it appropriately to maintain a website in the sense that, despite development is going on the website's functionality is not disturbed and continues to function as intended while upgrades or updates are first tested out on child theme and once everything is confirmed and works then it can be deployed.
 
-The overarching goal of creating two distinct websites is to strategically expand brand reach, drive effective marketing campaigns, create and increase brand awareness and ultimately acquire a diverse customer base. The first website serves as a comprehensive platform to spread awareness on a broader scale, targeting audiences of all ages—kids, young adults, students, and adults by catering to all of them, providing a variety of options. It functions as a versatile marketing tool to capture a wide demographic.
+Acquire in-depth knowledge of WordPress child themes, focusing on their role in server maintenance. Utilize this understanding to construct a tailored child theme for the Twenty Twenty Two parent theme, enhancing the website's visual appeal and user engagement.
 
-Simultaneously, the second website adopts a more focused approach by tailoring content to specific target audiences section exclusively designed for adults. This segmented strategy ensures a more personalized and engaging experience for this demographic which happens to be the largest customer base for coffee shops and cafes, increasing the likelihood of customer acquisition by aligning with their unique preferences and needs.
-
-In essence, these two websites work synergistically to achieve the dual objectives of broad brand visibility and targeted engagement, catering to the distinct tastes and preferences of diverse audience segments. This approach is designed to maximize the impact of marketing efforts and foster long-term customer relationships across different age groups.
+In essence, child themes are extremely important in a real-world scenario for constant development and deployment. 
 
 In my [Week 1 Website](https://adityavijay1.github.io/CMS-Week1/index.html), [Week 2 Website](https://adityavijaycms.cloudaccess.host/index.php) and [Week 3 Website](https://adityavijaycmsprac.cloudaccess.host/), I made them each with different goals that can help contribute to the overall success of a website for a business. From each of these, through research and practical work I have learnt a lot about the industry standard and the importance of brand awareness that can help increase results of a business. Combining my knowledge and experience of these practicals along with my extensive online research, I have used them to build the two websites.
 
