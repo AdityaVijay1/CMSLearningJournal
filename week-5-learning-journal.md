@@ -85,7 +85,7 @@ This practical has provided a significant learning experience, greatly expanded 
  <br> <br>
 
 
-# Segmentation-Targeting-Positioning (STP) for :
+# Segmentation-Targeting-Positioning (STP) for Child Theme Customizations :
 
 ## Segmentation
 Freelance developers, agencies, businesses relying on WordPress requiring further modifications and customizations.
