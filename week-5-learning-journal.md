@@ -28,73 +28,35 @@ Hosting locally allows you complete control over the software configurations, ve
 # SMART Goals for Child Theme Customization :
 
 - Specific: 
-Create a child theme named "Twenty Twenty-Two Child" for the parent theme Twenty Twenty-Two by properly enqueueing stylesheets. Make 6 specific CSS modifications for elements like header, fonts, colors and spacing.
-Measurable: Successfully activate child theme without breaking site functionality. Quantitatively validate CSS changes like font sizes, spacing by inspecting pages relative to previous values.
-Achievable: Leverage online resources like WordPress codex, web tutorials etc combined with existing knowledge of CSS and themes to methodically build child theme from scratch and iteratively test modifications.
-Relevant: Mastering the creation of child themes allows visually customizing client websites powered by WordPress in a non-destructive manner so updates to core themes remain intact.
-Time-bound: Finish setting up child theme file/folder infrastructure within 3 days and implement planned style changes over 4 days dedicating 1-2 hours daily.
+Create a child theme named "Twenty Twenty-Two Child" for the parent theme Twenty Twenty-Two <br>
+Enqueue CSS stylesheet properly to override parent styles <br>
+Make 6 specific CSS modifications for elements like header, fonts, colors and spacing <br>
 
+- Measurable: 
+Successfully activate child theme without breaking site functionality. Quantitatively validate CSS changes like font sizes, spacing by inspecting pages relative to previous values.
 
-## SMART Goals for Website 1: Comprehensive Brand Awareness
-
-- Specific:
-
-Develop age-appropriate content for kids, such as engaging activities and informative content. Tailor content for young adults by focusing on trendy coffee trends and lifestyle blogs. Provide students with engrossing resources about coffee origins and brewing techniques. Emphasize the sophisticated and relaxing aspects of coffee culture for adults.
-Implement a segmented marketing strategy by using the website and links to different social media platforms. Utilize platforms like YouTube Kids for kids, engaging with child-friendly influencers. Tailor content for young adults on platforms like Instagram and TikTok which are comfortable to see in a short period of time before they lose interest. Share content and business achievements for students on platforms like LinkedIn and X (Twitter). Utilize Facebook and Pinterest for lifestyle-focused material for adults.
-
-- Measurable:
-
-Track website traffic using analytics tools, such as google analytics on the website aiming for a 30% increase in overall visits within three months. Monitor the performance of each demographic-specific page.
-Reducing customer acquisition costs would be the main goal that can be done once a well established brand name is created which can be done through having a website which greatly increases online presence.
-Monitor engagement metrics, including likes, shares, and comments, with a goal of a 20% rise across all demographics to understand more about the customer base as well as the specific ones for the business. Measure the effectiveness of content and product through customer surveys and feedback.
-
-- Achievable:
-
-Ensuring that the website design and features align with the business's current capabilities and resources and is also catered towards the user's needs and keeps the user engaged to be interested in the website . Increasing brand awareness through a website.
-Offer incentives such as discounts or exclusive content that they maybe able to reach/achieve through buying products for the purpose increasing engagement.
+- Achievable: 
+Overcome challenges related to coding and uploading the child theme, ensuring it is functional,  effective while iteratively testing modifications.
 
 - Relevant:
+Mastering the creation of child themes allows visually customizing client websites powered by WordPress in a non-destructive manner so updates to core themes remain intact.
+Apply the learned concepts to improve the visual appeal and user response system of the website.
 
-Regularly update the blog section with content addressing trending topics within each demographic. Keep content fresh, interesting, and aligned with the specific interests of each age group. Position the website as a place where young adults and students can study or possibly work.
-Collect and feature customer testimonials and stories, emphasizing the positive experiences of different age groups. Highlight diverse customer experiences to make the brand relatable.
+- Time-bound: 
+Finish setting up child theme file/folder infrastructure.
+Do customizations while checking and comparing the different outputs.
 
-- Time-Bound:
 
-Launch targeted ad campaigns on the website and social media platforms within the first month. Utilize paid advertising to reach specific demographics and maximize visibility.
-Initiate partnerships with kid-focused websites, lifestyle blogs, and educational platforms within the first two months. Strengthen the brand's presence through collaborations that resonate with each age group. Set a realistic timeline for launching the website and establish milestones for ongoing updates, improvements, and marketing efforts to drive sustained growth and maintaining the website with updates, the aim for our business is to increase customer engagement and reduce the customer acquisition costs.
-
-## SMART Goals for Website 2: Targeted Engagement
-
-- Specific:
-
-Design distinct sections for adults, with content tailored to their interests and needs. Implement a trendy, visually appealing layout and sophisticated design for adults. 
-Offer a unique browsing experience by  allowing users to customize their profiles, save favorite content, and receive personalized recommendations based on their preferences which can be automatically done through cookie setups and responses.
-
-- Measurable:
-
-Monitor user engagement through comments, forum participation, and content sharing, aiming for a 20% increase within three months. Implement tools to track user interactions and analyze engagement metrics. This can be done through google analytics. Increase online engagement by implementing features like contacting us, product menus, and online ordering, which can be tracked through viewing active user numbers, content engagement (the specific web pages), and feedback. 
-Track the growth of user accounts and participation within this segmented section to see how the targeted customer base engages and whether this dedicated segment has an impact. 
-
-- Achievable:
-
-Tailoring the website content to align with the coffee business's brand identity, values, and customer expectations. Ensuring that the products and store is tailored towards adults. 
-Significant increase in customers who are adults.
-
-- Relevant:
-
-Regularly update content calendars based on feedback, trending topics, and seasonal interests. Keep the content relevant and aligned with the preferences of the  demographic. Implement a feedback mechanism to gather insights from users.
-Create an interactive community forum for adults, fostering discussions and connections. Provide a platform for adult users to share experiences, tips, and recommendations related to coffee.
-
-- Time-Bound:
-
-Launch targeted email campaigns and promotions to encourage sign-ups within the first two weeks. Use email marketing to promote the website's features and encourage users to create accounts.
-Initiate partnerships with organizations, forums, and lifestyle influencers within the first month and sponsor a few events to help increase word of mouth as that is a free form of marketing. Establish collaborations to increase the website's visibility and attract the target audience for each segment.
-
-By adhering to SMART criteria, the coffee business can approach website development through Joomla and WordPress, Content Management Systems, with a strategic and goal-oriented mindset, enhancing its online presence and fostering a more connected and dynamic relationship with its customer base. <br>
 
 ## Learning Activities & Resources
-During the assignment I have used plenty of information gained from Professor's perspective of my topic, class lecture, practical work done and a lot of articles and videos online to understand more about Content Management Systems, Joomla, WordPress and the proper way to deliver a product which serves its targeted purpose.
-I have spent several hours trying to understand how does Joomla and WordPress work and how to make a website using it through the different types of components that both of them offer. I have also again viewed through multiple web hosting services to find the best ones that offer ease of access as the one I had found last week stopped working.
+I dedicated time this past week actively studying child themes and then applying those concepts to build a custom child theme for the Twenty Twenty-Two WordPress theme.
+
+I studied details around:
+
+Relationship between parent themes and child themes in WordPress
+Using functions.php, enqueueing CSS/JS files properly in child themes
+Making changes to style rules in child CSS overriding parent styling safely
+Benefits of child themes for customization without core edits
 
 Resources used:
 1) Joomla Website Building: https://www.youtube.com/watch?v=h5VZwTLdgdM&ab_channel=TechRuzzTutorials
@@ -134,7 +96,7 @@ For both websites, I have done paid hosting service for better resources and acc
 
 
 # Estimated Hours
-I spent approximately 22 hours this week on Content Management System Assignment 1
+I spent approximately 10 hours this week on Practical 5 Tasks 
 
 # Content Insights
 This week I learnt a lot of things related to Joomla, WordPress, Segmentation-Targeting-Positioning (STP) and the Four Ps (Product,Price,Place,Promotion) from the class lecture, practical work and online research. I created two different websites with different targeted goals based on the demographic of the business and created a website to specifically target a younger audience by providing a product line to their liking and a place for them to study, talk and meet with friends and the second website specifically targeting only adults, by providing them with a combination of coffee and smoking that has a huge customer base but not a lot of places that offer them. For this assignment, I had done plenty of research that has allowed me to learn a wide variety features and knowledge about Joomla and WordPress. 
