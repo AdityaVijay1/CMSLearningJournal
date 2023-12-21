@@ -51,184 +51,79 @@ Do customizations while checking and comparing the different outputs.
 ## Learning Activities & Resources
 I dedicated time this past week actively studying child themes and then applying those concepts to build a custom child theme for the Twenty Twenty-Two WordPress theme.
 
-I studied details around:
-
-Relationship between parent themes and child themes in WordPress
-Using functions.php, enqueueing CSS/JS files properly in child themes
-Making changes to style rules in child CSS overriding parent styling safely
+I studied details around: <br>
+Relationship between parent themes and child themes in WordPress. Child themes allow users to override and adapt certain parts of the parent theme like visual styles, fonts, colors etc without modifying the source code. This is achieved by using proper specificity in CSS.
+Making changes to style rules in child CSS overriding parent styling safely, however I faced a lot of issues with setting up the child theme due to an error when uploading and activating the theme, which took a lot of time to troubleshoot as due to the lack of resources online on that topic.
 Benefits of child themes for customization without core edits
 
 Resources used:
-1) Joomla Website Building: https://www.youtube.com/watch?v=h5VZwTLdgdM&ab_channel=TechRuzzTutorials
-2) Joomla Blog Practice: https://www.youtube.com/watch?v=FzMCGy7XFvo&ab_channel=TechRuzzTutorials
-3) WordPress Website Building: https://www.youtube.com/watch?v=O79pJ7qXwoE&t=2011s&ab_channel=freeCodeCamp.org
-4) Web Hosting: https://www.youtube.com/watch?v=Qbi74ID0BEU&ab_channel=TechExpress
-5) WordPress on AWS: https://www.youtube.com/watch?v=05jr0XdB00U&ab_channel=DarrelWilson
-6) AWS: https://www.youtube.com/watch?v=wzhTAwRbdXw&ab_channel=AmazonWebServices
-7) Google Analytics: https://www.youtube.com/watch?v=uHbznbtqz-E&ab_channel=EyeonTech
-8) Google Analytics Details: https://www.techtarget.com/searchcustomerexperience/tip/6-ways-to-use-analytics-to-improve-customer-engagement?utm_source=youtube&utm_medium=description&utm_campaign=042021Google&utm_content=Google&Offer=OTHR-youtube_OTHR-video_OTHR-Google_2021April21_Google
-8) Four P's: https://www.investopedia.com/terms/f/four-ps.asp
-9) STP: https://www.yieldify.com/blog/stp-marketing-model/
-10) Web Hosting Sites Comparison: https://www.youtube.com/watch?v=PNaSC74vm9M&t=397s&ab_channel=DarrelWilson
-<br>
-Web hosting services compared:<br>
-1) Hostinger<br>
-2) InfinityFree<br>
-3) SiteGround<br>
-4) Amazon Web Services (AWS)<br>
-<br>
-Reasons why I chose AWS:
-
-1) Reasonable Cost and Comfort:
-Although there are free options such as InfinityFree  making it a budget-friendly option, it had a lot of problems regarding the security and the way of accessing the website.
-SiteGround, Hostinger and Amazon Web Services do have introductory prices, however I chose Amazon Web Services as I found the ease of access to it was much better and allowed me to maintain both websites .
-
-2) Ease of Use:
-Amazon Web Services provides a user-friendly interface, making it possible to reach your domain with 2 simple clicks, extremely suitable for beginners.
-Whereas other options do offer user-friendly interfaces but may have more advanced features which may confuse a beginner.
-
-3) Resource Limitations:
-InfinityFree provides limited resources for small websites.
-SiteGround and Hostinger offer better resources, but they come at a cost.
-Amazon Web Services provides a good amount of resources at a lower cost as compared to the others
-
-For both websites, I have done paid hosting service for better resources and accessibility to ensure that the website can be well maintained and updated for the future with any changes that come about, which is crucial for Content Management Systems
-
+1) WordPress Child Theme Details: https://www.youtube.com/watch?v=Wpc6FAsi7xI&ab_channel=FerdyKorpershoek
+2) WordPress Developer Resources: https://developer.wordpress.org/themes/advanced-topics/child-themes/
+3) Twenty TwentyTwo Theme: https://www.youtube.com/watch?v=U9cYhzipEFk&ab_channel=ElmaStudio
 
 # Estimated Hours
 I spent approximately 10 hours this week on Practical 5 Tasks 
 
 # Content Insights
-This week I learnt a lot of things related to Joomla, WordPress, Segmentation-Targeting-Positioning (STP) and the Four Ps (Product,Price,Place,Promotion) from the class lecture, practical work and online research. I created two different websites with different targeted goals based on the demographic of the business and created a website to specifically target a younger audience by providing a product line to their liking and a place for them to study, talk and meet with friends and the second website specifically targeting only adults, by providing them with a combination of coffee and smoking that has a huge customer base but not a lot of places that offer them. For this assignment, I had done plenty of research that has allowed me to learn a wide variety features and knowledge about Joomla and WordPress. 
+## The hands-on practical tasks provided well-rounded insights on:
 
-For the Joomla Website, I had to learn a lot about the customization it offered and how I can use them to design and match my goal for the website to have an appropriate layout and designs. I had installed extensions that required me to learn a lot about as they each consisted of their own unique features.
+1) Leveraging CSS specificity for overriding parent theme styles without complexity
+2) Similarities and differences between standard themes and child themes
+3) Techniques for enqueueing stylesheets properly based on WordPress standards
+4) Troubleshooting issues with activating or applying styles during development
 
-Extensions and Plugins Used:
-1) Slide Show Extension: Used for showcasing different slides that are extremely useful to gain attention to certain pages and highlight important points.
-2) Komento Extension: Used, so that users can leave comments on the websites.
-3) Contact Us Form: Used, so that users can easily contact the business with any queries or feedback.
-4) Akeeba Backup: As I was experimenting with different plugins and extensions, I had to use this plugin so that I could reach my last saved point in case anything went wrong.
-5) Progress Bar: To help increase the visual appearance and highlight the different goals of the business, I used progress bars which make it easier to quickly view and understand the content
-<br>
-For my WordPress Website, I had to learn a lot about WordPress in a short period of time, as I had only a little experience with it. The demographic chosen are the main customer base for this business and are highly important to be catered to, for the business and the website to be a success. I have learned a lot about the similarities and differences between Joomla and WordPress through this assignment.I have also utilized plugins for WordPress as well.
+## Core Concepts Learnt:
 
-Extensions and Plugins Used:
-1) Yoast SEO: Since this website, contains a lot of text, images and videos it is highly important to use an SEO to understand how the website would be scanned to help increase the chances of a user finding the website. Yoast SEO provides you with details and the SEO score of your page, using this information you can help make your website better
-2) WooCommerce: I have attempted to setup a menu ordering system on the website, that can help add items to carts and check the total.
-3) Akismet Anti-spam Spam Protection: Since the website has a blog page, this plugin helps prevent spam from happening and is very useful in filtering out unwanted messages.
-<br>
+1) Maintaining parent-child separation for updates, edits without conflicts
+2) Following naming conventions for seamless discovery and activation
+3) Planning modifications in child CSS without affecting source theme
 
+The process revealed insights like testing exhaustively at every step, delicately building layer by layer while regularly validating functionality.
 
-This assignment has provided a significant learning experience, greatly expanded my knowledge, drive for self learning and research allowing for the creation and customization of websites tailored to a coffee business with proper goal-driven targets. The process of working with both Joomla and WordPress unveiled a range of functionalities and tools specific to the content management system. Learning about Joomla's structure, modules, and template customization provided valuable insights into efficient website management and WordPress's unique structure, system and template customization as well provided deeper insights on Content Management Systems. Understanding how to navigate and optimize these different features was particularly enlightening, as it opened up opportunities to efficiently present content, reach different goals and create an overall engaging online experience for the coffee business.
+This practical has provided a significant learning experience, greatly expanded my knowledge, drive for self learning and research allowing for the creation and customization of a theme with proper goal-driven targets. The process of working with child themes unveiled a range of functionalities and usefulness to the content management system. Learning about WordPress's unique structure, system and template customization as well provided deeper insights on Content Management Systems. Understanding how to customize and optimize the child theme through CSS was particularly enlightening, as it opened up opportunities to efficiently make changes without disruption of functionality.
 
-Through this assignment, I understood the need for tailoring content towards specific demographic to gain attention and awareness towards a brand and was an overall enlightening experience to have a mixture of design, information and technology. <br> <br>
+ <br> <br>
 
 
-# Segmentation-Targeting-Positioning (STP) for Brews & Bubbles Bistro:
+# Segmentation-Targeting-Positioning (STP) for :
 
 ## Segmentation
+Freelance developers, agencies, businesses relying on WordPress requiring further modifications and customizations.
 
-Demographic: <br>
-a) Adults (21-50) <br> 
-b) Adults with children/Kids <br>
-c) Young Adults & Students <br>
-
-Geographic: <br>
-a) Urban and suburban areas <br>
-b) Locations near schools and colleges <br>
-c) 4 Different Countries (Singapore, China, Paris, Los Angeles) <br>
-
-Psychographic: <br>
-a) Coffee enthusiasts <br>
-b) Health-conscious consumers <br>
-c) Families seeking a cozy atmosphere <br>
-d) Students and Kids finding a place to interact and socialize <br>
-
-Behavioral: <br>
-a) Regular coffee drinkers and smokers <br>
-b) Customers interested in a kid-friendly environment <br>
-c) Individuals looking for a variety of coffee and drink options <br>
-d) Place for networking and socializing <br>
-<br><br>
 ## Targeting
-Brews & Bubbles Bistro aims to target the following segments:
+Focus on small web design teams, independent consultants building client sites
 
-a) Families with Children:
-Offering a diverse menu, including kid-friendly drinks and snacks.
-Creating a welcoming ambiance for families.
-<br>
-b) Coffee Enthusiasts:
-Providing a range of high-quality coffee beans and brewing methods.
-Hosting events and workshops for coffee connoisseurs.
-<br>
-c) Students:
-Introducing budget-friendly options.
-Offering a comfortable space for studying and socializing.
-<br>
-d) Smokers:
-People interested in smoking and having coffee, which not many places provide.
-Offering a relaxing place to do so.
-<br>
 
 ## Positioning
-Brews & Bubbles Bistro positions itself as a versatile and inclusive coffee hub:
-<br>
-a) For Families:
-"A Family-Friendly Haven for Coffee Lovers of All Ages."
-Emphasizing a warm atmosphere and a diverse menu for adults and children.
-<br>
-b) For Coffee Enthusiasts:
-"Crafting Moments, One Sip at a Time."
-Highlighting the quality and craftsmanship of our coffee offerings.
-<br>
-c) For Students:
-"Fueling Minds, Igniting Conversations."
-Positioning as a study-friendly environment with affordable options.
-<br>
-d) For Smokers:
-" Relax and kick back a little, have a bevarage and a smoke."
-Positioning as a place, to cool off and relax, interact with friends with quality beverages.
-<br>
+Small businesses, startups,etc.
+Child themes provide a flexible way for developers to achieve custom looks, enhance functionality for client websites without requiring underlying code access or interference with core WordPress theme files. This allows retention of parent theme benefits like updates while creating tailored end products.
 
-## Unique Selling Proposition (USP)
-Brews & Bubbles Bistro stands out by offering a curated experience for both adults and children, providing a diverse menu, quality coffee, and a warm ambiance, making it the perfect destination for all coffee lovers and beyond. It offers a place for the largest consumers of coffee who are adults to interact and enjoy the essence of coffee and other beverages along with smoking which not many places offer at all.
+
 
 # Four P's:
 1. **Product**:
-Diverse Coffee Menu: Offering a variety of high-quality coffee beans, brewing methods, and flavors.<br>
-Kid-Friendly Options: Specialized drinks and treats designed for children.<br>
-Snacks and Pastries: Complementing the coffee experience with delicious snacks.<br>
-Adult-oriented Menus: Sections that have beverages, that pair well with having a smoke. <br>
+Child theme package offering user-friendly customization of all front-end and back-end elements like styles, templates, modules beyond limitations of parent themes
 
 2. **Price**:
-Competitive Pricing: Ensuring affordability without compromising on quality.<br>
-Student Discounts: Introducing special pricing and promotions for students.<br>
-Value Bundles: Offering combo deals for families and groups.<br>
-Better Market Pricing: Deals and offers provided have been compared to beat out competition. <br>
+Budget friendly pricing for initial setup and first few edits, incremental charges for additional modifications
 
 3. **Place**:
-Central Location: Situating the coffee shop in urban and suburban areas, accessible to the target audience.<br>
-Cozy Ambiance: Creating a welcoming and comfortable environment for customers.<br>
-Locations: 4 Locations around the world, along with 3 stores in each of them, which helps increase the ease of access for customers. <br>
-Online Presence: Establishing a user-friendly website for online orders and information.<br>
+No added software downloads necessary, provide remote assistance <br>
+Online Presence
 
 4. **Promotion**:
-Opening Promotions: Special discounts and freebies during the initial launch phase.<br>
-Website Engagement: Engagements through the website, code drops for discounts, blog posts, etc. <br>
-Loyalty Programs: Introducing rewards for frequent customers and referrals.<br>
-Social Media Campaigns: Engaging with the audience through platforms like Instagram and Facebook.<br>
-Collaborations: Partnering with local events or influencers for wider reach.<br><br>
+Discounted bundled pricing with web hosting services under agency partners
 
-These Four P's collectively form a strategic marketing mix to position Brews & Bubbles Bistro as a go-to destination for diverse coffee experiences, catering to individuals, families, and students alike.
+These Four P's collectively form a strategic marketing mix to understand the value of Child themes
 
 # Career/Employability/Learning Insights
-- **Career/Employability**: After completing this assignment, the in-depth exploration of the different Content Management Systems available, more specifically Joomla and WordPress that I decided to use during these activities contributes directly to enhancing skills relevant to web content management systems. Acquiring knowledge about their capabilities such as their features, customization process, the use of different plugins and extensions, value of user input/feedback positions me well to manage and optimize content for business and provided a demonstration of adaptability in web content creation. This experience highlighted the importance of a target audience and the different needs and requirements that are needed to provide the target user with a good experience to keep them engaged and interested which provided insights into targeted marketing.
+- **Career/Employability**: Gaining first-hand experience with child themes for visually customizing WordPress sites enhanced skills relevant for roles as a web developer working with open-source CMS platforms. Understanding parent-child relationships and safely overriding the Twenty Twenty-Two parent theme's templates via specificity in my child CSS prioritizes separation of concerns critical in customized implementations.
+As many organizations rely on WordPress, the ability to adapt the existing Twenty Twenty-Two default theme to achieve particular branding needs with my CC Custom Child theme while retaining core updatability streamlines development and ongoing maintenance. Hands-on troubleshooting of activation and stylistic issues indicates technical aptitude to employers. Overall, fluency around adapting base themes augments employability for web design/development needs involving WordPress and digital agencies or consultancies in particular.
+
+
 <br>
 
-- **Learning Insights**: Having done a lot of research on web hosting which lead to Amazon Web Services has made me learn a lot about "Cloud" features and services, which not only opens up opportunities to practice and learn more, but even seek a future career in it. This newfound expertise in the Content Management Systems through self learning and practice not only strengthens my technical skills but also adds a valuable asset to my portfolio and increases the value of using different learning resources and online research to get a better understanding of the software boosting the practice of lifelong learning and constantly evolving in the field to keep up with demand. I have also learnt a lot more about the importance of presenting content and the importance of positioning and the use of images,videos and text which drastically effect the quality of work that should be delivered making me more adept at handling diverse web projects and contributing to my overall employability in the digital landscape. 
-
-# Websites for Assignment 1:
-1) [Joomla Website (Website 1)](http://13.229.183.26/)
-2) [WordPress Website (Website 2)](http://47.128.86.84/)
+- **Learning Insights**: Creating a child theme by extending the WordPress Twenty Twenty-Two theme provided immersive learning about building upon existing parent frameworks. Studying concepts like enqueueing stylesheets proves valuable. The first-hand exposure enriching personal skills now also opens up additional learning avenues around thickness within the wider WordPress ecosystem like plugins, API integration etc. Having concrete evidence of being able to modify default themes to satisfy project needs aids freelancing or entrepreneurial opportunities too.
+The blend of technical skills and soft skills like navigating ambiguity, problem-decomposition practiced strengthens adaptability for ever-evolving languages and paradigms vital to stay relevant. Overall, the focused learning crystallizes another specialization to offer professionally.
 
 
