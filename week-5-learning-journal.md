@@ -13,7 +13,7 @@ This learning journal serves as a reflective tool, documenting the journey of ac
 # Description of the Task
 Understanding and creating child theme for popular default theme, Twenty Twenty-Two and customizing the CSS code for changing the appearance
 <br>
-# Goal: Develop a comprehensive understanding of child themes in WordPress and apply this knowledge to create a customized child theme for the Twenty Twenty Two parent theme, improving the website's aesthetics and user response system and engagement.
+# Goal: Develop a comprehensive understanding of child themes in WordPress and apply this knowledge to create a customized child theme for the Twenty Twenty Two parent theme, improving the website's aesthetics, user response system and engagement.
 
 The main goal of this week's practical task is to understand the concept of child themes and the  of using it appropriately to maintain a website in the sense that, despite development is going on the website's functionality is not disturbed and continues to function as intended while upgrades or updates are first tested out on child theme and once everything is confirmed and works then it can be deployed.
 
