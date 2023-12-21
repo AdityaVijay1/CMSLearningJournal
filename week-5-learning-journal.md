@@ -23,17 +23,16 @@ In essence, child themes are extremely important in a real-world scenario for co
 
 In my past practicals, I had done all my work using online web hosting services that provide the service of Joomla and WordPress. Last week I had setup my local host and WordPress on it, so this week adding onto it, I learnt about child themes and the importance of them and customization of CSS code on the local host setup.
 
-This assignment helps create a: 
-1) Defined target audience
-2) A user-friendly website
-3) Information about the business
-4) Blogs and other details that provide information and entertainment 
-5) Wide variety menu
-6) Details about the business that can help increase visits to the stores
-
-In response to the evolving needs of the contemporary business environment, establishing an online presence for the coffee business becomes imperative. Crafting a website is a strategic move that aligns with the digital landscape's requirements, providing a multifaceted solution. This digital platform not only amplifies visibility but also acts as a dynamic hub for customer interaction, product display, and operational efficiency. Embracing a website ensures accessibility, convenience, and a distinctive market advantage.
+Hosting locally allows you complete control over the software configurations, versions, and web server settings without relying on a third party hosting provider's limitations.Maintaining your own local server avoids the recurring hosting costs associated with paying for remote hosting or cloud servers. This is a budget-friendly setup. A local server allows you to mimic and test production-style deployments during development. Can evaluate integrations, optimizations etc. in isolation.
 <br>
-# SMART Goals for Coffee Business Website:
+# SMART Goals for Child Theme Customization :
+
+- Specific: 
+Create a child theme named "Twenty Twenty-Two Child" for the parent theme Twenty Twenty-Two by properly enqueueing stylesheets. Make 6 specific CSS modifications for elements like header, fonts, colors and spacing.
+Measurable: Successfully activate child theme without breaking site functionality. Quantitatively validate CSS changes like font sizes, spacing by inspecting pages relative to previous values.
+Achievable: Leverage online resources like WordPress codex, web tutorials etc combined with existing knowledge of CSS and themes to methodically build child theme from scratch and iteratively test modifications.
+Relevant: Mastering the creation of child themes allows visually customizing client websites powered by WordPress in a non-destructive manner so updates to core themes remain intact.
+Time-bound: Finish setting up child theme file/folder infrastructure within 3 days and implement planned style changes over 4 days dedicating 1-2 hours daily.
 
 
 ## SMART Goals for Website 1: Comprehensive Brand Awareness
