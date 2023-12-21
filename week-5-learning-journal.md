@@ -8,7 +8,7 @@ This overview is intended to provide a description of the tasks completed in Pra
 <br>
 # Use of Learning Journal 
 
-This learning journal serves as a reflective tool, documenting the journey of acquiring new skills, insights, and experiences during assignment 1. It provides a platform to track learning activities, estimate the time invested, gain content insights, and reflect on career, employability, and learning perspectives.
+This learning journal serves as a reflective tool, documenting the journey of acquiring new skills, insights, and experiences during this week's practical tasks. It provides a platform to track learning activities, estimate the time invested, gain content insights, and reflect on career, employability, and learning perspectives.
 <br>
 # Description of the Task
 Understanding and creating child theme for popular default theme, Twenty Twenty-Two and customizing the CSS code for changing the appearance
@@ -21,7 +21,7 @@ Acquire in-depth knowledge of WordPress child themes, focusing on their role in 
 
 In essence, child themes are extremely important in a real-world scenario for constant development and deployment. 
 
-In my [Week 1 Website](https://adityavijay1.github.io/CMS-Week1/index.html), [Week 2 Website](https://adityavijaycms.cloudaccess.host/index.php) and [Week 3 Website](https://adityavijaycmsprac.cloudaccess.host/), I made them each with different goals that can help contribute to the overall success of a website for a business. From each of these, through research and practical work I have learnt a lot about the industry standard and the importance of brand awareness that can help increase results of a business. Combining my knowledge and experience of these practicals along with my extensive online research, I have used them to build the two websites.
+In my past practicals, I had done all my work using online web hosting services that provide the service of Joomla and WordPress. Last week I had setup my local host and WordPress on it, so this week adding onto it, I learnt about child themes and the importance of them and customization of CSS code on the local host setup.
 
 This assignment helps create a: 
 1) Defined target audience
