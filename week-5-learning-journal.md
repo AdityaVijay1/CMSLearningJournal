@@ -127,3 +127,19 @@ As many organizations rely on WordPress, the ability to adapt the existing Twent
 The blend of technical skills and soft skills like navigating ambiguity, problem-decomposition practiced strengthens adaptability for ever-evolving languages and paradigms vital to stay relevant. Overall, the focused learning crystallizes another specialization to offer professionally.
 
 
+
+# Website Customizations Done:
+
+
+## Website Before:
+
+![befimage](https://github.com/AdityaVijay1/CMSLearningJournal/assets/84958533/429d4747-8025-48ee-85af-9e52ddbec3ff)
+![image](https://github.com/AdityaVijay1/CMSLearningJournal/assets/84958533/6e285b90-667c-4ffc-99c5-139dd6093684)
+
+
+## Website After:
+
+![image](https://github.com/AdityaVijay1/CMSLearningJournal/assets/84958533/a625d1a5-1d19-45a7-a556-3bacf5161a7c)
+![image](https://github.com/AdityaVijay1/CMSLearningJournal/assets/84958533/36a44bd8-b5a4-4e95-b1d0-240d543b3080)
+
+
