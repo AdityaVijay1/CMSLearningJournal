@@ -1,4 +1,4 @@
-# Week 5 Learning Journal Content Management System
+# Week 6 Learning Journal Content Management System
 # Explanation of Content and Learning Journal
 
 Name: Aditya Vijay 
