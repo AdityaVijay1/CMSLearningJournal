@@ -47,7 +47,7 @@ Integration of Trello, Slack, and GitHub should be operational <br>
 ## Learning Activities & Resources
 I dedicated time this past week to further increase my knowledge and skills in using the project management tools and resources that would be required for successful teamwork towards the group goals 
 
-I led the setup of essential group resources for our project, emphasizing Trello for task management, Slack for communication, and GitHub for version control. I delved into the integration process, connecting Slack to GitHub to streamline communication, keep members updated on any project updates and task updates, I also integrated Trello into Slack that would allow for better project management as we can create and move tasks in different cards through it. One thing I did notice is that every team member would have to subscribe to Github and Trello so that they can view these updates. Collaboratively, our team focused on project planning, ensuring a thorough breakdown of tasks and responsibilities. We explored the functionalities of each platform to optimize their use for effective collaboration. Every team member collectively gave their insights and shared their knowledge on the different subjects of discussion. 
+I led the setup of essential group resources for our project, emphasizing Trello for task management, Slack for communication, and GitHub for version control. I delved into the integration process, connecting Slack to GitHub to streamline communication, keep members updated on any project updates and task updates, I also integrated Trello into Slack that would allow for better project management as we can create and move tasks in different cards through it. Trello to manage tasks, GitHub to store code, and Slack as a communication channel. I integrated the tools so Slack sends notifications on GitHub commits and creates Trello tasks. This allows transparency into everyone's work while keeping conversations and tasks organized. One thing I did notice is that every team member would have to subscribe to Github and Trello so that they can view these updates. Collaboratively, our team focused on project planning, ensuring a thorough breakdown of tasks and responsibilities. We explored the functionalities of each platform to optimize their use for effective collaboration. Every team member collectively gave their insights and shared their knowledge on the different subjects of discussion. This helped us understand dependencies and workflow.
 
 Resources used:
 1) Daily Stand-Ups: https://www.youtube.com/watch?v=bQfH0Rbv-Mc&ab_channel=SiemensKnowledgeHub
@@ -65,20 +65,10 @@ I spent approximately 10 hours this week on Practical 6 Tasks
 # Content Insights
 ## The hands-on practical tasks provided well-rounded insights on:
 
-1) Leveraging CSS specificity for overriding parent theme styles without complexity
-2) Similarities and differences between standard themes and child themes
-3) Techniques for enqueueing stylesheets properly based on WordPress standards
-4) Troubleshooting issues with activating or applying styles during development
+The process of forming teams based on interview responses provided valuable insights into creating well-rounded groups with diverse skills and perspectives. This approach ensures comprehensive project coverage and promotes a collaborative environment. Setting up project management tools is crucial for group work. Trello enables task breakdown, assignment, and progress tracking. GitHub facilitates code collaboration and version control. Slack provides a shared communication history. Integrating them provides awareness of project activity across tools. Effective task decomposition is also key - we broke down the project into granular, assignable pieces of work across our skillsets. This level of planning and coordination doesn't happen organically and requires dedicated up-front effort.
 
-## Core Concepts Learnt:
-
-1) Maintaining parent-child separation for updates, edits without conflicts
-2) Following naming conventions for seamless discovery and activation
-3) Planning modifications in child CSS without affecting source theme
-
-The process revealed insights like testing exhaustively at every step, delicately building layer by layer while regularly validating functionality.
-
-This practical has provided a significant learning experience, greatly expanded my knowledge, drive for self learning and research allowing for the creation and customization of a theme with proper goal-driven targets. The process of working with child themes unveiled a range of functionalities and usefulness to the content management system. Learning about WordPress's unique structure, system and template customization as well provided deeper insights on Content Management Systems. Understanding how to customize and optimize the child theme through CSS was particularly enlightening, as it opened up opportunities to efficiently make changes without disruption of functionality.
+## Important Insight
+Regarding project management tools, our team opted for Trello over GitHub Projects due to its user-friendly interface and flexibility in task management. Trello's visual boards, cards, and lists allow for an intuitive and customizable workflow, making it an ideal choice for our diverse team. Additionally, past experiences of team members with Trello contributed to its selection, as familiarity and positive outcomes from previous projects underscored its effectiveness in enhancing productivity and coordination within our group setting.
 
  <br> <br>
 
