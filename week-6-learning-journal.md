@@ -21,24 +21,24 @@ Forming a team and gathering different inputs helped provided insights on our di
 <br>
 # SMART Goals for Team Formation and Setup  :
 
-- Specific: 
+- Specific: <br>
 Form teams based on interview responses <br>
 Set up  resources for communication and task management <br>
 Integrate Trello, Slack, and GitHub for the group project <br>
 
-- Measurable: 
+- Measurable: <br>
 Successful integration of Trello, Slack, and GitHub <br>
 Able to match and fit the criteria of all team members for Group Agreement and Project Planning <br>
 
-- Achievable: 
+- Achievable: <br> 
 All team members agree to group agreement and project planning <br>
 Everybody onboard and able to use these tools efficiently <br>
 
-- Relevant:
+- Relevant: <br>
 Ensure teams are balanced and aligned with project goals <br>
 Resource setup directly contributes to effective project collaboration as they are critical for group coordination and progress.<br>
 
-- Time-bound: 
+- Time-bound: <br> 
 Complete team formation and resource setup <br>
 Integration of Trello, Slack, and GitHub should be operational <br>
 
