@@ -13,7 +13,7 @@ This learning journal serves as a reflective tool, documenting the journey of ac
 # Description of the Task
 Forming a team for the group project based on interview's conducted previously, [Team Interviews](https://github.com/AdityaVijay1/CMSLearningJournal/blob/main/week-3-learning-journal.md#group-formation) and begin with setting up the resources that will be used by the team throughout the project along with other initial team tasks and discussions
 <br>
-# Goal: Form a team, setup group resources, begin with initial team tasks and discussions for ideas around the project
+# Goal: Form a team, setup group resources, begin with initial team tasks and discussions for ideas around the project.
 
 The main goal of this week's practical task is to establish efficient group collaboration for the project by forming teams based on interview responses and setting up integrated resources like Trello, Slack, and GitHub for seamless communication and task management as by effectively setting up project management tools and resources will enable smooth collaboration and task tracking.
 
@@ -45,17 +45,19 @@ Integration of Trello, Slack, and GitHub should be operational <br>
 
 
 ## Learning Activities & Resources
-I dedicated time this past week to further increase my knowledge and skills in using the project management tools 
+I dedicated time this past week to further increase my knowledge and skills in using the project management tools and resources that would be required for successful teamwork towards the group goals 
 
-I studied details around: <br>
-Relationship between parent themes and child themes in WordPress. Child themes allow users to override and adapt certain parts of the parent theme like visual styles, fonts, colors etc without modifying the source code. This is achieved by using proper specificity in CSS.
-Making changes to style rules in child CSS overriding parent styling safely, however I faced a lot of issues with setting up the child theme due to an error when uploading and activating the theme, which took a lot of time to troubleshoot as due to the lack of resources online on that topic.
-Benefits of child themes for customization without core edits
+I led the setup of essential group resources for our project, emphasizing Trello for task management, Slack for communication, and GitHub for version control. I delved into the integration process, connecting Slack to GitHub to streamline communication, keep members updated on any project updates and task updates, I also integrated Trello into Slack that would allow for better project management as we can create and move tasks in different cards through it. One thing I did notice is that every team member would have to subscribe to Github and Trello so that they can view these updates. Collaboratively, our team focused on project planning, ensuring a thorough breakdown of tasks and responsibilities. We explored the functionalities of each platform to optimize their use for effective collaboration. Every team member collectively gave their insights and shared their knowledge on the different subjects of discussion. 
 
 Resources used:
-1) WordPress Child Theme Details: https://www.youtube.com/watch?v=Wpc6FAsi7xI&ab_channel=FerdyKorpershoek
-2) WordPress Developer Resources: https://developer.wordpress.org/themes/advanced-topics/child-themes/
-3) Twenty TwentyTwo Theme: https://www.youtube.com/watch?v=U9cYhzipEFk&ab_channel=ElmaStudio
+1) Daily Stand-Ups: https://www.youtube.com/watch?v=bQfH0Rbv-Mc&ab_channel=SiemensKnowledgeHub
+2) Collaborating Effectively: https://www.youtube.com/watch?v=vradYqcXfGQ&ab_channel=HarvardBusinessReview
+3) Trello: https://www.youtube.com/watch?v=7BdNTfUXvyA
+4) GitHub Classroom: https://www.youtube.com/watch?v=xVVeqIDgCvM
+5) GitHub Projects: https://www.youtube.com/watch?v=lzpcyYIbHqE
+6) How to use Slack: https://www.youtube.com/watch?v=auOLczd22LQ
+7) Integrating Trello in Slack: https://www.youtube.com/watch?v=0Kf7r3vKYtw
+8) Integrating GitHub Repository in Slack: https://www.youtube.com/watch?v=oMU9MUIXPyI 
 
 # Estimated Hours
 I spent approximately 10 hours this week on Practical 6 Tasks 
