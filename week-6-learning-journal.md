@@ -45,7 +45,7 @@ Integration of Trello, Slack, and GitHub should be operational <br>
 
 
 ## Learning Activities & Resources
-I dedicated time this past week actively studying child themes and then applying those concepts to build a custom child theme for the Twenty Twenty-Two WordPress theme.
+I dedicated time this past week to further increase my knowledge and skills in using the project management tools 
 
 I studied details around: <br>
 Relationship between parent themes and child themes in WordPress. Child themes allow users to override and adapt certain parts of the parent theme like visual styles, fonts, colors etc without modifying the source code. This is achieved by using proper specificity in CSS.
@@ -58,7 +58,7 @@ Resources used:
 3) Twenty TwentyTwo Theme: https://www.youtube.com/watch?v=U9cYhzipEFk&ab_channel=ElmaStudio
 
 # Estimated Hours
-I spent approximately 10 hours this week on Practical 5 Tasks 
+I spent approximately 10 hours this week on Practical 6 Tasks 
 
 # Content Insights
 ## The hands-on practical tasks provided well-rounded insights on:
