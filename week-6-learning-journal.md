@@ -11,7 +11,7 @@ This overview is intended to provide a description of the tasks completed in Pra
 This learning journal serves as a reflective tool, documenting the journey of acquiring new skills, insights, and experiences during this week's practical tasks. It provides a platform to track learning activities, estimate the time invested, gain content insights, and reflect on career, employability, and learning perspectives.
 <br>
 # Description of the Task
-Forming a team for the group project based on interview's conducted previously, [Team Interviews](https://github.com/AdityaVijay1/CMSLearningJournal/blob/main/week-3-learning-journal.md#group-formation) and begin with setting up the resources that will be used by the team throughout the project along with other initial team tasks and discussions
+Forming a team for the group project based on interview's conducted previously, [Team Interviews](https://github.com/AdityaVijay1/CMSLearningJournal/blob/main/week-3-learning-journal.md#group-formation) and begin with setting up the resources that will be used by the team throughout the project along with other initial team tasks and discussions. Start
 <br>
 # Goal: Form a team, setup group resources, begin with initial team tasks and discussions for ideas around the project.
 
@@ -70,39 +70,49 @@ The process of forming teams based on interview responses provided valuable insi
 ## Important Insight
 Regarding project management tools, our team opted for Trello over GitHub Projects due to its user-friendly interface and flexibility in task management. Trello's visual boards, cards, and lists allow for an intuitive and customizable workflow, making it an ideal choice for our diverse team. Additionally, past experiences of team members with Trello contributed to its selection, as familiarity and positive outcomes from previous projects underscored its effectiveness in enhancing productivity and coordination within our group setting.
 
- <br> <br>
+Our group also opted for Visual Studio Code (VS Code) over Sublime Text and Atom as the preferred code editor for customizing the WordPress website due to its versatility, efficiency, and collaborative features.
+VS Code stands out among other code editors for several reasons: <br>
+1) Integrated Version Control <br>
+2) Live Share for Collaboration <br>
+3) Continuous Updates and Community Support <br>
+4) Past experiences with the use of VSCode <br>
+
+While other code editors like Sublime Text and Atom have their merits, VS Code's combination of versatility, community support, and collaborative features makes it a strong choice for our WordPress customization project. Its adaptability to various languages, seamless integration with Git, and live collaboration capabilities align well with the dynamic and collaborative nature of web development projects.
+<br> <br>
 
 
-# Segmentation-Targeting-Positioning (STP) for Child Theme Customizations :
+# Segmentation-Targeting-Positioning (STP) for Group Formation and Resource Setup :
 
 ## Segmentation
-Freelance developers, agencies, businesses relying on WordPress requiring further modifications and customizations.
+People that can work well together, matching certain skills and more importantly able to help and assist one another. <br>
+Based around the team's needs. <br>
+Each team member works on different aspects for setting up group resources, group planning and setup. <br>
+
 
 ## Targeting
-Focus on small web design teams, independent consultants building client sites
-
+Aligned teams with project goals for effective collaboration and task distribution. 
 
 ## Positioning
-Small businesses, startups,etc.
-Child themes provide a flexible way for developers to achieve custom looks, enhance functionality for client websites without requiring underlying code access or interference with core WordPress theme files. This allows retention of parent theme benefits like updates while creating tailored end products.
+An integrated set of platforms to enable organized and efficient teamwork.
+The use of appropriate tools and resources.
 
 
 
 # Four P's:
 1. **Product**:
-Child theme package offering user-friendly customization of all front-end and back-end elements like styles, templates, modules beyond limitations of parent themes
+Trello, GitHub, Slack, Amazon Web Services (AWS)
 
 2. **Price**:
+Free Tiers<br>
 Budget friendly pricing for initial setup and first few edits, incremental charges for additional modifications
 
 3. **Place**:
-No added software downloads necessary, provide remote assistance <br>
-Online Presence
+Online <br>
 
 4. **Promotion**:
-Discounted bundled pricing with web hosting services under agency partners
+Word-of-mouth <br> 
+Online sharing <br>
 
-These Four P's collectively form a strategic marketing mix to understand the value of Child themes
 
 # Career/Employability/Learning Insights
 - **Career/Employability**: Gaining first-hand experience with child themes for visually customizing WordPress sites enhanced skills relevant for roles as a web developer working with open-source CMS platforms. Understanding parent-child relationships and safely overriding the Twenty Twenty-Two parent theme's templates via specificity in my child CSS prioritizes separation of concerns critical in customized implementations.
