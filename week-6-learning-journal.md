@@ -1,4 +1,4 @@
-# Week 6 Learning Journal Content Management System
+# Week 6 Learning Journal Content Management Systems
 # Explanation of Content and Learning Journal
 
 Name: Aditya Vijay 
@@ -116,9 +116,7 @@ Online sharing <br>
 
 
 # Career/Employability/Learning Insights
-- **Career/Employability**: Leading the setup of group resources enhanced my project management and collaboration skills. Integrating communication platforms like Slack with task management tools like Trello reflects my ability to streamline workflows. This experience contributes to my employability by showcasing proficiency in organizing and optimizing group processes for effective project execution as workflows is critical in a professional software engineering environment. The decision to use Trello over GitHub Projects as well as modern industry used code editor Visual Studio Code was based on its user-friendly interface, aligning with industry preferences and contributing to my adaptability in selecting the most suitable tools for collaborative work.
-
-
+- **Career/Employability**: Leading the setup of group resources enhanced my project management and collaboration skills. Integrating communication platforms like Slack with task management tools like Trello reflects my ability to streamline workflows. This experience contributes to my employability by showcasing proficiency in organizing and optimizing group processes for effective project execution as workflows is critical in a professional software engineering environment. The decision to use Trello over GitHub Projects as well as modern industry used code editor Visual Studio Code was based on its user-friendly interface, aligning with industry preferences and contributing to my adaptability in selecting the most suitable tools for collaborative work. <br>
 
 
 <br>
@@ -128,8 +126,10 @@ Online sharing <br>
 
 # Practical Tasks Links:
 
-- Slack: 
-- Trello:
-- GitHub Repository: 
+- Slack Invite Link: https://join.slack.com/t/contentmanage-ani8036/shared_invite/zt-296rkyd2p-FFHFp5g3RVoG6LWPsMyw~w
+- Slack Channel Link: https://app.slack.com/client/T069V1JREQP/C06A9JGNYJW
+- Trello: https://trello.com/b/T1Q9RoCq/Project%20Management%20CMS
+- GitHub Repository: https://github.com/AdityaVijay1/CMS-GroupPA1
+- Daily Stand-Up: https://jamboard.google.com/d/13ioBTYugC6YwWDIpfm3NOoIUAI48Mkwp06f5cjBfTmg/viewer
 
 
