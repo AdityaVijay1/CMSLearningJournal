@@ -58,6 +58,8 @@ Resources used:
 6) How to use Slack: https://www.youtube.com/watch?v=auOLczd22LQ
 7) Integrating Trello in Slack: https://www.youtube.com/watch?v=0Kf7r3vKYtw
 8) Integrating GitHub Repository in Slack: https://www.youtube.com/watch?v=oMU9MUIXPyI 
+9) Atom: https://www.youtube.com/watch?v=ttRAipyna8E&ab_channel=LearningPython
+10) Sublime: https://www.youtube.com/watch?v=k507xnNJ8Gs&ab_channel=LearningPython
 
 # Estimated Hours
 I spent approximately 10 hours this week on Practical 6 Tasks 
@@ -97,7 +99,6 @@ An integrated set of platforms to enable organized and efficient teamwork.
 The use of appropriate tools and resources.
 
 
-
 # Four P's:
 1. **Product**:
 Trello, GitHub, Slack, Amazon Web Services (AWS)
@@ -115,29 +116,20 @@ Online sharing <br>
 
 
 # Career/Employability/Learning Insights
-- **Career/Employability**: Gaining first-hand experience with child themes for visually customizing WordPress sites enhanced skills relevant for roles as a web developer working with open-source CMS platforms. Understanding parent-child relationships and safely overriding the Twenty Twenty-Two parent theme's templates via specificity in my child CSS prioritizes separation of concerns critical in customized implementations.
-As many organizations rely on WordPress, the ability to adapt the existing Twenty Twenty-Two default theme to achieve particular branding needs with my CC Custom Child theme while retaining core updatability streamlines development and ongoing maintenance. Hands-on troubleshooting of activation and stylistic issues indicates technical aptitude to employers. Overall, fluency around adapting base themes augments employability for web design/development needs involving WordPress and digital agencies or consultancies in particular.
+- **Career/Employability**: Leading the setup of group resources enhanced my project management and collaboration skills. Integrating communication platforms like Slack with task management tools like Trello reflects my ability to streamline workflows. This experience contributes to my employability by showcasing proficiency in organizing and optimizing group processes for effective project execution as workflows is critical in a professional software engineering environment. The decision to use Trello over GitHub Projects as well as modern industry used code editor Visual Studio Code was based on its user-friendly interface, aligning with industry preferences and contributing to my adaptability in selecting the most suitable tools for collaborative work.
+
+
 
 
 <br>
 
-- **Learning Insights**: Creating a child theme by extending the WordPress Twenty Twenty-Two theme provided immersive learning about building upon existing parent frameworks. Studying concepts like enqueueing stylesheets proves valuable. The first-hand exposure enriching personal skills now also opens up additional learning avenues around thickness within the wider WordPress ecosystem like plugins, API integration etc. Having concrete evidence of being able to modify default themes to satisfy project needs aids freelancing or entrepreneurial opportunities too.
-The blend of technical skills and soft skills like navigating ambiguity, problem-decomposition practiced strengthens adaptability for ever-evolving languages and paradigms vital to stay relevant. Overall, the focused learning crystallizes another specialization to offer professionally.
+- **Learning Insights**: This week's tasks provided insights into team formation, emphasizing the importance of diverse skill sets for comprehensive project coverage. Exploring the functionalities of Trello, Slack, and GitHub deepened my understanding of their roles in collaborative settings. The decision to use certain resources over others was influenced by its user-friendly interface and past positive experiences of team members. This choice underlines the significance of familiarity and ease of use in enhancing team productivity and coordination, contributing to valuable lessons in tool selection for effective project management. I also learnt the importance of group agreements as it helps sets the tone of the team's work culture and what is expected from the team members. Project planning is also extremely crucial as it  It helps everybody understand and express themselves.
 
 
+# Practical Tasks Links:
 
-# Website Customizations Done:
-
-
-## Website Before:
-
-![befimage](https://github.com/AdityaVijay1/CMSLearningJournal/assets/84958533/429d4747-8025-48ee-85af-9e52ddbec3ff)
-![image](https://github.com/AdityaVijay1/CMSLearningJournal/assets/84958533/6e285b90-667c-4ffc-99c5-139dd6093684)
-
-
-## Website After:
-
-![image](https://github.com/AdityaVijay1/CMSLearningJournal/assets/84958533/a625d1a5-1d19-45a7-a556-3bacf5161a7c)
-![image](https://github.com/AdityaVijay1/CMSLearningJournal/assets/84958533/36a44bd8-b5a4-4e95-b1d0-240d543b3080)
+- Slack: 
+- Trello:
+- GitHub Repository: 
 
 
