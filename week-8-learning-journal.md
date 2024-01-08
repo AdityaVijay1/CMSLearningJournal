@@ -34,7 +34,8 @@ c) Project Management: Monitor the percentage of completed tasks and milestones 
 d) Coding Standards: Analyze codebase consistency using predefined coding standard metrics. <br>
 e) Testing and Quality Assurance: Quantify the number of identified issues before and after implementation. <br>
 f) Security Practices: Measure the frequency of security audits and the time taken to address vulnerabilities. <br>
-g) Deployment and Maintenance: Monitor the time taken for deployment and the frequency of successful updates. <br>
+g) Performance Optimization: Track website load times and user experience improvements.
+h) Deployment and Maintenance: Monitor the time taken for deployment and the frequency of successful updates. <br>
 
 - Achievable: <br> 
  Ensure that the goals are realistic and attainable within the scope of the research. This may involve focusing on specific aspects of the WordPress development workflow or testing certain aspects in the project work for analysis. <br>
