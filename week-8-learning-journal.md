@@ -57,16 +57,16 @@ Here is my scientific method research on the topic:
 ## Scientific Method Research on WordPress Workflow
 
 ### Objective:
-To investigate and analyze the components of an effective WordPress development workflow and understand why it is crucial for successful website creation.
+To investigate and analyze the components of an effective WordPress development workflow and understand why it is crucial for successful website creation. <br>
 
 #### Observation:
-Observing the complexities of modern WordPress website development, including the geographical dispersion of teams and the increasing intricacy of projects.
+Observing the complexities of modern WordPress website development, including the geographical dispersion of teams and the increasing intricacy of projects. <br>
 
 #### Research Question:
-How does the implementation of a well-structured WordPress development workflow contribute to the success of website projects?
+How does the implementation of a well-structured WordPress development workflow contribute to the success of website projects? <br>
 
 #### Hypothesis:
-A well-defined WordPress development workflow, encompassing communication, role definition, project management, coding standards, testing, and security practices, is essential for efficient collaboration and the creation of successful and sustainable websites.
+A well-defined WordPress development workflow, encompassing communication, role definition, project management, coding standards, testing, and security practices, is essential for efficient collaboration and the creation of successful and sustainable websites. <br>
 
 #### Experiment:
 
@@ -75,69 +75,73 @@ A well-defined WordPress development workflow, encompassing communication, role 
 Hypothesized Outcome: Clear and robust communication channels enhance collaboration. <br>
 Implementation: Integration of communication tools like Slack and Trello. <br>
 Result: Improved communication and quick decision-making observed. <br>
-
+<br>
 - Role Definition:
 
 Hypothesized Outcome: Clearly defined roles reduce confusion and enhance efficiency. <br>
 Implementation: Established roles for leader, facilitator, developers and designers. <br>
 Result: Streamlined development process and increased accountability. <br>
-
+<br>
 - Project Management:
 
 Hypothesized Outcome: Project management tools facilitate coordination and progress tracking. <br>
 Implementation: Utilization of project management tools like Trello and GitHub. <br>
 Result: Improved coordination, task tracking, and milestone achievement. <br>
-
+<br>
 - Coding Standards:
 
 Hypothesized Outcome: Consistent coding standards lead to a maintainable codebase. <br>
 Implementation: Adherence to established WordPress coding standards. <br>
 Result: A cohesive and comprehensible codebase observed. <br>
-
+<br>
 - Testing and Quality Assurance:
 
 Hypothesized Outcome: Automated testing and peer code reviews ensure reliable development. <br>
 Implementation: Integration of Varying Vagrants Vagrant for automated testing. <br>
 Result: Early issue identification, continuous integration, and improved code quality observed. <br>
-
-f. Security Practices:
+<br>
+- Security Practices:
 
 Hypothesized Outcome: Robust security practices protect against vulnerabilities. <br>
 Implementation: Implementation of secure hosting, regular updates, and vulnerability scanning. <br>
 Result: Enhanced website security and minimized risks observed. <br>
-
-g. Performance Optimization:
+<br>
+- Performance Optimization:
 
 Hypothesized Outcome: Optimization techniques improve user experience and search rankings. <br>
 Implementation: Integration of caching mechanisms, image optimization, and CDNs. <br>
 Result: Faster load times and improved site performance observed. <br>
-
-h. Deployment and Maintenance:
+<br>
+- Deployment and Maintenance:
 
 Hypothesized Outcome: Systematic deployment and ongoing maintenance ensure website success. <br>
 Implementation: Staging site usage, CI/CD implementation, and regular maintenance workflows. <br>
 Result: Smoother deployment, consistent updates, and improved website evolution observed. <br>
+<br>
+#### Analysis:
 
-5. Analysis:
-
-The experiment results support the hypothesis that a well-structured WordPress development workflow positively influences the success of website projects.
-Effective communication, role clarity, project management, coding standards, testing, security practices, and optimization contribute to creating and maintaining exceptional websites.
-6. Conclusion:
+The experiment results support the hypothesis that a well-structured WordPress development workflow positively influences the success of website projects. <br>
+Effective communication, role clarity, project management, coding standards, testing, security practices, and optimization contribute to creating and maintaining exceptional websites.  <br>
+<br>
+#### Conclusion:
 
 A holistic approach to WordPress development workflow, integrating various components, is essential for successful website creation and sustained success. The scientific experiment validates the significance of each component in contributing to a cohesive and efficient workflow.
-7. Further Research:
+<br>
+#### Further Research:
 
 Further research could explore the specific impact of individual components on website performance, security, and user experience. Additionally, analyzing the adaptability of the workflow to different project scales and team structures could provide valuable insights.
 
 
-
-Resources used:
+## Resources used:
 1) WordPress Workflow: https://seahawkmedia.com/wordpress/wordpress-development-workflow/
 2) PHP WP-Shout: https://wpshout.com/php-for-beginners-tutorial/
 3) Experimental Learning Theory: https://www.wgu.edu/blog/experiential-learning-theory2006.html
 
 # Estimated Hours
 I spent approximately 10 hours this week on Practical 8 Tasks 
+
+
+# REFER TO NOTES 
 
 # Content Insights
 ## The hands-on practical tasks provided well-rounded insights on:
