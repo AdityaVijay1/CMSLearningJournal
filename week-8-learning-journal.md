@@ -55,12 +55,12 @@ Here is my scientific method research on the topic:
 
 
 Resources used:
-1) PHP Programming: https://www.youtube.com/watch?v=mgGAvq9hmyU&ab_channel=WebMonkey
+1) WordPress Workflow: https://seahawkmedia.com/wordpress/wordpress-development-workflow/
 2) PHP WP-Shout: https://wpshout.com/php-for-beginners-tutorial/
-3) Learning PHP for WordPress: https://wpmudev.com/blog/getting-started-with-wordpress-development/
+3) Experimental Learning Theory: https://www.wgu.edu/blog/experiential-learning-theory2006.html
 
 # Estimated Hours
-I spent approximately 10 hours this week on Practical 7 Tasks 
+I spent approximately 10 hours this week on Practical 8 Tasks 
 
 # Content Insights
 ## The hands-on practical tasks provided well-rounded insights on:
