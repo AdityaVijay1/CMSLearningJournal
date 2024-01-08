@@ -13,36 +13,46 @@ This learning journal serves as a reflective tool, documenting the journey of ac
 <br>
 # Description of the Task
 Research about different learning experiments. Use some form of the scientific method with a theory and test.
+To investigate and analyze the components of an effective WordPress development workflow and understand why it is crucial for successful website creation.
 
 <br>
 # Goal: Determine a theory you have about a learning activity and determine a test that would allow you to prove or disprove your theory.
 Enhance my understanding of WordPress development workflows by experimenting with implementing communication, project management, and development tools. Evaluate the impact on team collaboration, project efficiency, and code quality based on insights from a comprehensive article on WordPress development best practices.
 <br>
 
-# SMART Goals for PHP Programming  :
+
+# SMART Goals for Scientific Method- WordPress Workflow  :
 
 - Specific: <br>
-Learn PHP concepts, including echoing HTML, decision-making with if/else, various loops, functions with parameters, and the include statement. <br>
+Clearly define the specific aspects of the WordPress development workflow to be investigated, such as communication channels, role definition, project management, coding standards, testing, security practices, and performance optimization. <br>
 
 - Measurable: <br>
- Successfully complete each PHP task and ensure understanding through practical demonstrations. <br>
+Establish quantifiable metrics for each aspect, such as:
+a) Communication: Measure response time, message frequency, and the number of issues resolved. <br>
+b) Role Definition: Track task completion times and assess the reduction in task-related confusion. <br>
+c) Project Management: Monitor the percentage of completed tasks and milestones within set deadlines. <br>
+d) Coding Standards: Analyze codebase consistency using predefined coding standard metrics. <br>
+e) Testing and Quality Assurance: Quantify the number of identified issues before and after implementation. <br>
+f) Security Practices: Measure the frequency of security audits and the time taken to address vulnerabilities. <br>
+g) Deployment and Maintenance: Monitor the time taken for deployment and the frequency of successful updates. <br>
 
 - Achievable: <br> 
- Practice coding regularly, refer to PHP documentation, and seek clarification on challenging concepts. <br>
+ Ensure that the goals are realistic and attainable within the scope of the research. This may involve focusing on specific aspects of the WordPress development workflow or testing certain aspects in the project work for analysis. <br>
 
 - Relevant: <br>
-Apply PHP skills directly to real-world scenarios, reinforcing the importance of each demonstrated task. <br>
-Learn how to use it appropriately for the development and deployment <br>
+Align the research goals with the overall objective of understanding the impact of a well-structured WordPress development workflow on website success. Ensure that each aspect investigated is relevant to the broader context of website development. <br>
 
 - Time-bound: <br> 
-Accomplish all tasks within the allocated timeframe, focusing on steady progress and understanding. <br>
+Set specific timeframes for conducting experiments and collecting data for each aspect of the WordPress development workflow to ensure they are enough to test and come to a conclusion. <br>
 
+By incorporating these SMART goals, the research can be conducted systematically, and the results can be measured objectively, providing valuable insights into the effectiveness of each aspect of the WordPress development workflow.
 
 
 ## Learning Activities & Resources
-I dedicated time this past week to gain knowledge and skills in PHP programming that would be required for building a WordPress theme 
+I dedicated time this past week to gain knowledge and learn about WordPress Workflow, mainly through [WordPress Workflow Guide](https://seahawkmedia.com/wordpress/wordpress-development-workflow/) and the professor's advice.
 
-Engaged in hands-on PHP coding, practiced echoing HTML, implemented if/else statements, executed loops (for, while, foreach with arrays), created functions with parameters, and utilized the include statement. Leveraged in class and online PHP tutorials, official documentation, and coding exercises to reinforce learning. Actively participated in coding exercises, seeking feedback from peers and utilizing online resources to troubleshoot challenges. Regularly practiced coding tasks on a local host environment, ensuring a practical understanding of PHP concepts.
+Here is my scientific method research on the topic:
+
 
 Resources used:
 1) PHP Programming: https://www.youtube.com/watch?v=mgGAvq9hmyU&ab_channel=WebMonkey
