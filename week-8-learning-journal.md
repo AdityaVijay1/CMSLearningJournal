@@ -239,84 +239,38 @@ Enhanced employability by actively participating in a real-world WordPress devel
 <br>
 
 - **Learning Insights**: 
-Gaining proficiency in PHP tasks has offered valuable insights into server-side scripting, dynamic content generation, and modular coding. Practical applications, including dynamic HTML echoing and the creation of reusable functions, contribute to a more profound comprehension of web development. Consistent practice and exposure to diverse PHP concepts contribute to enhanced coding proficiency. Confronting challenges in syntax and debugging provides valuable problem-solving experiences. Active engagement in coding exercises and collaborative efforts with peers create a supportive learning environment. Overall, the hands-on approach to PHP programming consolidates theoretical knowledge and cultivates practical skills crucial for successful web development projects.
+Research work done about the Workflow process and the experiment carried out in a group project  provided hands-on experience with communication and project management tools, showcasing their impact on team collaboration and project efficiency. Insights from evaluating progress and receiving feedback highlighted the effectiveness of the implemented tools. The experiment reinforced the importance of adaptability, collaboration, and continuous improvement in real-world development scenarios. The practical application of tools and methodologies from the article deepened my understanding of WordPress development workflows, emphasizing their role in successful project outcomes and can also be further improved with more research and practice. This experiential learning approach contributes to a holistic skill set crucial for a career in web development.
 
 
-# Practical Tasks Images:
+# Tasks Images:
 
 The entire code consists of a combination of all the different tasks that are required to be completed, here are specific screenshots for these tasks:
 
-## 1. Echo: 
-Code:
-![image](https://github.com/AdityaVijay1/CMSWeek7/assets/84958533/c784e2e6-514c-44e2-ae46-827ec36c1b17)
+## 1. Group Resources: 
+Slack:
+![image](https://github.com/AdityaVijay1/CMSLearningJournal/assets/84958533/0986b5bd-16e8-4c94-8abe-bff81b5838d1)
 
-Output: 
+Discord:
+![image](https://github.com/AdityaVijay1/CMSLearningJournal/assets/84958533/fbb84648-a5e0-4684-8c30-55ad28d99655)
 
-![image](https://github.com/AdityaVijay1/CMSWeek7/assets/84958533/b328867d-a710-486d-aba9-e18719a38aba)
+Trello:
+![image](https://github.com/AdityaVijay1/CMSLearningJournal/assets/84958533/0be75f45-a44f-4ebb-a413-84a21553f899)
 
-
-
-
-## 2. Decisions
-Code:
-![image](https://github.com/AdityaVijay1/CMSWeek7/assets/84958533/f50bddea-9db1-4937-bd01-1db152f7a6f6)
-
-Output:
-
-![image](https://github.com/AdityaVijay1/CMSWeek7/assets/84958533/f5e7ea53-27de-4dd1-a5a5-22ac172fffb3)
+GitHub:
+![image](https://github.com/AdityaVijay1/CMSLearningJournal/assets/84958533/037d5de9-6876-4271-9efd-4fd3da2205a4)
 
 
+Amazon Web Services (AWS) Lightsail:
+![image](https://github.com/AdityaVijay1/CMSLearningJournal/assets/84958533/ec4f563f-d5ec-4ef9-866b-bf969d3bc777)
 
-## 3. Repetition 
-Code:
-![image](https://github.com/AdityaVijay1/CMSWeek7/assets/84958533/4ea650af-a82c-4949-9a92-687efa071c6a)
+Varying Vagrants Vagrant:
+![image](https://github.com/AdityaVijay1/CMSLearningJournal/assets/84958533/6a8b5234-1a0e-41ea-af7f-2e0780ad80d7)
 
-
-Output:
-
-![image](https://github.com/AdityaVijay1/CMSWeek7/assets/84958533/2ee8e0bb-7601-4d20-8c04-a40ecc5f1088)
-
-## 4. Functions
-
-Code:
-![image](https://github.com/AdityaVijay1/CMSWeek7/assets/84958533/87ad9732-f53c-4d98-bf4b-9367ca1db87e)
-![image](https://github.com/AdityaVijay1/CMSWeek7/assets/84958533/a0455041-d5e4-4784-bf53-d8f6d15f30e4)
-
-Output:
-
-![image](https://github.com/AdityaVijay1/CMSWeek7/assets/84958533/e893274b-a65f-4cbd-bd93-21cc3dcf8cfe)
+References:
+Seahawk WordPress Workflow: https://seahawkmedia.com/wordpress/wordpress-development-workflow/
 
 
 
-
-## 5. Include
-
-
-Code: 
-### Header file
-![image](https://github.com/AdityaVijay1/CMSWeek7/assets/84958533/123f18ce-7a15-49cf-85ce-c49d3001a631)
-
-
-### Footer File
-![image](https://github.com/AdityaVijay1/CMSWeek7/assets/84958533/5a6c5c87-6d35-4866-928f-a88bc4939524)
-
-### Front-Page
-![image](https://github.com/AdityaVijay1/CMSWeek7/assets/84958533/e493f8d1-17bb-4181-afd7-fb72db940ace)
-![image](https://github.com/AdityaVijay1/CMSWeek7/assets/84958533/dcb51d09-a338-4c1e-9e98-617906f9dc6f)
-
-Output:
-
-![image](https://github.com/AdityaVijay1/CMSWeek7/assets/84958533/09f91340-5936-4ff8-9f72-9612e284586b)
-
-### Single Page (Default Page for other pages)
-
-Code:
-![image](https://github.com/AdityaVijay1/CMSWeek7/assets/84958533/b19348f9-6986-4bf6-abbb-da6f57006969)
-![image](https://github.com/AdityaVijay1/CMSWeek7/assets/84958533/24684c85-fc52-47dd-b123-6c015dec67c4)
-
-Output:
-
-![image](https://github.com/AdityaVijay1/CMSWeek7/assets/84958533/05fbbc83-54d8-48f9-9df5-4414c4294fbb)
 
 
 
