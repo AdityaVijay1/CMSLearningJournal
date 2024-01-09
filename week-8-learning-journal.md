@@ -144,7 +144,7 @@ I spent approximately 10 hours this week on Practical 8 Tasks
 # REFER TO NOTES 
 
 # Content Insights
-## The hands-on practical tasks provided well-rounded insights on:
+## I had come up with multiple theories for the different aspects of a WordPress Workflow and I could test them out in the group project and here are the results:
 
 Established a foundational grasp of PHP programming, covering essential concepts like dynamic content creation with HTML echoing, implementing if/else decision structures, using loops for repetition, crafting reusable functions with parameters, and organizing code modularly through the include statement. Acknowledged the significance of maintaining proper syntax and structure in PHP for clean and efficient code. Explored PHP's adaptability in web development, understanding its capabilities in dynamic content generation and enhancing interactivity in web applications.
 
