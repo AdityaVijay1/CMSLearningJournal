@@ -72,41 +72,40 @@ A well-defined WordPress development workflow, encompassing communication, role 
 
 - Communication Channels:
 
-Hypothesized Outcome: Clear and robust communication channels enhance collaboration. <br>
+Hypothesized Theory: Clear and robust communication channels enhance collaboration. <br>
 Test/Implementation: Integration of communication tools like Slack and Trello. Implement clear communication channels, and regular team meetings within a WordPress development project. <br>
-
 Result: Improved communication and quick decision-making observed. <br>
 <br>
 - Role Definition:
 
-Hypothesized Outcome: Clearly defined roles reduce confusion and enhance efficiency. <br>
-Implementation: Established roles for leader, facilitator, developers and designers. <br>
+Hypothesized Theory: Clearly defined roles reduce confusion and enhance efficiency. <br>
+Test/Implementation: Established roles for leader, facilitator, developers and designers. <br>
 Result: Streamlined development process and increased accountability. <br>
 <br>
 - Project Management:
 
-Hypothesized Outcome: Project management tools facilitate coordination and progress tracking. <br>
-Implementation: Utilization of project management tools like Trello and GitHub. <br>
+Hypothesized Theory: Project management tools facilitate coordination and progress tracking. <br>
+Test/Implementation: Utilization of project management tools like Trello and GitHub. <br>
 Result: Improved coordination, task tracking, and milestone achievement. <br>
 <br>
 - Coding Standards:
 
-Hypothesized Outcome: Consistent coding standards lead to a maintainable codebase. <br>
-Implementation: Adherence to established WordPress coding standards. <br>
+Hypothesized Theory: Consistent coding standards lead to a maintainable codebase. <br>
+Test/Implementation: Adherence to established WordPress coding standards. <br>
 Choose a suitable local development environment, utilize version control systems, and assemble essential toolkits for streamlined development. <br>
 Result: A cohesive and comprehensible codebase observed. <br>
 <br>
 - Testing and Quality Assurance:
 
-Hypothesized Outcome: Automated testing and peer code reviews ensure reliable development. <br>
-Implementation: Integration of Varying Vagrants Vagrant for automated testing. <br>
+Hypothesized Theory: Automated testing and peer code reviews ensure reliable development. <br>
+Test/Implementation: Integration of Varying Vagrants Vagrant for automated testing. <br>
 Followed comprehensive testing guidelines, including functional, performance, security, and cross-browser testing. <br>
 Result: Early issue identification, continuous integration, and improved code quality observed. <br>
 <br>
 - Security Practices:
 
-Hypothesized Outcome: Robust security practices protect against vulnerabilities. <br>
-Implementation: Implementation of secure hosting, regular updates, and vulnerability scanning. <br>
+Hypothesized Theory: Robust security practices protect against vulnerabilities. <br>
+Test/Implementation: Implementation of secure hosting, regular updates, and vulnerability scanning. <br>
 Implement secure hosting, keep software updated, use strong authentication, conduct regular security audits, and employ automated backups.<br>
 Selected a secure hosting environment and ensured timely updates of WordPress core, themes, and plugins. <br>
 Implemented strong authentication practices and conducted regular security audits. <br>
@@ -114,15 +113,15 @@ Result: Enhanced website security and minimized risks observed. <br>
 <br>
 - Performance Optimization:
 
-Hypothesized Outcome: Optimization techniques improve user experience and search rankings. <br>
-Implementation: Integration of caching mechanisms, image optimization, and CDNs. <br>
+Hypothesized Theory: Optimization techniques improve user experience and search rankings. <br>
+Test/Implementation: Integration of caching mechanisms, image optimization, and CDNs. <br>
 Optimized images and utilized minification for CSS, JavaScript, and HTML files. <br> 
 Result: Faster load times and improved site performance observed. <br>
 <br>
 - Deployment and Maintenance:
 
-Hypothesized Outcome: Systematic deployment and ongoing maintenance ensure website success. <br>
-Implementation: Staging site usage, CI/CD implementation, and regular maintenance workflows. <br>
+Hypothesized Theory: Systematic deployment and ongoing maintenance ensure website success. <br>
+Test/Implementation: Staging site usage, CI/CD implementation, and regular maintenance workflows. <br>
 Implement best practices for organizing and managing plugins/themes, utilize version control, and manage license keys systematically. <br>
 Result: Smoother deployment, consistent updates, and improved website evolution observed. <br>
 <br>
