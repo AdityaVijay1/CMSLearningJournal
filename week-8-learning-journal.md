@@ -148,7 +148,7 @@ Further research could explore the specific impact of individual components on w
 I spent approximately 10 hours this week on Practical 8 Tasks 
 
 
-# REFER TO NOTES 
+
 
 # Content Insights
 ## I had come up with multiple theories for the different aspects of a WordPress Workflow and I could test them out in the group project and here are the results:
