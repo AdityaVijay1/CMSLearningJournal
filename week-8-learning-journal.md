@@ -165,22 +165,22 @@ Result: Improved communication, quick decision-making, and effective problem-sol
 Result: Streamlined development process, increased accountability, and efficient task execution.
 
 ### Project Management
-Result: Streamlined development process, increased accountability, and efficient task execution.
+Result: Did improve coordination and greatly aided in breaking down tasks and task management. Helped us reach our goals.
 
 ### Coding Standards:
-Result: Streamlined development process, increased accountability, and efficient task execution.
+Result: Despite the time constraint we were able to maintain appropriate coding standards.
 
 ### Testing and Quality Assurance:
-Result: Streamlined development process, increased accountability, and efficient task execution.
+Result: Utilizing different testing methods and focusing heavily on Varying Vagrants Vagrant as both a testing and production environment allowed for early issue identification, continuous integration, and improved code quality.
 
 ### Security Practices:
-Result: Streamlined development process, increased accountability, and efficient task execution.
+Result: Strongly improved website's security through the implementation of HTTPS and SSL certificates acquired through Custom Domain Registration.
 
 ### Performance Optimization:
-Result: Streamlined development process, increased accountability, and efficient task execution.
+Result: Not able to exactly determine/test the improvement in faster load times however it can be noted that we did follow through using SEO plugins in content and images to drastically improve the site's media contents and this can lead to improved site performance.
 
 ### Deployment and Maintenance:
-Result: Streamlined development process, increased accountability, and efficient task execution.
+Result: Utilizing approrpiate tools for site deployment and automation tools for backups and site security will improve the overall site.
 
 
 Established a foundational grasp of PHP programming, covering essential concepts like dynamic content creation with HTML echoing, implementing if/else decision structures, using loops for repetition, crafting reusable functions with parameters, and organizing code modularly through the include statement. Acknowledged the significance of maintaining proper syntax and structure in PHP for clean and efficient code. Explored PHP's adaptability in web development, understanding its capabilities in dynamic content generation and enhancing interactivity in web applications.
