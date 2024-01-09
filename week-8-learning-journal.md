@@ -74,33 +74,33 @@ A well-defined WordPress development workflow, encompassing communication, role 
 
 Hypothesized Theory: Clear and robust communication channels enhance collaboration. <br>
 Test/Implementation: Integration of communication tools like Slack and Trello. Implement clear communication channels, and regular team meetings within a WordPress development project. <br>
-Result: Improved communication and quick decision-making observed. <br>
+Estimated Result: Improved communication and quick decision-making observed. <br>
 <br>
 - Role Definition:
 
 Hypothesized Theory: Clearly defined roles reduce confusion and enhance efficiency. <br>
 Test/Implementation: Established roles for leader, facilitator, developers and designers. <br>
-Result: Streamlined development process and increased accountability. <br>
+Estimated Result: Streamlined development process and increased accountability. <br>
 <br>
 - Project Management:
 
 Hypothesized Theory: Project management tools facilitate coordination and progress tracking. <br>
 Test/Implementation: Utilization of project management tools like Trello and GitHub. <br>
-Result: Improved coordination, task tracking, and milestone achievement. <br>
+Estimated Result: Improved coordination, task tracking, and milestone achievement. <br>
 <br>
 - Coding Standards:
 
 Hypothesized Theory: Consistent coding standards lead to a maintainable codebase. <br>
 Test/Implementation: Adherence to established WordPress coding standards. <br>
 Choose a suitable local development environment, utilize version control systems, and assemble essential toolkits for streamlined development. <br>
-Result: A cohesive and comprehensible codebase observed. <br>
+Estimated Result: A cohesive and comprehensible codebase observed. <br>
 <br>
 - Testing and Quality Assurance:
 
 Hypothesized Theory: Automated testing and peer code reviews ensure reliable development. <br>
 Test/Implementation: Integration of Varying Vagrants Vagrant for automated testing. <br>
 Followed comprehensive testing guidelines, including functional, performance, security, and cross-browser testing. <br>
-Result: Early issue identification, continuous integration, and improved code quality observed. <br>
+Estimated Result: Early issue identification, continuous integration, and improved code quality observed. <br>
 <br>
 - Security Practices:
 
@@ -109,21 +109,21 @@ Test/Implementation: Implementation of secure hosting, regular updates, and vuln
 Implement secure hosting, keep software updated, use strong authentication, conduct regular security audits, and employ automated backups.<br>
 Selected a secure hosting environment and ensured timely updates of WordPress core, themes, and plugins. <br>
 Implemented strong authentication practices and conducted regular security audits. <br>
-Result: Enhanced website security and minimized risks observed. <br>
+Estimated Result: Enhanced website security and minimized risks observed. <br>
 <br>
 - Performance Optimization:
 
 Hypothesized Theory: Optimization techniques improve user experience and search rankings. <br>
 Test/Implementation: Integration of caching mechanisms, image optimization, and CDNs. <br>
 Optimized images and utilized minification for CSS, JavaScript, and HTML files. <br> 
-Result: Faster load times and improved site performance observed. <br>
+Estimated Result: Faster load times and improved site performance observed. <br>
 <br>
 - Deployment and Maintenance:
 
 Hypothesized Theory: Systematic deployment and ongoing maintenance ensure website success. <br>
 Test/Implementation: Staging site usage, CI/CD implementation, and regular maintenance workflows. <br>
 Implement best practices for organizing and managing plugins/themes, utilize version control, and manage license keys systematically. <br>
-Result: Smoother deployment, consistent updates, and improved website evolution observed. <br>
+Estimated Result: Smoother deployment, consistent updates, and improved website evolution observed. <br>
 <br>
 #### Analysis:
 
@@ -154,6 +154,33 @@ I spent approximately 10 hours this week on Practical 8 Tasks
 ## I had come up with multiple theories for the different aspects of a WordPress Workflow and I could test them out in the group project and here are the results:
 
 Multiple small tests were conducted across the different aspects of the WordPress workflow based along the hypothesis:
+
+The team project provided a real-world opportunity to implement and test various aspects of the WordPress development workflow. Through systematic testing and observation, I aimed to validate hypotheses related to communication, role definition, project management, coding standards, testing, security practices, and performance optimization.
+
+## Results:
+### Communication Channels:
+Result: Improved communication, quick decision-making, and effective problem-solving with quick decision-making under the time constraint
+
+### Role Definition
+Result: Streamlined development process, increased accountability, and efficient task execution.
+
+### Project Management
+Result: Streamlined development process, increased accountability, and efficient task execution.
+
+### Coding Standards:
+Result: Streamlined development process, increased accountability, and efficient task execution.
+
+### Testing and Quality Assurance:
+Result: Streamlined development process, increased accountability, and efficient task execution.
+
+### Security Practices:
+Result: Streamlined development process, increased accountability, and efficient task execution.
+
+### Performance Optimization:
+Result: Streamlined development process, increased accountability, and efficient task execution.
+
+### Deployment and Maintenance:
+Result: Streamlined development process, increased accountability, and efficient task execution.
 
 
 Established a foundational grasp of PHP programming, covering essential concepts like dynamic content creation with HTML echoing, implementing if/else decision structures, using loops for repetition, crafting reusable functions with parameters, and organizing code modularly through the include statement. Acknowledged the significance of maintaining proper syntax and structure in PHP for clean and efficient code. Explored PHP's adaptability in web development, understanding its capabilities in dynamic content generation and enhancing interactivity in web applications.
