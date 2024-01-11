@@ -247,7 +247,7 @@ Research work done about the Workflow process and the experiment carried out in 
 
 # Tasks Images:
 
-The entire code consists of a combination of all the different tasks that are required to be completed, here are specific screenshots for these tasks:
+These are images of the group resources used for the worflow process:
 
 ## 1. Group Resources: 
 Slack:
