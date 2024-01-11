@@ -24,10 +24,10 @@ Enhance my understanding of WordPress development workflows by experimenting wit
 
 # SMART Goals for Scientific Method- WordPress Workflow  :
 
-- Specific: <br>
+## Specific: <br>
 Clearly define the specific aspects of the WordPress development workflow to be investigated, such as communication channels, role definition, project management, coding standards, testing, security practices, and performance optimization. <br>
 
-- Measurable: <br>
+## Measurable: <br>
 Establish quantifiable metrics for each aspect, such as:
 a) Communication: Measure response time, message frequency, and the number of issues resolved. <br>
 b) Role Definition: Track task completion times and assess the reduction in task-related confusion. <br>
@@ -38,13 +38,13 @@ f) Security Practices: Measure the frequency of security audits and the time tak
 g) Performance Optimization: Track website load times and user experience improvements.
 h) Deployment and Maintenance: Monitor the time taken for deployment and the frequency of successful updates. <br>
 
-- Achievable: <br> 
+## Achievable: <br> 
  Ensure that the goals are realistic and attainable within the scope of the research. This may involve focusing on specific aspects of the WordPress development workflow or testing certain aspects in the project work for analysis. <br>
 
-- Relevant: <br>
+## Relevant: <br>
 Align the research goals with the overall objective of understanding the impact of a well-structured WordPress development workflow on website success. Ensure that each aspect investigated is relevant to the broader context of website development. <br>
 
-- Time-bound: <br> 
+## Time-bound: <br> 
 Set specific timeframes for conducting experiments and collecting data for each aspect of the WordPress development workflow to ensure they are enough to test and come to a conclusion. <br>
 
 By incorporating these SMART goals, the research can be conducted systematically, and the results can be measured objectively, providing valuable insights into the effectiveness of each aspect of the WordPress development workflow.
