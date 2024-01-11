@@ -16,6 +16,7 @@ Research about different learning experiments. Use some form of the scientific m
 To investigate and analyze the components of an effective WordPress development workflow and understand why it is crucial for successful website creation.
 
 <br>
+
 # Goal: Determine a theory you have about a learning activity and determine a test that would allow you to prove or disprove your theory.
 Enhance my understanding of WordPress development workflows by experimenting with implementing communication, project management, and development tools. Evaluate the impact on team collaboration, project efficiency, and code quality based on insights from a comprehensive article on WordPress development best practices.
 <br>
